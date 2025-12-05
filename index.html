@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Class 10 English Grammar Practice</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Left Pane - Navigation -->
+      <div class="left-pane" id="leftPane">
+        <button
+          class="hamburger-btn"
+          id="hamburgerBtn"
+          onclick="toggleLeftPane()"
+        >
+          ☰
+        </button>
+
+        <div class="grammar-heading">
+          <h1>English Grammar</h1>
+          <p>Class 10 CBSE Practice</p>
+        </div>
+
+        <div class="nav-section">
+          <h3>Customize Test</h3>
+          <div class="customize-form">
+            <div class="form-group">
+              <label for="questionCount">Questions:</label>
+              <select id="questionCount" class="form-select">
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="30">30</option>
+                <option value="40">40</option>
+                <option value="50">50</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Difficulty:</label>
+              <div class="radio-group">
+                <div class="radio-option">
+                  <input
+                    type="radio"
+                    id="difficulty-all"
+                    name="difficulty"
+                    value="all"
+                    checked
+                  />
+                  <label for="difficulty-all">All</label>
+                </div>
+                <div class="radio-option">
+                  <input
+                    type="radio"
+                    id="difficulty-easy"
+                    name="difficulty"
+                    value="easy"
+                  />
+                  <label for="difficulty-easy">Easy</label>
+                </div>
+                <div class="radio-option">
+                  <input
+                    type="radio"
+                    id="difficulty-medium"
+                    name="difficulty"
+                    value="medium"
+                  />
+                  <label for="difficulty-medium">Medium</label>
+                </div>
+                <div class="radio-option">
+                  <input
+                    type="radio"
+                    id="difficulty-hard"
+                    name="difficulty"
+                    value="hard"
+                  />
+                  <label for="difficulty-hard">Hard</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="topicSelect">Topic:</label>
+              <select id="topicSelect" class="form-select">
+                <option value="all">All Topics</option>
+                <!-- Topics will be populated dynamically -->
+              </select>
+            </div>
+
+            <button class="btn btn-primary" onclick="generateCustomTest()">
+              TAKE TEST
+            </button>
+          </div>
+        </div>
+
+        <div class="nav-section">
+          <h3>Practice by Topic</h3>
+          <div id="topics-container">
+            <!-- Topics will be dynamically generated here -->
+          </div>
+        </div>
+
+        <!-- Settings Section -->
+        <div class="settings-section">
+          <h3>Settings</h3>
+          <div class="settings-grid">
+            <div class="setting-item">
+              <input
+                type="checkbox"
+                id="shuffleQuestions"
+                class="setting-checkbox"
+                checked
+              />
+              <label for="shuffleQuestions" class="setting-label"
+                >Shuffle Questions</label
+              >
+            </div>
+            <div class="setting-item">
+              <input
+                type="checkbox"
+                id="shuffleOptions"
+                class="setting-checkbox"
+                checked
+              />
+              <label for="shuffleOptions" class="setting-label"
+                >Shuffle Options</label
+              >
+            </div>
+            <div class="setting-item">
+              <input
+                type="checkbox"
+                id="compactMode"
+                class="setting-checkbox"
+                checked
+              />
+              <label for="compactMode" class="setting-label"
+                >Compact Mode</label
+              >
+            </div>
+            <div class="setting-item">
+              <input
+                type="checkbox"
+                id="showExplanations"
+                class="setting-checkbox"
+                checked
+              />
+              <label for="showExplanations" class="setting-label"
+                >Show Explanations</label
+              >
+            </div>
+            <div class="setting-item">
+              <input type="checkbox" id="autoSubmit" class="setting-checkbox" />
+              <label for="autoSubmit" class="setting-label">Auto Submit</label>
+            </div>
+            <div class="setting-item">
+              <input
+                type="checkbox"
+                id="autoCollapse"
+                class="setting-checkbox"
+              />
+              <label for="autoCollapse" class="setting-label"
+                >Auto Collapse on Mobile</label
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Pane - Content -->
+      <div class="right-pane" id="rightPane">
+        <div class="pane-header">
+          <div class="header-content">
+            <h2>Full Grammar Test</h2>
+            <p>10 Questions | Mixed Topics | Based on CBSE Pattern</p>
+          </div>
+          <div class="header-actions">
+            <button class="btn-link" onclick="showTestHistory()">
+              Test History
+            </button>
+            <button
+              class="btn-link"
+              onclick="printContent()"
+              id="printBtn"
+              style="display: none"
+            >
+              Print
+            </button>
+          </div>
+        </div>
+
+        <div class="loading" id="loadingMessage">Loading questions...</div>
+
+        <div class="test-container" id="testContainer">
+          <!-- Content will be loaded here by JavaScript -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Test History Modal -->
+    <div class="modal" id="historyModal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>Test History</h2>
+          <button class="close-btn" onclick="closeHistoryModal()">×</button>
+        </div>
+        <div id="historyContent">
+          <!-- History content will be loaded here -->
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
