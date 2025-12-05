@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "question": "Read the conversation:\nRahul: 'I am going to the market.'\nMother: 'Bring some milk.'\nRahul told his mother that ______ to the market.",
+    "options": [
+      "he is going",
+      "he was going",
+      "I am going",
+      "I was going"
+    ],
+    "answer": "he was going",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Present Continuous ('am going') changes to Past Continuous ('was going'). The pronoun 'I' changes to 'he'."
+  },
+  {
+    "id": 2,
+    "question": "Read the conversation:\nTeacher: 'The sun rises in the east.'\nStudent: 'I know.'\nThe teacher explained that the sun ______ in the east.",
+    "options": [
+      "rose",
+      "rises",
+      "had risen",
+      "was rising"
+    ],
+    "answer": "rises",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Universal truths do not change tense in reported speech, even if the reporting verb is in the past."
+  },
+  {
+    "id": 3,
+    "question": "Read the conversation:\nAlice: 'I have finished my homework.'\nBob: 'Good job.'\nAlice told Bob that she ______ her homework.",
+    "options": [
+      "has finished",
+      "had finished",
+      "finished",
+      "was finishing"
+    ],
+    "answer": "had finished",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Present Perfect ('have finished') changes to Past Perfect ('had finished')."
+  },
+  {
+    "id": 4,
+    "question": "Read the conversation:\nDoctor: 'You need to take rest.'\nPatient: 'Okay.'\nThe doctor advised the patient that he ______ to take rest.",
+    "options": [
+      "needs",
+      "needed",
+      "will need",
+      "has needed"
+    ],
+    "answer": "needed",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Simple Present ('need') changes to Simple Past ('needed')."
+  },
+  {
+    "id": 5,
+    "question": "Read the conversation:\nTom: 'I play football every Sunday.'\nJerry: 'That is great.'\nTom said that he ______ football every Sunday.",
+    "options": [
+      "play",
+      "played",
+      "plays",
+      "had played"
+    ],
+    "answer": "played",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Routine actions in Simple Present ('play') backshift to Simple Past ('played') when reported."
+  },
+  {
+    "id": 6,
+    "question": "Read the conversation:\nSarah: 'I will help you tomorrow.'\nJohn: 'Thanks.'\nSarah promised John that she ______ him the next day.",
+    "options": [
+      "will help",
+      "would help",
+      "can help",
+      "should help"
+    ],
+    "answer": "would help",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Future 'will' changes to 'would' in reported speech."
+  },
+  {
+    "id": 7,
+    "question": "Read the conversation:\nFather: 'I am reading the newspaper.'\nSon: 'Can I have the sports section?'\nFather said that he ______ the newspaper.",
+    "options": [
+      "is reading",
+      "was reading",
+      "read",
+      "had read"
+    ],
+    "answer": "was reading",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Present Continuous ('am reading') changes to Past Continuous ('was reading')."
+  },
+  {
+    "id": 8,
+    "question": "Read the conversation:\nMaria: 'I saw the movie yesterday.'\nAnna: 'Was it good?'\nMaria mentioned that she ______ the movie the previous day.",
+    "options": [
+      "saw",
+      "has seen",
+      "had seen",
+      "was seeing"
+    ],
+    "answer": "had seen",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Simple Past ('saw') changes to Past Perfect ('had seen') to distinguish the timeline."
+  },
+  {
+    "id": 9,
+    "question": "Read the conversation:\nTeacher: 'Water boils at 100 degrees.'\nStudent: 'Yes, sir.'\nThe teacher stated that water ______ at 100 degrees.",
+    "options": [
+      "boiled",
+      "boils",
+      "had boiled",
+      "is boiling"
+    ],
+    "answer": "boils",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Scientific facts remain in the Present Tense."
+  },
+  {
+    "id": 10,
+    "question": "Read the conversation:\nBoy: 'I can run very fast.'\nCoach: 'Show me.'\nThe boy claimed that he ______ very fast.",
+    "options": [
+      "can run",
+      "could run",
+      "runs",
+      "ran"
+    ],
+    "answer": "could run",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Modal 'can' changes to 'could'."
+  },
+  {
+    "id": 11,
+    "question": "Read the conversation:\nGirl: 'I may go to the party.'\nFriend: 'I will join you.'\nThe girl said that she ______ to the party.",
+    "options": [
+      "may go",
+      "might go",
+      "will go",
+      "went"
+    ],
+    "answer": "might go",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Modal 'may' changes to 'might'."
+  },
+  {
+    "id": 12,
+    "question": "Read the conversation:\nBoss: 'You must finish the report.'\nEmployee: 'I will do it.'\nThe boss told the employee that he ______ finish the report.",
+    "options": [
+      "must",
+      "had to",
+      "has to",
+      "should"
+    ],
+    "answer": "had to",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "'Must' indicating obligation usually changes to 'had to' in the past."
+  },
+  {
+    "id": 13,
+    "question": "Read the conversation:\nTourist: 'I love this city.'\nGuide: 'It is beautiful.'\nThe tourist exclaimed that he ______ that city.",
+    "options": [
+      "loves",
+      "loved",
+      "had loved",
+      "was loving"
+    ],
+    "answer": "loved",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Simple Present ('love') becomes Simple Past ('loved'). 'This' becomes 'that'."
+  },
+  {
+    "id": 14,
+    "question": "Read the conversation:\nSam: 'I have been waiting for an hour.'\nPaul: 'Sorry for the delay.'\nSam complained that he ______ for an hour.",
+    "options": [
+      "has been waiting",
+      "had been waiting",
+      "was waiting",
+      "waited"
+    ],
+    "answer": "had been waiting",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Present Perfect Continuous ('have been waiting') changes to Past Perfect Continuous ('had been waiting')."
+  },
+  {
+    "id": 15,
+    "question": "Read the conversation:\nMother: 'I cooked dinner.'\nSon: 'I am not hungry.'\nThe mother said that she ______ dinner.",
+    "options": [
+      "cooked",
+      "has cooked",
+      "had cooked",
+      "cooks"
+    ],
+    "answer": "had cooked",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Simple Past ('cooked') changes to Past Perfect ('had cooked')."
+  },
+  {
+    "id": 16,
+    "question": "Read the conversation:\nTeacher: 'Honesty is the best policy.'\nStudent: 'My father says the same.'\nThe teacher taught that honesty ______ the best policy.",
+    "options": [
+      "was",
+      "is",
+      "has been",
+      "had been"
+    ],
+    "answer": "is",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Proverbs and universal truths remain in the present tense."
+  },
+  {
+    "id": 17,
+    "question": "Read the conversation:\nJohn: 'I do not like coffee.'\nMary: 'I prefer tea too.'\nJohn said that he ______ coffee.",
+    "options": [
+      "does not like",
+      "did not like",
+      "had not liked",
+      "do not like"
+    ],
+    "answer": "did not like",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Negative Simple Present ('do not like') changes to Negative Simple Past ('did not like')."
+  },
+  {
+    "id": 18,
+    "question": "Read the conversation:\nTina: 'I was sleeping when you called.'\nRaj: 'Sorry.'\nTina said that she ______ when Raj called.",
+    "options": [
+      "was sleeping",
+      "had been sleeping",
+      "is sleeping",
+      "slept"
+    ],
+    "answer": "had been sleeping",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Past Continuous ('was sleeping') changes to Past Perfect Continuous ('had been sleeping')."
+  },
+  {
+    "id": 19,
+    "question": "Read the conversation:\nPrincipal: 'The school will remain closed tomorrow.'\nStudent: 'Why?'\nThe principal announced that the school ______ closed the next day.",
+    "options": [
+      "will remain",
+      "would remain",
+      "remains",
+      "remained"
+    ],
+    "answer": "would remain",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Will' changes to 'would'; 'tomorrow' changes to 'the next day'."
+  },
+  {
+    "id": 20,
+    "question": "Read the conversation:\nDriver: 'I cannot start the car.'\nPassenger: 'Check the battery.'\nThe driver said that he ______ the car.",
+    "options": [
+      "cannot start",
+      "could not start",
+      "can not start",
+      "could not started"
+    ],
+    "answer": "could not start",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "'Cannot' changes to 'could not'."
+  },
+  {
+    "id": 21,
+    "question": "Read the conversation:\nHe said, 'I have bought a new phone.'\nHe said that he ______ a new phone.",
+    "options": [
+      "bought",
+      "has bought",
+      "had bought",
+      "was buying"
+    ],
+    "answer": "had bought",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Present Perfect ('have bought') becomes Past Perfect ('had bought')."
+  },
+  {
+    "id": 22,
+    "question": "Read the conversation:\nShe said, 'It is raining heavily.'\nShe said that it ______ heavily.",
+    "options": [
+      "is raining",
+      "was raining",
+      "had rained",
+      "rained"
+    ],
+    "answer": "was raining",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Present Continuous becomes Past Continuous."
+  },
+  {
+    "id": 23,
+    "question": "Read the conversation:\nRohan: 'I want to be a pilot.'\nTeacher: 'Work hard.'\nRohan said that he ______ to be a pilot.",
+    "options": [
+      "wants",
+      "wanted",
+      "had wanted",
+      "will want"
+    ],
+    "answer": "wanted",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Simple Present ('want') becomes Simple Past ('wanted')."
+  },
+  {
+    "id": 24,
+    "question": "Read the conversation:\nShe said, 'My parents are arriving today.'\nShe said that her parents ______ that day.",
+    "options": [
+      "are arriving",
+      "were arriving",
+      "had arrived",
+      "arrived"
+    ],
+    "answer": "were arriving",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Are arriving' becomes 'were arriving'; 'today' becomes 'that day'."
+  },
+  {
+    "id": 25,
+    "question": "Read the conversation:\nGrandmother: 'I lived in this village.'\nGrandson: 'Really?'\nThe grandmother said that she ______ in that village.",
+    "options": [
+      "lived",
+      "had lived",
+      "lives",
+      "has lived"
+    ],
+    "answer": "had lived",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Simple Past ('lived') changes to Past Perfect ('had lived')."
+  },
+  {
+    "id": 26,
+    "question": "Read the conversation:\nTeacher: 'You should study harder.'\nStudent: 'I will.'\nThe teacher told the student that he ______ study harder.",
+    "options": [
+      "should",
+      "shall",
+      "will",
+      "must"
+    ],
+    "answer": "should",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Should' is a modal that does not change form in reported speech."
+  },
+  {
+    "id": 27,
+    "question": "Read the conversation:\nBoy: 'I have lost my pen.'\nGirl: 'Take mine.'\nThe boy said that he ______ his pen.",
+    "options": [
+      "lost",
+      "has lost",
+      "had lost",
+      "was losing"
+    ],
+    "answer": "had lost",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Present Perfect ('have lost') -> Past Perfect ('had lost')."
+  },
+  {
+    "id": 28,
+    "question": "Read the conversation:\nPolitician: 'We will solve the problem soon.'\nReporter: 'How?'\nThe politician claimed that they ______ the problem soon.",
+    "options": [
+      "will solve",
+      "would solve",
+      "solved",
+      "solve"
+    ],
+    "answer": "would solve",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Will' backshifts to 'would'."
+  },
+  {
+    "id": 29,
+    "question": "Read the conversation:\nShe said, 'I am not feeling well.'\nShe complained that she ______ well.",
+    "options": [
+      "is not feeling",
+      "was not feeling",
+      "had not felt",
+      "did not feel"
+    ],
+    "answer": "was not feeling",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Present Continuous Negative ('am not feeling') -> Past Continuous Negative ('was not feeling')."
+  },
+  {
+    "id": 30,
+    "question": "Read the conversation:\nTom: 'I prefer coffee to tea.'\nJerry: 'Me too.'\nTom stated that he ______ coffee to tea.",
+    "options": [
+      "prefers",
+      "preferred",
+      "had preferred",
+      "prefer"
+    ],
+    "answer": "preferred",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Simple Present ('prefer') -> Simple Past ('preferred')."
+  },
+  {
+    "id": 31,
+    "question": "Read the conversation:\nTeacher: 'The earth revolves around the sun.'\nThe teacher taught that the earth ______ around the sun.",
+    "options": [
+      "revolved",
+      "revolves",
+      "was revolving",
+      "had revolved"
+    ],
+    "answer": "revolves",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Universal truth -> No tense change."
+  },
+  {
+    "id": 32,
+    "question": "Read the conversation:\nHe said, 'I used to swim here.'\nHe said that he ______ swim there.",
+    "options": [
+      "used to",
+      "had used to",
+      "was used to",
+      "uses to"
+    ],
+    "answer": "used to",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "'Used to' is a past habit marker that generally does not change in reported speech."
+  },
+  {
+    "id": 33,
+    "question": "Read the conversation:\nShe said, 'I was working late.'\nShe said that she ______ late.",
+    "options": [
+      "was working",
+      "had been working",
+      "is working",
+      "worked"
+    ],
+    "answer": "had been working",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Past Continuous ('was working') often changes to Past Perfect Continuous ('had been working')."
+  },
+  {
+    "id": 34,
+    "question": "Read the conversation:\nMan: 'I have never seen a ghost.'\nWoman: 'Lucky you.'\nThe man declared that he ______ a ghost.",
+    "options": [
+      "has never seen",
+      "had never seen",
+      "never saw",
+      "was never seeing"
+    ],
+    "answer": "had never seen",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Present Perfect ('have never seen') -> Past Perfect ('had never seen')."
+  },
+  {
+    "id": 35,
+    "question": "Read the conversation:\nShe said, 'It may rain tonight.'\nShe guessed that it ______ that night.",
+    "options": [
+      "may rain",
+      "might rain",
+      "will rain",
+      "rained"
+    ],
+    "answer": "might rain",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Modal 'may' -> 'might'; 'tonight' -> 'that night'."
+  },
+  {
+    "id": 36,
+    "question": "Read the conversation:\nTeacher: 'Have you done your homework?'\nStudent: 'Yes, ma'am.'\nThe teacher asked the student ______ his homework.",
+    "options": [
+      "if he has done",
+      "if he had done",
+      "had he done",
+      "whether has he done"
+    ],
+    "answer": "if he had done",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Yes/No question uses 'if'. Present Perfect ('have done') changes to Past Perfect ('had done')."
+  },
+  {
+    "id": 37,
+    "question": "Read the conversation:\nStranger: 'Where is the post office?'\nLocal: 'It is near the park.'\nThe stranger asked the local ______.",
+    "options": [
+      "where is the post office",
+      "where the post office was",
+      "where was the post office",
+      "where the post office is"
+    ],
+    "answer": "where the post office was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Wh- questions retain the question word ('where'). The syntax changes from 'is the post office' (V+S) to 'the post office was' (S+V)."
+  },
+  {
+    "id": 38,
+    "question": "Read the conversation:\nFather: 'Why are you crying?'\nChild: 'I fell down.'\nThe father asked the child ______.",
+    "options": [
+      "why are you crying",
+      "why was he crying",
+      "why he was crying",
+      "why is he crying"
+    ],
+    "answer": "why he was crying",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Pronoun 'you' becomes 'he'. Syntax changes from 'are you' to 'he was'."
+  },
+  {
+    "id": 39,
+    "question": "Read the conversation:\nDoctor: 'Do you exercise daily?'\nPatient: 'Sometimes.'\nThe doctor asked the patient ______ daily.",
+    "options": [
+      "if he exercised",
+      "if he exercises",
+      "that he exercised",
+      "whether does he exercise"
+    ],
+    "answer": "if he exercised",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Questions starting with 'Do' drop the auxiliary verb and change the main verb to Simple Past ('exercise' -> 'exercised')."
+  },
+  {
+    "id": 40,
+    "question": "Read the conversation:\nShe said to me, 'Can you help me?'\nShe asked me ______ her.",
+    "options": [
+      "if I can help",
+      "if I could help",
+      "that I could help",
+      "whether can I help"
+    ],
+    "answer": "if I could help",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Modal 'Can' changes to 'could'. 'If' introduces the clause."
+  },
+  {
+    "id": 41,
+    "question": "Read the conversation:\nTom: 'When will the train arrive?'\nClerk: 'In ten minutes.'\nTom asked the clerk ______.",
+    "options": [
+      "when the train will arrive",
+      "when would the train arrive",
+      "when the train would arrive",
+      "when will arrive the train"
+    ],
+    "answer": "when the train would arrive",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "'Will' changes to 'would'. Order changes from 'will the train' to 'the train would'."
+  },
+  {
+    "id": 42,
+    "question": "Read the conversation:\nMother: 'Did you lock the door?'\nSon: 'I forgot.'\nThe mother asked her son ______ the door.",
+    "options": [
+      "if he locked",
+      "if he has locked",
+      "if he had locked",
+      "whether did he lock"
+    ],
+    "answer": "if he had locked",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "'Did' indicates Simple Past, which backshifts to Past Perfect ('had locked')."
+  },
+  {
+    "id": 43,
+    "question": "Read the conversation:\nPoliceman: 'What is your name?'\nBoy: 'My name is Ali.'\nThe policeman asked the boy ______.",
+    "options": [
+      "what is his name",
+      "what his name was",
+      "what was his name",
+      "that what his name was"
+    ],
+    "answer": "what his name was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Subject 'your name' becomes 'his name'. Verb 'is' becomes 'was' and moves to the end."
+  },
+  {
+    "id": 44,
+    "question": "Read the conversation:\nShe said, 'Are you happy?'\nShe asked me ______ happy.",
+    "options": [
+      "if I am",
+      "if I was",
+      "whether was I",
+      "if was I"
+    ],
+    "answer": "if I was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "'Are you' changes to 'I was'."
+  },
+  {
+    "id": 45,
+    "question": "Read the conversation:\nHost: 'Will you have tea or coffee?'\nGuest: 'Coffee, please.'\nThe host asked the guest ______ tea or coffee.",
+    "options": [
+      "if he will have",
+      "whether he would have",
+      "that he would have",
+      "whether would he have"
+    ],
+    "answer": "whether he would have",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Whether' is often preferred over 'if' when offering a choice (tea or coffee). 'Will' becomes 'would'."
+  },
+  {
+    "id": 46,
+    "question": "Read the conversation:\nTeacher: 'Who broke this window?'\nStudent: 'Not me.'\nThe teacher demanded to know ______ that window.",
+    "options": [
+      "who broke",
+      "who had broken",
+      "who has broken",
+      "who did break"
+    ],
+    "answer": "who had broken",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Simple Past ('broke') backshifts to Past Perfect ('had broken')."
+  },
+  {
+    "id": 47,
+    "question": "Read the conversation:\nAlice: 'How are you feeling today?'\nBob: 'Better.'\nAlice asked Bob ______ that day.",
+    "options": [
+      "how he was feeling",
+      "how was he feeling",
+      "how is he feeling",
+      "how he is feeling"
+    ],
+    "answer": "how he was feeling",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'How' stays. 'Are you' changes to 'he was'. 'Today' becomes 'that day'."
+  },
+  {
+    "id": 48,
+    "question": "Read the conversation:\nHe said to her, 'Do you know me?'\nHe asked her ______ him.",
+    "options": [
+      "if she knew",
+      "if she knows",
+      "whether does she know",
+      "that she knew"
+    ],
+    "answer": "if she knew",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Simple Present 'Do...know' becomes Simple Past 'knew'."
+  },
+  {
+    "id": 49,
+    "question": "Read the conversation:\nShopkeeper: 'Which book do you want?'\nCustomer: 'The red one.'\nThe shopkeeper asked the customer ______.",
+    "options": [
+      "which book did he want",
+      "which book he wanted",
+      "which book does he want",
+      "which book he wants"
+    ],
+    "answer": "which book he wanted",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Which book' is the subject phrase. 'Do you want' changes to statement form 'he wanted'."
+  },
+  {
+    "id": 50,
+    "question": "Read the conversation:\nShe said, 'May I come in?'\nShe asked ______ come in.",
+    "options": [
+      "if she may",
+      "if she might",
+      "whether she can",
+      "that she might"
+    ],
+    "answer": "if she might",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'May' changes to 'might'. 'If' introduces the permission request."
+  },
+  {
+    "id": 51,
+    "question": "Read the conversation:\nMan: 'Is this seat taken?'\nWoman: 'No.'\nThe man asked ______ taken.",
+    "options": [
+      "if this seat was",
+      "if that seat was",
+      "whether that seat is",
+      "if was that seat"
+    ],
+    "answer": "if that seat was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'This' changes to 'that'. 'Is' changes to 'was'."
+  },
+  {
+    "id": 52,
+    "question": "Read the conversation:\nFather: 'Have you seen my glasses?'\nSon: 'No.'\nThe father asked his son ______ his glasses.",
+    "options": [
+      "if he has seen",
+      "if he had seen",
+      "had he seen",
+      "whether he saw"
+    ],
+    "answer": "if he had seen",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Present Perfect 'Have...seen' -> Past Perfect 'had seen'."
+  },
+  {
+    "id": 53,
+    "question": "Read the conversation:\nTeacher: 'Why were you absent yesterday?'\nStudent: 'I was sick.'\nThe teacher asked the student ______ absent the previous day.",
+    "options": [
+      "why he was",
+      "why was he",
+      "why he had been",
+      "why had he been"
+    ],
+    "answer": "why he had been",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Simple Past 'were' usually backshifts to Past Perfect 'had been' in reported speech."
+  },
+  {
+    "id": 54,
+    "question": "Read the conversation:\nFriend: 'Are you leaving now?'\nMe: 'Yes.'\nMy friend asked me ______ then.",
+    "options": [
+      "if I was leaving",
+      "if I am leaving",
+      "whether was I leaving",
+      "if I were leaving"
+    ],
+    "answer": "if I was leaving",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "'Are you leaving' -> 'I was leaving'. 'Now' -> 'then'."
+  },
+  {
+    "id": 55,
+    "question": "Read the conversation:\nGuide: 'Do you speak English?'\nTourist: 'A little.'\nThe guide asked the tourist ______ English.",
+    "options": [
+      "if he spoke",
+      "if he speaks",
+      "did he speak",
+      "whether he speak"
+    ],
+    "answer": "if he spoke",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Do you speak' -> 'he spoke' (Simple Past)."
+  },
+  {
+    "id": 56,
+    "question": "Read the conversation:\nMother: 'What are you cooking?'\nDaughter: 'Pasta.'\nThe mother asked her daughter ______.",
+    "options": [
+      "what she was cooking",
+      "what was she cooking",
+      "what is she cooking",
+      "what she cooked"
+    ],
+    "answer": "what she was cooking",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Statement word order: 'she was cooking' (S+V)."
+  },
+  {
+    "id": 57,
+    "question": "Read the conversation:\nInterviewer: 'How old are you?'\nCandidate: 'Twenty.'\nThe interviewer asked the candidate ______.",
+    "options": [
+      "how old was he",
+      "how old he was",
+      "how old is he",
+      "that how old he was"
+    ],
+    "answer": "how old he was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'How old' is the question phrase. 'Are you' becomes 'he was'."
+  },
+  {
+    "id": 58,
+    "question": "Read the conversation:\nShe said, 'Did you enjoy the party?'\nShe asked me ______ the party.",
+    "options": [
+      "if I enjoyed",
+      "if I had enjoyed",
+      "whether did I enjoy",
+      "that if I enjoyed"
+    ],
+    "answer": "if I had enjoyed",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Did...enjoy' (Past) -> 'had enjoyed' (Past Perfect)."
+  },
+  {
+    "id": 59,
+    "question": "Read the conversation:\nTom: 'Must I go now?'\nJerry: 'Yes.'\nTom asked if he ______ then.",
+    "options": [
+      "must go",
+      "had to go",
+      "should go",
+      "has to go"
+    ],
+    "answer": "had to go",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "'Must' in questions about obligation changes to 'had to' in the past."
+  },
+  {
+    "id": 60,
+    "question": "Read the conversation:\nPassenger: 'Is the flight on time?'\nStaff: 'Yes.'\nThe passenger enquired ______ on time.",
+    "options": [
+      "if the flight was",
+      "if the flight is",
+      "whether was the flight",
+      "that the flight was"
+    ],
+    "answer": "if the flight was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "'Is' changes to 'was' and moves after the subject 'the flight'."
+  },
+  {
+    "id": 61,
+    "question": "Read the conversation:\nBoy: 'Where have you been?'\nGirl: 'At home.'\nThe boy asked the girl ______.",
+    "options": [
+      "where she has been",
+      "where had she been",
+      "where she had been",
+      "where was she"
+    ],
+    "answer": "where she had been",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Have you been' -> 'she had been'."
+  },
+  {
+    "id": 62,
+    "question": "Read the conversation:\nJudge: 'Have you anything to say?'\nPrisoner: 'No.'\nThe judge asked the prisoner ______ anything to say.",
+    "options": [
+      "if he has",
+      "if he had",
+      "that he had",
+      "whether has he"
+    ],
+    "answer": "if he had",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Have you' acts as a main verb here (possession), changing to Simple Past 'had'."
+  },
+  {
+    "id": 63,
+    "question": "Read the conversation:\nShe said, 'Whose bag is this?'\nShe asked ______.",
+    "options": [
+      "whose bag that was",
+      "whose bag was that",
+      "whose bag is that",
+      "whose bag that is"
+    ],
+    "answer": "whose bag that was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Whose bag' is the subject. 'Is this' -> 'that was'."
+  },
+  {
+    "id": 64,
+    "question": "Read the conversation:\nTeacher: 'Don't you know the answer?'\nStudent: 'No.'\nThe teacher asked the student ______ the answer.",
+    "options": [
+      "if he didn't know",
+      "if he doesn't know",
+      "whether he knows",
+      "that he didn't know"
+    ],
+    "answer": "if he didn't know",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Negative question 'Don't you know' -> 'if he didn't know'."
+  },
+  {
+    "id": 65,
+    "question": "Read the conversation:\nTourist: 'How far is the station?'\nLocal: '1 km.'\nThe tourist asked ______.",
+    "options": [
+      "how far the station was",
+      "how far was the station",
+      "how far is the station",
+      "that how far the station was"
+    ],
+    "answer": "how far the station was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "S+V order: 'the station was'."
+  },
+  {
+    "id": 66,
+    "question": "Read the conversation:\nHe said, 'Shall I open the window?'\nHe asked ______ open the window.",
+    "options": [
+      "if he shall",
+      "if he should",
+      "whether he will",
+      "that he should"
+    ],
+    "answer": "if he should",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "'Shall I' (asking for advice/suggestion) changes to 'if he should'."
+  },
+  {
+    "id": 67,
+    "question": "Read the conversation:\nFriend: 'What were you doing there?'\nMe: 'Waiting.'\nMy friend asked me ______ there.",
+    "options": [
+      "what I was doing",
+      "what was I doing",
+      "what I had been doing",
+      "what had I been doing"
+    ],
+    "answer": "what I had been doing",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Past Continuous 'were you doing' changes to Past Perfect Continuous 'I had been doing'."
+  },
+  {
+    "id": 68,
+    "question": "Read the conversation:\nGirl: 'Will you help me?'\nBoy: 'Yes.'\nThe girl asked the boy ______ help her.",
+    "options": [
+      "if he will",
+      "if he would",
+      "whether he can",
+      "that he would"
+    ],
+    "answer": "if he would",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Will you' -> 'if he would'."
+  },
+  {
+    "id": 69,
+    "question": "Read the conversation:\nMother: 'Why have you not eaten?'\nChild: 'Not hungry.'\nThe mother asked the child ______ eaten.",
+    "options": [
+      "why he has not",
+      "why he had not",
+      "why had he not",
+      "why has he not"
+    ],
+    "answer": "why he had not",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Have you not' -> 'he had not'."
+  },
+  {
+    "id": 70,
+    "question": "Read the conversation:\nTeacher: 'Can you solve this?'\nStudent: 'I will try.'\nThe teacher asked ______ solve that.",
+    "options": [
+      "if he can",
+      "if he could",
+      "whether could he",
+      "that if he could"
+    ],
+    "answer": "if he could",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Can you' -> 'if he could'. 'This' -> 'that'."
+  },
+  {
+    "id": 71,
+    "question": "Read the conversation:\nTeacher: 'Sit down.'\nStudent: 'Yes, sir.'\nThe teacher ordered the student ______ down.",
+    "options": [
+      "to sit",
+      "that he sat",
+      "sat",
+      "to sitting"
+    ],
+    "answer": "to sit",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Imperative sentences (commands) use the infinitive 'to + verb' structure."
+  },
+  {
+    "id": 72,
+    "question": "Read the conversation:\nDoctor: 'Do not smoke.'\nPatient: 'Okay.'\nThe doctor advised the patient ______ smoke.",
+    "options": [
+      "not to",
+      "to not",
+      "that he did not",
+      "do not"
+    ],
+    "answer": "not to",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Negative imperatives use 'not to + verb'. 'Not to smoke' is the standard form."
+  },
+  {
+    "id": 73,
+    "question": "Read the conversation:\nBeggar: 'Please give me some food.'\nMan: 'Here.'\nThe beggar requested the man ______ him some food.",
+    "options": [
+      "to give",
+      "that he give",
+      "please give",
+      "gave"
+    ],
+    "answer": "to give",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Please' indicates a request. The structure becomes 'requested + object + to + verb'."
+  },
+  {
+    "id": 74,
+    "question": "Read the conversation:\nFather: 'Don't go near the fire.'\nChild: 'I won't.'\nThe father warned the child ______ near the fire.",
+    "options": [
+      "not to go",
+      "to not go",
+      "that he not go",
+      "don't go"
+    ],
+    "answer": "not to go",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Warning + not to + verb."
+  },
+  {
+    "id": 75,
+    "question": "Read the conversation:\nCaptain: 'Attack the enemy!'\nSoldiers: 'Yes, sir!'\nThe captain commanded the soldiers ______ the enemy.",
+    "options": [
+      "to attack",
+      "that they attack",
+      "attacked",
+      "to be attacking"
+    ],
+    "answer": "to attack",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Command -> to + infinitive."
+  },
+  {
+    "id": 76,
+    "question": "Read the conversation:\nShe said, 'Let us go for a walk.'\nShe suggested that they ______ for a walk.",
+    "options": [
+      "should go",
+      "will go",
+      "went",
+      "go"
+    ],
+    "answer": "should go",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Sentences starting with 'Let us' (suggestion) are reported using 'suggested that... should'."
+  },
+  {
+    "id": 77,
+    "question": "Read the conversation:\nHe said, 'Alas! I am ruined.'\nHe exclaimed with sorrow that he ______ ruined.",
+    "options": [
+      "was",
+      "is",
+      "has been",
+      "had been"
+    ],
+    "answer": "was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Alas' indicates sorrow. 'I am' changes to 'he was'."
+  },
+  {
+    "id": 78,
+    "question": "Read the conversation:\nPlayer: 'Hurrah! We have won the match.'\nThe player exclaimed with joy that they ______ the match.",
+    "options": [
+      "had won",
+      "have won",
+      "won",
+      "win"
+    ],
+    "answer": "had won",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Hurrah' indicates joy. Present Perfect 'have won' changes to Past Perfect 'had won'."
+  },
+  {
+    "id": 79,
+    "question": "Read the conversation:\nTeacher: 'Be quiet.'\nStudents: '...'\nThe teacher ordered the students ______ quiet.",
+    "options": [
+      "to be",
+      "that they be",
+      "were",
+      "to being"
+    ],
+    "answer": "to be",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Imperative 'Be' -> 'to be'."
+  },
+  {
+    "id": 80,
+    "question": "Read the conversation:\nMother: 'Don't waste your time.'\nSon: 'I won't.'\nThe mother advised her son ______ his time.",
+    "options": [
+      "not to waste",
+      "to not waste",
+      "that he not waste",
+      "don't waste"
+    ],
+    "answer": "not to waste",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Advice not to do something -> 'not to waste'."
+  },
+  {
+    "id": 81,
+    "question": "Read the conversation:\nShe said to me, 'Kindly grant me leave.'\nShe requested me ______ her leave.",
+    "options": [
+      "to grant",
+      "that I grant",
+      "grant",
+      "granting"
+    ],
+    "answer": "to grant",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Kindly' is replaced by the reporting verb 'requested'. 'Grant' becomes 'to grant'."
+  },
+  {
+    "id": 82,
+    "question": "Read the conversation:\nHe said, 'What a beautiful flower!'\nHe exclaimed that it ______ a very beautiful flower.",
+    "options": [
+      "was",
+      "is",
+      "has been",
+      "had been"
+    ],
+    "answer": "was",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Exclamations turn into statements. 'What a...' usually involves inserting 'very'. Tense backshifts to 'was'."
+  },
+  {
+    "id": 83,
+    "question": "Read the conversation:\nHost: 'Please be seated.'\nGuests: 'Thank you.'\nThe host requested the guests ______ seated.",
+    "options": [
+      "to be",
+      "that they be",
+      "were",
+      "be"
+    ],
+    "answer": "to be",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "'Please' -> 'requested'. 'Be' -> 'to be'."
+  },
+  {
+    "id": 84,
+    "question": "Read the conversation:\nTeacher: 'Do not copy others.'\nThe teacher forbade the students ______ others.",
+    "options": [
+      "to copy",
+      "not to copy",
+      "from copying",
+      "to not copy"
+    ],
+    "answer": "to copy",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Tricky Rule: 'Forbade' is already negative. Using 'not' again is incorrect. Correct form is 'forbade... to copy'."
+  },
+  {
+    "id": 85,
+    "question": "Read the conversation:\nOfficer: 'Fire!'\nSoldiers: '...'\nThe officer ordered the soldiers ______.",
+    "options": [
+      "to fire",
+      "fire",
+      "that they fire",
+      "firing"
+    ],
+    "answer": "to fire",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Command -> 'to fire'."
+  },
+  {
+    "id": 86,
+    "question": "Read the conversation:\nShe said, 'Bravo! You have done well.'\nShe applauded him, saying that he ______ well.",
+    "options": [
+      "had done",
+      "has done",
+      "did",
+      "was doing"
+    ],
+    "answer": "had done",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "'Bravo' changes to 'applauded'. 'Have done' -> 'had done'."
+  },
+  {
+    "id": 87,
+    "question": "Read the conversation:\nFriend: 'Let's go to the cinema.'\nMe: 'Good idea.'\nMy friend proposed that we ______ to the cinema.",
+    "options": [
+      "should go",
+      "went",
+      "go",
+      "will go"
+    ],
+    "answer": "should go",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Let's' (suggestion) -> 'proposed that... should'."
+  },
+  {
+    "id": 88,
+    "question": "Read the conversation:\nTeacher: 'Open your books.'\nStudents: '...'\nThe teacher ordered the students ______ their books.",
+    "options": [
+      "to open",
+      "that they open",
+      "opened",
+      "opening"
+    ],
+    "answer": "to open",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Command -> 'to open'."
+  },
+  {
+    "id": 89,
+    "question": "Read the conversation:\nHe said, 'Good morning, sir.'\nHe respectfully ______ his teacher good morning.",
+    "options": [
+      "wished",
+      "told",
+      "said",
+      "asked"
+    ],
+    "answer": "wished",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Greetings like 'Good morning' use the reporting verb 'wished'."
+  },
+  {
+    "id": 90,
+    "question": "Read the conversation:\nMother: 'Be careful.'\nThe mother warned him ______ careful.",
+    "options": [
+      "to be",
+      "be",
+      "that he be",
+      "being"
+    ],
+    "answer": "to be",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Imperative -> 'to be'."
+  },
+  {
+    "id": 91,
+    "question": "Read the conversation:\nShe said, 'Oh! I lost my purse.'\nShe exclaimed with sorrow that she ______ her purse.",
+    "options": [
+      "had lost",
+      "lost",
+      "has lost",
+      "was losing"
+    ],
+    "answer": "had lost",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Oh' indicates sudden emotion. 'Lost' (Simple Past) -> 'had lost' (Past Perfect)."
+  },
+  {
+    "id": 92,
+    "question": "Read the conversation:\nGuide: 'Do not touch the exhibits.'\nThe guide warned the tourists ______ the exhibits.",
+    "options": [
+      "not to touch",
+      "to not touch",
+      "do not touch",
+      "that they don't touch"
+    ],
+    "answer": "not to touch",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Prohibition -> 'not to touch'."
+  },
+  {
+    "id": 93,
+    "question": "Read the conversation:\nHe said, 'Goodbye, friends.'\nHe ______ his friends goodbye.",
+    "options": [
+      "bade",
+      "said",
+      "told",
+      "wished"
+    ],
+    "answer": "bade",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Parting words like 'Goodbye' use the reporting verb 'bade' (past of bid)."
+  },
+  {
+    "id": 94,
+    "question": "Read the conversation:\nTeacher: 'Never tell a lie.'\nThe teacher advised the student ______ a lie.",
+    "options": [
+      "never to tell",
+      "to never tell",
+      "not to tell",
+      "to tell never"
+    ],
+    "answer": "never to tell",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Never' is placed before the infinitive 'to tell'."
+  },
+  {
+    "id": 95,
+    "question": "Read the conversation:\nShe said, 'How stupid I have been!'\nShe exclaimed with regret that she ______ very stupid.",
+    "options": [
+      "had been",
+      "has been",
+      "was",
+      "is"
+    ],
+    "answer": "had been",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Exclamation -> Statement. 'Have been' -> 'had been'."
+  },
+  {
+    "id": 96,
+    "question": "Read the conversation:\nFather: 'Don't drive fast.'\nSon: 'Okay.'\nThe father forbade his son ______ fast.",
+    "options": [
+      "to drive",
+      "not to drive",
+      "from driving",
+      "drive"
+    ],
+    "answer": "to drive",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "Again, 'forbade' is negative, so we use the positive infinitive 'to drive'. (If the verb was 'advised', it would be 'not to drive')."
+  },
+  {
+    "id": 97,
+    "question": "Read the conversation:\nShe said, 'Please help me.'\nShe begged him ______ her.",
+    "options": [
+      "to help",
+      "help",
+      "that he help",
+      "helped"
+    ],
+    "answer": "to help",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "'Begged' is a stronger form of request. Structure: 'to help'."
+  },
+  {
+    "id": 98,
+    "question": "Read the conversation:\nHe said, 'Let me go.'\nHe requested ______ go.",
+    "options": [
+      "to be allowed to",
+      "that he might",
+      "to let him",
+      "that he go"
+    ],
+    "answer": "to be allowed to",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "hard",
+    "explanation": "When 'Let' means permission, it is often reported as 'requested to be allowed to'."
+  },
+  {
+    "id": 99,
+    "question": "Read the conversation:\nGeneral: 'March forward.'\nThe general commanded the troops ______ forward.",
+    "options": [
+      "to march",
+      "march",
+      "marched",
+      "that they march"
+    ],
+    "answer": "to march",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "easy",
+    "explanation": "Command -> 'to march'."
+  },
+  {
+    "id": 100,
+    "question": "Read the conversation:\nShe said, 'Let's not quarrel.'\nShe suggested that they ______ quarrel.",
+    "options": [
+      "should not",
+      "did not",
+      "do not",
+      "will not"
+    ],
+    "answer": "should not",
+    "topic": "reportedspeech",
+    "pattern_type": "2025_dialogue_completion",
+    "difficulty": "medium",
+    "explanation": "Negative suggestion ('Let's not') -> 'should not'."
+  }
+]

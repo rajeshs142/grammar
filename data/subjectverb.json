@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank: 'The quality of the apples ______ not good.'",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The subject is 'quality' (singular), not 'apples'. Therefore, the verb must be singular ('was')."
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank: 'Bread and butter ______ his favorite breakfast.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "When two nouns joined by 'and' refer to a single idea or compound (like bread and butter), the verb is singular."
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank: 'My friend and guide ______ arrived.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Since 'friend and guide' refers to the same person (indicated by the single article 'My'), the verb is singular."
+  },
+  {
+    "id": 4,
+    "question": "Fill in the blank: 'The leader, as well as his followers, ______ arrested.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Words joined to a singular subject by 'as well as', 'with', or 'along with' are parenthetical. The verb agrees with the main subject ('The leader')."
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank: 'Neither of the two men ______ suitable for the job.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Neither' implies 'not one of the two', which makes the subject singular."
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank: 'Each of the students ______ given a prize.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Each' is a distributive pronoun and is always singular."
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank: 'Slow and steady ______ the race.'",
+    "options": [
+      "win",
+      "wins",
+      "winning",
+      "have won"
+    ],
+    "answer": "wins",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Proverbial phrases treating two actions as a single concept take a singular verb."
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank: 'The jury ______ divided in their opinions.'",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has"
+    ],
+    "answer": "were",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Collective nouns like 'jury' take a plural verb when the members are acting individually (divided opinions)."
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: 'Fifty kilometers ______ a long distance to walk.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Distances, weights, and amounts of money are treated as singular units."
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank: 'Everyone ______ the answer to this question.'",
+    "options": [
+      "know",
+      "knows",
+      "knowing",
+      "have known"
+    ],
+    "answer": "knows",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Indefinite pronouns like 'everyone', 'somebody', and 'nobody' are always singular."
+  },
+  {
+    "id": 11,
+    "question": "Fill in the blank: 'Not only the students but also the teacher ______ happy.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "With 'Not only... but also', the verb agrees with the subject closest to it ('the teacher' = singular)."
+  },
+  {
+    "id": 12,
+    "question": "Fill in the blank: 'Physics ______ a difficult subject.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Names of subjects ending in 's' (Physics, Mathematics, Economics) are singular."
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank: 'One of the boys ______ missing.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The subject is 'One', not 'boys'. Therefore, the verb is singular."
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank: 'There ______ many mistakes in your essay.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "In sentences starting with 'There', the verb agrees with the true subject that follows ('mistakes' = plural)."
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank: 'The news ______ true.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "'News' is an uncountable noun and is always treated as singular."
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank: 'The ship, with its crew, ______ lost.'",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The phrase 'with its crew' is extra information. The main subject is 'The ship' (singular)."
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank: 'Many a man ______ tempted by gold.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "The phrase 'Many a' is always followed by a singular noun and a singular verb."
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: 'Two-thirds of the city ______ in ruins.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "When dealing with fractions of a singular object (the city), the verb is singular."
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank: 'The police ______ catching the thieves.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Police' is a collective noun that is grammatically plural in English."
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank: 'Either you or he ______ mistaken.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "With 'Either...or', the verb agrees with the subject closest to it ('he' = singular)."
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: 'A bouquet of flowers ______ been presented to the chief guest.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The subject is the collective noun 'bouquet' (singular), not the 'flowers'."
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank: 'Time and tide ______ for none.'",
+    "options": [
+      "wait",
+      "waits",
+      "waiting",
+      "has waited"
+    ],
+    "answer": "wait",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Classic exception: Time and tide are considered two distinct forces, so the verb is plural (though some modern grammars accept singular, CBSE prefers plural 'wait')."
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank: 'Ten thousand rupees ______ a large sum.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "An amount of money is treated as a singular unit."
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: 'A number of students ______ absent today.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'A number of' takes a plural verb (meaning 'many'), whereas 'The number of' takes a singular verb."
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: 'The cost of these articles ______ risen.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The subject is 'cost' (singular), not 'articles'."
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank: 'Neither the players nor the coach ______ ready.'",
+    "options": [
+      "were",
+      "are",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Verb agrees with the closest subject ('coach' = singular)."
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blank: 'My glasses ______ broken.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Items that come in pairs (glasses, scissors, trousers) are grammatically plural."
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank: 'More than one person ______ involved.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "The phrase 'More than one' is followed by a singular noun and a singular verb."
+  },
+  {
+    "id": 29,
+    "question": "Fill in the blank: 'The furniture in this room ______ old.'",
+    "options": [
+      "look",
+      "looks",
+      "looking",
+      "have looked"
+    ],
+    "answer": "looks",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Furniture' is an uncountable singular noun."
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank: 'Gulliver's Travels ______ written by Swift.'",
+    "options": [
+      "were",
+      "are",
+      "is",
+      "was"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "It is the title of a single book, so it takes a singular verb."
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: 'All the information ______ correct.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Information' is an uncountable noun and is always singular."
+  },
+  {
+    "id": 32,
+    "question": "Fill in the blank: 'The United States ______ a big military.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Names of countries are singular, even if they end in 's'."
+  },
+  {
+    "id": 33,
+    "question": "Fill in the blank: 'Somebody ______ knocking at the door.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Indefinite pronouns ending in -body or -one are singular."
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank: 'The poor ______ suffering.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "'The poor' refers to the whole class of poor people, making it a plural subject."
+  },
+  {
+    "id": 35,
+    "question": "Fill in the blank: 'Neither he nor I ______ to blame.'",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "were"
+    ],
+    "answer": "am",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Verb agrees with the closest subject ('I'), so the correct verb is 'am'."
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank: 'The number of applicants ______ increasing every year.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'The number of' denotes a specific unit or number and takes a singular verb. (Contrast with 'A number of')."
+  },
+  {
+    "id": 37,
+    "question": "Fill in the blank: 'The box of chocolates ______ on the table.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The subject is 'box' (singular), not 'chocolates'. The verb must agree with the head noun, ignoring the prepositional phrase."
+  },
+  {
+    "id": 38,
+    "question": "Fill in the blank: 'Cattle ______ grazing in the field.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Cattle' looks singular but is a collective noun that is always grammatically plural."
+  },
+  {
+    "id": 39,
+    "question": "Fill in the blank: 'Measles ______ a contagious disease.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Names of diseases ending in 's' (Measles, Mumps, Rickets) are treated as singular."
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank: 'He is one of those men who ______ always complaining.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "In 'one of those [plural noun] who...', the verb agrees with the antecedent 'men' (plural), not 'one'."
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank: 'Three-fourths of the land ______ been ploughed.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "When using fractions, if the noun is uncountable (land), the verb is singular."
+  },
+  {
+    "id": 42,
+    "question": "Fill in the blank: 'Three-fourths of the students ______ passed.'",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "was"
+    ],
+    "answer": "have",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "When using fractions, if the noun is countable and plural (students), the verb is plural."
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank: 'Politics ______ a dirty game.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "'Politics', like 'Mathematics', is a singular noun."
+  },
+  {
+    "id": 44,
+    "question": "Fill in the blank: 'My family ______ moving to a new house.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Here, 'family' is acting as a single unit, so it takes a singular verb."
+  },
+  {
+    "id": 45,
+    "question": "Fill in the blank: 'Every man, woman, and child ______ happy.'",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "When 'Every' precedes the subject, even if there are multiple nouns, the verb remains singular."
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank: 'Much of the work ______ done.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Much' is used with uncountable nouns and requires a singular verb."
+  },
+  {
+    "id": 47,
+    "question": "Fill in the blank: 'Gold and silver ______ precious metals.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Two distinct subjects joined by 'and' require a plural verb."
+  },
+  {
+    "id": 48,
+    "question": "Fill in the blank: 'A pair of scissors ______ on the table.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Scissors' is plural, but 'A pair of scissors' is singular because the subject is 'pair'."
+  },
+  {
+    "id": 49,
+    "question": "Fill in the blank: 'It is I who ______ to blame.'",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "were"
+    ],
+    "answer": "am",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "The verb agrees with the antecedent of the relative pronoun 'who'. The antecedent is 'I', so the verb is 'am'."
+  },
+  {
+    "id": 50,
+    "question": "Fill in the blank: 'Most of the students ______ absent.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Most of' takes a plural verb when referring to a countable plural noun (students)."
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank: 'Rice and curry ______ a popular dish.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Rice and curry is considered a single meal/concept, taking a singular verb."
+  },
+  {
+    "id": 52,
+    "question": "Fill in the blank: 'The committee ______ arguing among themselves.'",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Because the members are arguing *among themselves* (individual action), the collective noun is treated as plural."
+  },
+  {
+    "id": 53,
+    "question": "Fill in the blank: 'Swimming and running ______ good exercises.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Two distinct gerunds joined by 'and' form a plural subject."
+  },
+  {
+    "id": 54,
+    "question": "Fill in the blank: 'Not only the teacher but also the students ______ laughing.'",
+    "options": [
+      "was",
+      "is",
+      "are",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Verb agrees with the closer subject ('students' = plural)."
+  },
+  {
+    "id": 55,
+    "question": "Fill in the blank: 'Statistics ______ imply that the trend is changing.'",
+    "options": [
+      "show",
+      "shows",
+      "showing",
+      "has shown"
+    ],
+    "answer": "show",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Here, 'Statistics' refers to data/numbers (plural meaning), not the subject of study. Therefore, it takes a plural verb."
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank: 'A large amount of money ______ stolen.'",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Amount' is used with uncountable nouns (money) and is singular."
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank: 'The Arabian Nights ______ an interesting book.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "It is the title of one single book, so it is singular."
+  },
+  {
+    "id": 58,
+    "question": "Fill in the blank: 'Which of these books ______ yours?'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "In this context, 'Which' selects a specific one, taking a singular verb."
+  },
+  {
+    "id": 59,
+    "question": "Fill in the blank: 'Our class ______ of forty students.'",
+    "options": [
+      "consist",
+      "consists",
+      "consisting",
+      "have consisted"
+    ],
+    "answer": "consists",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "'Class' acts as a single collective unit here."
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank: 'His trousers ______ torn.'",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Trousers' is a plural noun (items with two parts)."
+  },
+  {
+    "id": 61,
+    "question": "Fill in the blank: 'Your advice ______ valuable.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Advice' is an uncountable singular noun."
+  },
+  {
+    "id": 62,
+    "question": "Fill in the blank: 'Many a student ______ failed the test.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "'Many a' is always followed by a singular noun and singular verb."
+  },
+  {
+    "id": 63,
+    "question": "Fill in the blank: 'The poet and the singer ______ dead.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Because 'the' is repeated before 'singer', it refers to two different people. Thus, the verb is plural."
+  },
+  {
+    "id": 64,
+    "question": "Fill in the blank: 'Nothing but trees ______ seen.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "The subject is 'Nothing' (singular). The phrase 'but trees' is a prepositional phrase that does not affect agreement."
+  },
+  {
+    "id": 65,
+    "question": "Fill in the blank: 'A herd of cattle ______ passing.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The subject is the collective noun 'herd' (singular), not 'cattle'."
+  },
+  {
+    "id": 66,
+    "question": "Fill in the blank: 'If I ______ you, I would accept the offer.'",
+    "options": [
+      "was",
+      "am",
+      "were",
+      "be"
+    ],
+    "answer": "were",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Subjunctive mood for hypothetical situations always uses 'were', regardless of the subject."
+  },
+  {
+    "id": 67,
+    "question": "Fill in the blank: 'Five years ______ passed since he left.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "is"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Periods of time are often considered singular units."
+  },
+  {
+    "id": 68,
+    "question": "Fill in the blank: 'The furniture ______ to be delivered today.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Furniture' is uncountable and singular."
+  },
+  {
+    "id": 69,
+    "question": "Fill in the blank: 'There ______ plenty of water in the jug.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Water' is uncountable, so 'plenty of water' acts as a singular subject."
+  },
+  {
+    "id": 70,
+    "question": "Fill in the blank: 'None of the boys ______ completed the work.'",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "are"
+    ],
+    "answer": "have",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "While 'none' can be singular, when followed by 'of [plural noun]', modern usage prefers the plural verb 'have'."
+  },
+  {
+    "id": 71,
+    "question": "Fill in the blank: 'A great deal of work ______ yet to be done.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Work' is an uncountable noun. Phrases like 'A great deal of' do not change it to plural, so the verb remains singular."
+  },
+  {
+    "id": 72,
+    "question": "Fill in the blank: 'Some of the students ______ gone home.'",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "was"
+    ],
+    "answer": "have",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "When 'Some of' refers to a countable plural noun (students), the verb is plural."
+  },
+  {
+    "id": 73,
+    "question": "Fill in the blank: 'Some of the milk ______ spilled.'",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "When 'Some of' refers to an uncountable noun (milk), the verb is singular."
+  },
+  {
+    "id": 74,
+    "question": "Fill in the blank: 'Here ______ the bus!'",
+    "options": [
+      "come",
+      "comes",
+      "coming",
+      "have come"
+    ],
+    "answer": "comes",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "In sentences beginning with 'Here' or 'There', the subject follows the verb. Subject is 'bus' (singular), so verb is 'comes'."
+  },
+  {
+    "id": 75,
+    "question": "Fill in the blank: 'His wages ______ very low.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "In modern English, when 'wages' refers to earnings/salary, it is treated as plural."
+  },
+  {
+    "id": 76,
+    "question": "Fill in the blank: 'Billiards ______ not a popular game here.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Game names ending in 's' (Billiards, Darts, Checkers) are singular."
+  },
+  {
+    "id": 77,
+    "question": "Fill in the blank: 'The famous poet and scholar ______ been honored.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The article 'The' is used only once, implying the poet and scholar are the same person."
+  },
+  {
+    "id": 78,
+    "question": "Fill in the blank: 'Neither of the accusations ______ true.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Neither' acts as a singular pronoun meaning 'not one'."
+  },
+  {
+    "id": 79,
+    "question": "Fill in the blank: 'He is one of the players who ______ selected.'",
+    "options": [
+      "has been",
+      "have been",
+      "is",
+      "was"
+    ],
+    "answer": "have been",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Tricky Rule: 'Who' refers to 'players' (plural antecedent), not 'one'. Therefore, the verb is plural."
+  },
+  {
+    "id": 80,
+    "question": "Fill in the blank: 'It is the only one of the novels that ______ worth reading.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Tricky Rule Exception: When 'the only' is used before 'one', the relative pronoun 'that' refers to the singular 'one', not the plural 'novels'."
+  },
+  {
+    "id": 81,
+    "question": "Fill in the blank: 'Economics ______ my favorite subject.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Subject names ending in 's' are singular."
+  },
+  {
+    "id": 82,
+    "question": "Fill in the blank: 'A pack of wolves ______ howling.'",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "The subject is the collective noun 'pack' (singular)."
+  },
+  {
+    "id": 83,
+    "question": "Fill in the blank: 'Fish and chips ______ a popular meal in the UK.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Compound subjects referring to a single dish/unit take a singular verb."
+  },
+  {
+    "id": 84,
+    "question": "Fill in the blank: 'Many a soldier ______ died on the battlefield.'",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": "has",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Many a' is followed by a singular noun and singular verb."
+  },
+  {
+    "id": 85,
+    "question": "Fill in the blank: 'The majority of tourists ______ tired.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Majority' takes a plural verb when used with a countable plural noun (tourists)."
+  },
+  {
+    "id": 86,
+    "question": "Fill in the blank: 'A pair of shoes ______ missing.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "While 'shoes' is plural, 'A pair' is singular."
+  },
+  {
+    "id": 87,
+    "question": "Fill in the blank: 'My shoes ______ old.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Without 'A pair of', the noun 'shoes' acts as a normal plural."
+  },
+  {
+    "id": 88,
+    "question": "Fill in the blank: 'Half of the apple ______ rotten.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Half of' uses a singular verb when referring to a singular object (one apple)."
+  },
+  {
+    "id": 89,
+    "question": "Fill in the blank: 'Half of the apples ______ rotten.'",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Half of' uses a plural verb when referring to plural objects (multiple apples)."
+  },
+  {
+    "id": 90,
+    "question": "Fill in the blank: 'The staff ______ in a meeting.'",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "were"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Staff' is treated as a collective singular unit here."
+  },
+  {
+    "id": 91,
+    "question": "Fill in the blank: 'Neither John nor his friends ______ going.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Proximity Rule: Verb agrees with 'friends' (plural)."
+  },
+  {
+    "id": 92,
+    "question": "Fill in the blank: 'Neither his friends nor John ______ going.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "Proximity Rule: Verb agrees with 'John' (singular)."
+  },
+  {
+    "id": 93,
+    "question": "Fill in the blank: 'A variety of books ______ available.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'A variety of' functions like 'Many', taking a plural verb."
+  },
+  {
+    "id": 94,
+    "question": "Fill in the blank: 'The variety of books in this library ______ amazing.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "'The variety' refers to the specific collection or range (singular subject)."
+  },
+  {
+    "id": 95,
+    "question": "Fill in the blank: 'Either of the plans ______ acceptable.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'Either of' (meaning one or the other) takes a singular verb."
+  },
+  {
+    "id": 96,
+    "question": "Fill in the blank: 'The horse and carriage ______ at the door.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Horse and carriage is treated as a single mode of transport unit."
+  },
+  {
+    "id": 97,
+    "question": "Fill in the blank: 'More students than one ______ absent.'",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "hard",
+    "explanation": "Tricky Structure: 'More [Plural Noun] than one' takes a plural verb. (Compare with 'More than one [Singular Noun]' which is singular)."
+  },
+  {
+    "id": 98,
+    "question": "Fill in the blank: 'All of the pie ______ eaten.'",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "have"
+    ],
+    "answer": "was",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'All' with a singular/uncountable object (pie) takes a singular verb."
+  },
+  {
+    "id": 99,
+    "question": "Fill in the blank: 'All of the pies ______ eaten.'",
+    "options": [
+      "was",
+      "is",
+      "are",
+      "has"
+    ],
+    "answer": "are",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "medium",
+    "explanation": "'All' with a plural object (pies) takes a plural verb."
+  },
+  {
+    "id": 100,
+    "question": "Fill in the blank: 'Gymnastics ______ my favorite sport.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "subjectverb",
+    "pattern_type": "2025_editing_focus",
+    "difficulty": "easy",
+    "explanation": "Activity/Sport names ending in 's' are singular."
+  }
+]

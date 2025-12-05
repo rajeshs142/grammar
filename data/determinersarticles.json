@@ -1,0 +1,1127 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank: 'He is ______ honest man.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "The word 'honest' begins with a silent 'h', producing a vowel sound ('o'), so 'an' is used."
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank: 'Copper is ______ useful metal.'",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "some"
+    ],
+    "answer": "a",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Useful' starts with a consonant sound ('yoo'), so 'a' is used despite starting with the vowel 'u'."
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank: '______ Sun rises in the east.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "We use 'The' before unique natural objects like the Sun, the Moon, the Earth."
+  },
+  {
+    "id": 4,
+    "question": "Fill in the blank: 'I have ______ friends in the city.'",
+    "options": [
+      "much",
+      "many",
+      "any",
+      "little"
+    ],
+    "answer": "many",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Friends' is a countable noun, so we use 'many'. 'Much' is for uncountable nouns."
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank: 'Do you have ______ money?'",
+    "options": [
+      "many",
+      "few",
+      "any",
+      "some"
+    ],
+    "answer": "any",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Any' is typically used in questions and negative sentences for uncountable nouns like 'money'."
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank: 'He returned after ______ hour.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Hour' starts with a silent 'h' (vowel sound 'ow'), requiring 'an'."
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank: '______ knowledge is a dangerous thing.'",
+    "options": [
+      "Little",
+      "A little",
+      "The little",
+      "Few"
+    ],
+    "answer": "A little",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'A little' means some (positive sense) but not enough, implying incomplete knowledge."
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank: 'He is ______ European.'",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "one"
+    ],
+    "answer": "a",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'European' starts with a consonant sound ('yoo'), so 'a' is used."
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: 'There isn't ______ water in the jug.'",
+    "options": [
+      "some",
+      "many",
+      "much",
+      "few"
+    ],
+    "answer": "much",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Water' is uncountable and the sentence is negative, so 'much' is appropriate."
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank: 'I bought ______ umbrella yesterday.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Umbrella' starts with a vowel sound 'uh', so 'an' is used."
+  },
+  {
+    "id": 11,
+    "question": "Fill in the blank: 'She is ______ best student in the class.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "one"
+    ],
+    "answer": "the",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Superlative adjectives ('best') are always preceded by 'the'."
+  },
+  {
+    "id": 12,
+    "question": "Fill in the blank: '______ rich should help the poor.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'The rich' refers to the entire class of rich people."
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank: 'I have ______ idea.'",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "any"
+    ],
+    "answer": "an",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Idea' starts with a vowel sound."
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank: 'How ______ sugar do you take?'",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "any"
+    ],
+    "answer": "much",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Sugar' is uncountable, so 'much' is used."
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank: 'Only ______ people attended the meeting.'",
+    "options": [
+      "a few",
+      "a little",
+      "much",
+      "the little"
+    ],
+    "answer": "a few",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'People' is countable. 'A few' indicates a small number."
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank: 'He is ______ M.A. in English.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Abbreviations starting with M, F, H, L, N, R, S, X often take 'an' because they start with a vowel sound (e.g., 'Em-A')."
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank: 'Please give me ______ water.'",
+    "options": [
+      "some",
+      "any",
+      "few",
+      "many"
+    ],
+    "answer": "some",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Some' is used in affirmative sentences for uncountable nouns."
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: '______ dog is a faithful animal.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'The' is used with a singular countable noun (dog) to represent the whole class/species. (Though 'A' is also grammatically accepted, 'The' is preferred in definitions)."
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank: 'I saw ______ one-eyed man.'",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "any"
+    ],
+    "answer": "a",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'One' starts with the consonant sound 'wa', so 'a' is used."
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank: 'French is ______ language of people of France.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "the",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "It refers to a specific language defined by the phrase 'of people of France'."
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: '______ participant will receive a certificate.'",
+    "options": [
+      "Each",
+      "All",
+      "Some",
+      "Both"
+    ],
+    "answer": "Each",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Each' is used with a singular noun (participant) to refer to individuals in a group."
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank: 'There is ______ hope of his recovery.'",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "answer": "little",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Little' (without 'a') has a negative meaning, implying 'almost no hope'."
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank: 'Can you lend me ______ money?'",
+    "options": [
+      "some",
+      "any",
+      "few",
+      "many"
+    ],
+    "answer": "some",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "In requests/offers where a positive answer is expected, 'some' is used instead of 'any'."
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: 'He is ______ university professor.'",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "one"
+    ],
+    "answer": "a",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'University' starts with a consonant sound ('yoo')."
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: '______ Ganga is a holy river.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Names of rivers are preceded by 'The'."
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank: 'I have read ______ book you gave me.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "any"
+    ],
+    "answer": "the",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'The' implies a specific book (the one you gave me)."
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blank: '______ man is mortal.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "No article",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "When 'Man' is used in the general sense of 'mankind', no article is used."
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank: 'There are ______ mistakes in your essay.'",
+    "options": [
+      "a few",
+      "a little",
+      "much",
+      "any"
+    ],
+    "answer": "a few",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Mistakes' are countable. 'A few' indicates a small number."
+  },
+  {
+    "id": 29,
+    "question": "Fill in the blank: 'We don't have ______ extra chairs.'",
+    "options": [
+      "some",
+      "any",
+      "much",
+      "little"
+    ],
+    "answer": "any",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Negative sentence with plural countable noun -> 'any'."
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank: '______ apple a day keeps the doctor away.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "One"
+    ],
+    "answer": "An",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Apple' starts with a vowel sound."
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: '______ boy in the corner is my brother.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'The' points to a specific boy (in the corner)."
+  },
+  {
+    "id": 32,
+    "question": "Fill in the blank: 'Is there ______ milk left?'",
+    "options": [
+      "many",
+      "few",
+      "any",
+      "those"
+    ],
+    "answer": "any",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Question format with uncountable noun -> 'any'."
+  },
+  {
+    "id": 33,
+    "question": "Fill in the blank: 'He does not have ______ friends.'",
+    "options": [
+      "much",
+      "many",
+      "some",
+      "little"
+    ],
+    "answer": "many",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Negative sentence with countable noun -> 'many'."
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank: 'Which is ______ longest river in India?'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "one"
+    ],
+    "answer": "the",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Superlative 'longest' takes 'the'."
+  },
+  {
+    "id": 35,
+    "question": "Fill in the blank: 'I bought ______ dozen eggs.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "a",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'A dozen' is the standard unit phrase."
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank: '______ Pacific Ocean is the largest.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Names of oceans are preceded by 'The'."
+  },
+  {
+    "id": 37,
+    "question": "Fill in the blank: 'I need ______ time to finish this.'",
+    "options": [
+      "some",
+      "many",
+      "few",
+      "any"
+    ],
+    "answer": "some",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Affirmative sentence with uncountable noun -> 'some'."
+  },
+  {
+    "id": 38,
+    "question": "Fill in the blank: '______ Himalayas protect India from the north.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Names of mountain ranges (plural) take 'The'."
+  },
+  {
+    "id": 39,
+    "question": "Fill in the blank: 'He is ______ unknown artist.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "some"
+    ],
+    "answer": "an",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Unknown' starts with a vowel sound."
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank: '______ side of the road was blocked.'",
+    "options": [
+      "Every",
+      "Each",
+      "All",
+      "Many"
+    ],
+    "answer": "Each",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Each' emphasizes individual sides (of which there are only two) separately."
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank: '______ knowledge he had was useful.'",
+    "options": [
+      "Little",
+      "A little",
+      "The little",
+      "Few"
+    ],
+    "answer": "The little",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'The little' means 'the small amount that was there' (referring to specific knowledge)."
+  },
+  {
+    "id": 42,
+    "question": "Fill in the blank: 'He can write with ______ hand.'",
+    "options": [
+      "every",
+      "either",
+      "all",
+      "both"
+    ],
+    "answer": "either",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Either hand' means 'one or the other' (often implying he can use both, but grammatically singular)."
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank: '______ country has its own flag.'",
+    "options": [
+      "All",
+      "Many",
+      "Every",
+      "Some"
+    ],
+    "answer": "Every",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Every' is used with a singular countable noun."
+  },
+  {
+    "id": 44,
+    "question": "Fill in the blank: 'I have ______ work to do.'",
+    "options": [
+      "many",
+      "a lot of",
+      "few",
+      "several"
+    ],
+    "answer": "a lot of",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Work' is uncountable, so 'many/few/several' are incorrect. 'A lot of' works for both countable and uncountable."
+  },
+  {
+    "id": 45,
+    "question": "Fill in the blank: '______ rich are not always happy.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "This"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'The' + Adjective refers to a whole class of people."
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank: 'She gave me ______ advice.'",
+    "options": [
+      "an",
+      "some",
+      "many",
+      "few"
+    ],
+    "answer": "some",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Advice' is uncountable. 'An' and 'many' cannot be used."
+  },
+  {
+    "id": 47,
+    "question": "Fill in the blank: '______ of the two boys is guilty.'",
+    "options": [
+      "Every",
+      "Each",
+      "All",
+      "Some"
+    ],
+    "answer": "Each",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Each' is used for two or more things, emphasizing individuals."
+  },
+  {
+    "id": 48,
+    "question": "Fill in the blank: '______ Mount Everest is the highest peak.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": "No article",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Names of individual mountain peaks do not take 'The' (unlike mountain ranges)."
+  },
+  {
+    "id": 49,
+    "question": "Fill in the blank: 'He made ______ mistake.'",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "another"
+    ],
+    "answer": "another",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Mistake' is countable singular, so 'little/few' don't fit."
+  },
+  {
+    "id": 50,
+    "question": "Fill in the blank: '______ words are missing in this sentence.'",
+    "options": [
+      "A little",
+      "Much",
+      "Some",
+      "Any"
+    ],
+    "answer": "Some",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Affirmative sentence with plural countable noun -> 'Some'."
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank: '______ whole class was absent.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'The whole' is a fixed structure."
+  },
+  {
+    "id": 52,
+    "question": "Fill in the blank: 'He has ______ friends who can help him.'",
+    "options": [
+      "few",
+      "a few",
+      "the few",
+      "little"
+    ],
+    "answer": "a few",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'A few' has a positive meaning (some friends exist). 'Few' means almost none."
+  },
+  {
+    "id": 53,
+    "question": "Fill in the blank: '______ milk is good for health.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": "No article",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "General statements about uncountable nouns usually take no article."
+  },
+  {
+    "id": 54,
+    "question": "Fill in the blank: 'Neither accusation is true.' (Identify the determiner)",
+    "options": [
+      "Neither",
+      "is",
+      "true",
+      "accusation"
+    ],
+    "answer": "Neither",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Neither' acts as a determiner before the noun 'accusation'."
+  },
+  {
+    "id": 55,
+    "question": "Fill in the blank: '______ Mr. Sharma wants to see you.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "A",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "When 'A' is used before a proper noun (A Mr. Sharma), it means 'Some person named Mr. Sharma whom I don't know'."
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank: '______ books are mine.'",
+    "options": [
+      "This",
+      "That",
+      "These",
+      "Little"
+    ],
+    "answer": "These",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Books' is plural, so 'These' is correct."
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank: '______ English are hard working.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'The English' refers to the people of England. Without 'The', it would refer to the language."
+  },
+  {
+    "id": 58,
+    "question": "Fill in the blank: 'There is ______ sugar in the bowl.'",
+    "options": [
+      "any",
+      "some",
+      "many",
+      "few"
+    ],
+    "answer": "some",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Affirmative uncountable -> 'some'."
+  },
+  {
+    "id": 59,
+    "question": "Fill in the blank: 'He lost ______ friends he had.'",
+    "options": [
+      "few",
+      "a few",
+      "the few",
+      "little"
+    ],
+    "answer": "the few",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'The few' implies 'the small specific number that existed'."
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank: 'We go to church on ______ Sundays.'",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "no article"
+    ],
+    "answer": "no article",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Days of the week in plural (on Sundays) for regular habits generally take no article."
+  },
+  {
+    "id": 61,
+    "question": "Fill in the blank: '______ much time is left.'",
+    "options": [
+      "Not",
+      "No",
+      "None",
+      "Never"
+    ],
+    "answer": "Not",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Not much' is the correct phrase."
+  },
+  {
+    "id": 62,
+    "question": "Fill in the blank: '______ pen will do.'",
+    "options": [
+      "Any",
+      "Some",
+      "Few",
+      "Many"
+    ],
+    "answer": "Any",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Any' implies it doesn't matter which one."
+  },
+  {
+    "id": 63,
+    "question": "Fill in the blank: 'Have you got ______ potatoes?'",
+    "options": [
+      "some",
+      "any",
+      "much",
+      "little"
+    ],
+    "answer": "any",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Question with countable plural -> 'any'."
+  },
+  {
+    "id": 64,
+    "question": "Fill in the blank: '______ Taj Mahal is a monument.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Famous historical monuments take 'The'."
+  },
+  {
+    "id": 65,
+    "question": "Fill in the blank: 'She has ______ patience.'",
+    "options": [
+      "many",
+      "few",
+      "a lot of",
+      "a few"
+    ],
+    "answer": "a lot of",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Patience' is uncountable. 'Many/few' are incorrect."
+  },
+  {
+    "id": 66,
+    "question": "Fill in the blank: '______ one of them was present.'",
+    "options": [
+      "Every",
+      "Each",
+      "All",
+      "Some"
+    ],
+    "answer": "Each",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Each one' emphasizes individuals."
+  },
+  {
+    "id": 67,
+    "question": "Fill in the blank: '______ United Kingdom is a developed nation.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Countries with 'Kingdom', 'States', 'Republic' in their name take 'The'."
+  },
+  {
+    "id": 68,
+    "question": "Fill in the blank: 'Do not make ______ noise.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "some"
+    ],
+    "answer": "a",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Make a noise' is a fixed idiom."
+  },
+  {
+    "id": 69,
+    "question": "Fill in the blank: 'He ate ______ rice.'",
+    "options": [
+      "a few",
+      "many",
+      "little",
+      "any"
+    ],
+    "answer": "little",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "This implies he didn't eat much. 'A few/many' are for countable nouns. 'Little' fits uncountable 'rice'."
+  },
+  {
+    "id": 70,
+    "question": "Fill in the blank: '______ book you want is out of stock.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "Any"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Specific book defined by the clause 'you want' -> 'The'."
+  },
+  {
+    "id": 71,
+    "question": "Fill in the blank: 'I met him ______ year ago.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "one"
+    ],
+    "answer": "a",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Year' starts with a consonant sound 'yuh'."
+  },
+  {
+    "id": 72,
+    "question": "Fill in the blank: '______ people know the truth.'",
+    "options": [
+      "Little",
+      "Much",
+      "Few",
+      "Any"
+    ],
+    "answer": "Few",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Few' implies 'almost no people'."
+  },
+  {
+    "id": 73,
+    "question": "Fill in the blank: '______ gold is a precious metal.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": "No article",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Material nouns generally take no article."
+  },
+  {
+    "id": 74,
+    "question": "Fill in the blank: '______ gold of this ring is pure.'",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "No article"
+    ],
+    "answer": "The",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Specific gold defined by 'of this ring' -> 'The'."
+  },
+  {
+    "id": 75,
+    "question": "Fill in the blank: 'She is ______ more intelligent of the two sisters.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "the",
+    "topic": "determinersarticles",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Comparative 'more' takes 'the' when followed by 'of the two'."
+  }
+]

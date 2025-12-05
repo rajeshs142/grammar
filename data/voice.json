@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "question": "Change to Passive: 'He writes a letter.'",
+    "options": [
+      "A letter is written by him.",
+      "A letter was written by him.",
+      "A letter has written by him.",
+      "A letter is being written by him."
+    ],
+    "answer": "A letter is written by him.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Simple Present Active (V1) changes to 'is/am/are + V3' in Passive."
+  },
+  {
+    "id": 2,
+    "question": "Change to Passive: 'She is singing a song.'",
+    "options": [
+      "A song was being sung by her.",
+      "A song is sung by her.",
+      "A song has been sung by her.",
+      "A song is being sung by her."
+    ],
+    "answer": "A song is being sung by her.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Present Continuous (is singing) changes to 'is/am/are + being + V3'."
+  },
+  {
+    "id": 3,
+    "question": "Change to Passive: 'I have finished the work.'",
+    "options": [
+      "The work has been finished by me.",
+      "The work had been finished by me.",
+      "The work is finished by me.",
+      "The work was finished by me."
+    ],
+    "answer": "The work has been finished by me.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Present Perfect (has/have + V3) changes to 'has/have + been + V3'."
+  },
+  {
+    "id": 4,
+    "question": "Change to Passive: 'He killed the snake.'",
+    "options": [
+      "The snake is killed by him.",
+      "The snake was killed by him.",
+      "The snake has been killed by him.",
+      "The snake had been killed by him."
+    ],
+    "answer": "The snake was killed by him.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Simple Past (V2) changes to 'was/were + V3'."
+  },
+  {
+    "id": 5,
+    "question": "Change to Passive: 'They were playing cricket.'",
+    "options": [
+      "Cricket was played by them.",
+      "Cricket was being played by them.",
+      "Cricket had been played by them.",
+      "Cricket is being played by them."
+    ],
+    "answer": "Cricket was being played by them.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Past Continuous (was/were + ing) changes to 'was/were + being + V3'."
+  },
+  {
+    "id": 6,
+    "question": "Change to Passive: 'She had cooked the food.'",
+    "options": [
+      "The food has been cooked by her.",
+      "The food was cooked by her.",
+      "The food had been cooked by her.",
+      "The food is cooked by her."
+    ],
+    "answer": "The food had been cooked by her.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Past Perfect (had + V3) changes to 'had + been + V3'."
+  },
+  {
+    "id": 7,
+    "question": "Change to Passive: 'I will write a book.'",
+    "options": [
+      "A book will be written by me.",
+      "A book would be written by me.",
+      "A book is written by me.",
+      "A book will have been written by me."
+    ],
+    "answer": "A book will be written by me.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Simple Future (will + V1) changes to 'will be + V3'."
+  },
+  {
+    "id": 8,
+    "question": "Change to Passive: 'He will have solved the sum.'",
+    "options": [
+      "The sum will be solved by him.",
+      "The sum will have solved by him.",
+      "The sum will have been solved by him.",
+      "The sum would have been solved by him."
+    ],
+    "answer": "The sum will have been solved by him.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Future Perfect (will have + V3) changes to 'will have been + V3'."
+  },
+  {
+    "id": 9,
+    "question": "Change to Passive: 'Do not insult the poor.'",
+    "options": [
+      "Let the poor not to be insulted.",
+      "Let the poor not be insulted.",
+      "The poor are not insulted.",
+      "Let not the poor be insulted."
+    ],
+    "answer": "Let the poor not be insulted.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Imperative sentences use 'Let + Object + be + V3'. Negative adds 'not'."
+  },
+  {
+    "id": 10,
+    "question": "Change to Passive: 'Who broke the glass?'",
+    "options": [
+      "Who was the glass broken by?",
+      "By whom the glass was broken?",
+      "By whom was the glass broken?",
+      "Who had broken the glass?"
+    ],
+    "answer": "By whom was the glass broken?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "'Who' changes to 'By whom' and the auxiliary verb ('was') comes before the object ('the glass')."
+  },
+  {
+    "id": 11,
+    "question": "Change to Passive: 'I know him.'",
+    "options": [
+      "He is known by me.",
+      "He was known to me.",
+      "He is known to me.",
+      "He has been known by me."
+    ],
+    "answer": "He is known to me.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Exception: The verb 'know' takes the preposition 'to', not 'by'."
+  },
+  {
+    "id": 12,
+    "question": "Change to Passive: 'Open the door.'",
+    "options": [
+      "The door should be opened.",
+      "Let the door be opened.",
+      "The door is opened.",
+      "Let the door opened."
+    ],
+    "answer": "Let the door be opened.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Imperative command structure: Let + Object + be + V3."
+  },
+  {
+    "id": 13,
+    "question": "Change to Passive: 'Did he buy a car?'",
+    "options": [
+      "Was a car bought by him?",
+      "Did a car bought by him?",
+      "Had a car been bought by him?",
+      "Is a car bought by him?"
+    ],
+    "answer": "Was a car bought by him?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Interrogative Simple Past ('Did') changes to 'Was/Were' + Object + V3."
+  },
+  {
+    "id": 14,
+    "question": "Change to Passive: 'Someone has stolen my purse.'",
+    "options": [
+      "My purse has been stolen.",
+      "My purse had been stolen.",
+      "My purse was stolen.",
+      "My purse is stolen."
+    ],
+    "answer": "My purse has been stolen.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "When the subject is vague (Someone, People), it is often omitted in the passive voice."
+  },
+  {
+    "id": 15,
+    "question": "Change to Passive: 'People speak English all over the world.'",
+    "options": [
+      "English was spoken all over the world.",
+      "English is spoken all over the world.",
+      "English has been spoken all over the world.",
+      "English is spoken by people all over the world."
+    ],
+    "answer": "English is spoken all over the world.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "General truths omit the agent 'by people'."
+  },
+  {
+    "id": 16,
+    "question": "Change to Passive: 'He can lift this box.'",
+    "options": [
+      "This box could be lifted by him.",
+      "This box can be lifted by him.",
+      "This box can lifted by him.",
+      "This box may be lifted by him."
+    ],
+    "answer": "This box can be lifted by him.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Modals (can, may, should) change to 'Modal + be + V3'."
+  },
+  {
+    "id": 17,
+    "question": "Change to Passive: 'You must help the poor.'",
+    "options": [
+      "The poor must be helped by you.",
+      "The poor should be helped by you.",
+      "The poor must have been helped by you.",
+      "The poor can be helped by you."
+    ],
+    "answer": "The poor must be helped by you.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Modal 'must' changes to 'must be + V3'."
+  },
+  {
+    "id": 18,
+    "question": "Change to Passive: 'They made him King.'",
+    "options": [
+      "He was made King by them.",
+      "King was made him by them.",
+      "He had been made King by them.",
+      "He is made King by them."
+    ],
+    "answer": "He was made King by them.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Factitive verbs (made, appointed) keep the complement (King) after the verb."
+  },
+  {
+    "id": 19,
+    "question": "Change to Passive: 'Please help me.'",
+    "options": [
+      "Let me be helped.",
+      "I should be helped.",
+      "You are requested to help me.",
+      "You are ordered to help me."
+    ],
+    "answer": "You are requested to help me.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Imperatives starting with 'Please' are converted to 'You are requested to...'."
+  },
+  {
+    "id": 20,
+    "question": "Change to Passive: 'Does he like tea?'",
+    "options": [
+      "Is tea liked by him?",
+      "Was tea liked by him?",
+      "Has tea been liked by him?",
+      "Does tea liked by him?"
+    ],
+    "answer": "Is tea liked by him?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Interrogative Simple Present ('Does') changes to 'Is/Am/Are' + Object + V3."
+  },
+  {
+    "id": 21,
+    "question": "Change to Passive: 'She gave me a book.' (Double Object)",
+    "options": [
+      "A book is given to me by her.",
+      "I was given a book by her.",
+      "I am given a book by her.",
+      "A book was gave to me by her."
+    ],
+    "answer": "I was given a book by her.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "With two objects (me, book), it is better to make the person the subject. Simple Past -> Was given."
+  },
+  {
+    "id": 22,
+    "question": "Change to Passive: 'His behavior surprised me.'",
+    "options": [
+      "I was surprised by his behavior.",
+      "I was surprised at his behavior.",
+      "I am surprised at his behavior.",
+      "I had been surprised by his behavior."
+    ],
+    "answer": "I was surprised at his behavior.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Exception: 'Surprised' takes the preposition 'at', not 'by'."
+  },
+  {
+    "id": 23,
+    "question": "Change to Passive: 'We are expecting good news.'",
+    "options": [
+      "Good news is expected by us.",
+      "Good news was expected by us.",
+      "Good news is being expected by us.",
+      "Good news has been expected by us."
+    ],
+    "answer": "Good news is being expected by us.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Present Continuous -> is/are being + V3."
+  },
+  {
+    "id": 24,
+    "question": "Change to Passive: 'Who taught you French?'",
+    "options": [
+      "By whom were you taught French?",
+      "By whom was you taught French?",
+      "Who was taught French to you?",
+      "By whom you were taught French?"
+    ],
+    "answer": "By whom were you taught French?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Subject 'Who' -> 'By whom'. Verb 'were' comes before 'you'."
+  },
+  {
+    "id": 25,
+    "question": "Change to Passive: 'Shut the window.'",
+    "options": [
+      "The window should be shut.",
+      "Let the window be shut.",
+      "Let the window be shutted.",
+      "The window is shut."
+    ],
+    "answer": "Let the window be shut.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Imperative -> Let + Object + be + V3. Note: V3 of 'shut' is 'shut'."
+  },
+  {
+    "id": 26,
+    "question": "Change to Passive: 'He has to do it.'",
+    "options": [
+      "It has done by him.",
+      "It has to be done by him.",
+      "It had to be done by him.",
+      "It is to be done by him."
+    ],
+    "answer": "It has to be done by him.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Infinitive 'to do' changes to 'to be done'."
+  },
+  {
+    "id": 27,
+    "question": "Change to Passive: 'The police caught the thief.'",
+    "options": [
+      "The thief was caught by the police.",
+      "The thief is caught by the police.",
+      "The thief has been caught by the police.",
+      "The thief was being caught by the police."
+    ],
+    "answer": "The thief was caught by the police.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Simple Past -> Was/Were + V3."
+  },
+  {
+    "id": 28,
+    "question": "Change to Passive: 'I am reading a novel.'",
+    "options": [
+      "A novel was being read by me.",
+      "A novel is being read by me.",
+      "A novel is read by me.",
+      "A novel has been read by me."
+    ],
+    "answer": "A novel is being read by me.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Present Continuous -> Is being read."
+  },
+  {
+    "id": 29,
+    "question": "Change to Passive: 'Respect your elders.'",
+    "options": [
+      "Your elders should be respected.",
+      "Let your elders be respected.",
+      "Your elders are respected.",
+      "Respect should be given to elders."
+    ],
+    "answer": "Your elders should be respected.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Moral suggestions often use 'Should be + V3' instead of 'Let'."
+  },
+  {
+    "id": 30,
+    "question": "Change to Passive: 'It interests me.'",
+    "options": [
+      "I am interested in it.",
+      "I am interested by it.",
+      "I was interested in it.",
+      "I have been interested in it."
+    ],
+    "answer": "I am interested in it.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Exception: 'Interested' takes 'in', not 'by'."
+  },
+  {
+    "id": 31,
+    "question": "Change to Passive: 'They are building a house.'",
+    "options": [
+      "A house was built by them.",
+      "A house is being built by them.",
+      "A house has been built by them.",
+      "A house is built by them."
+    ],
+    "answer": "A house is being built by them.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Present Continuous -> Is being built."
+  },
+  {
+    "id": 32,
+    "question": "Change to Passive: 'Why did you write such a letter?'",
+    "options": [
+      "Why was such a letter written by you?",
+      "Why such a letter was written by you?",
+      "Why did such a letter written by you?",
+      "Why is such a letter written by you?"
+    ],
+    "answer": "Why was such a letter written by you?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Interrogative structure: Question Word + Auxiliary (was) + Object + V3."
+  },
+  {
+    "id": 33,
+    "question": "Change to Passive: 'One must keep one's promises.'",
+    "options": [
+      "Promises must be kept.",
+      "One's promises must be kept by one.",
+      "Promises should be kept.",
+      "Promises are kept."
+    ],
+    "answer": "Promises must be kept.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Indefinite subjects like 'One' are omitted in passive voice."
+  },
+  {
+    "id": 34,
+    "question": "Change to Passive: 'Have you finished the report?'",
+    "options": [
+      "Has the report finished by you?",
+      "Has the report been finished by you?",
+      "Had the report been finished by you?",
+      "Was the report finished by you?"
+    ],
+    "answer": "Has the report been finished by you?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Present Perfect Interrogative -> Has + Object + been + V3."
+  },
+  {
+    "id": 35,
+    "question": "Change to Passive: 'She looks after the child.'",
+    "options": [
+      "The child is looked after by her.",
+      "The child was looked after by her.",
+      "The child is looked by her.",
+      "The child has been looked after by her."
+    ],
+    "answer": "The child is looked after by her.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Phrasal verbs (looks after) keep the preposition together."
+  },
+  {
+    "id": 36,
+    "question": "Change to Passive: 'He did not ring the bell.'",
+    "options": [
+      "The bell was not rung by him.",
+      "The bell is not rung by him.",
+      "The bell had not been rung by him.",
+      "The bell was not rang by him."
+    ],
+    "answer": "The bell was not rung by him.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Simple Past Negative -> Was not + V3 (rung)."
+  },
+  {
+    "id": 37,
+    "question": "Change to Passive: 'Everyone loves him.'",
+    "options": [
+      "He is loved by everyone.",
+      "He was loved by everyone.",
+      "He has been loved by everyone.",
+      "He is being loved by everyone."
+    ],
+    "answer": "He is loved by everyone.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Simple Present -> Is + V3."
+  },
+  {
+    "id": 38,
+    "question": "Change to Passive: 'They will inform you.'",
+    "options": [
+      "You will be informed by them.",
+      "You would be informed by them.",
+      "You are informed by them.",
+      "You shall be informed by them."
+    ],
+    "answer": "You will be informed by them.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Simple Future -> Will be + V3."
+  },
+  {
+    "id": 39,
+    "question": "Change to Passive: 'Do not touch the wire.'",
+    "options": [
+      "Let the wire not be touched.",
+      "The wire should not be touched.",
+      "Let the wire not touched.",
+      "Let not the wire be touched."
+    ],
+    "answer": "Let the wire not be touched.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Negative Imperative -> Let + Object + not be + V3."
+  },
+  {
+    "id": 40,
+    "question": "Change to Passive: 'This pot contains milk.'",
+    "options": [
+      "Milk is contained by this pot.",
+      "Milk is contained in this pot.",
+      "Milk was contained in this pot.",
+      "Milk has been contained in this pot."
+    ],
+    "answer": "Milk is contained in this pot.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Exception: 'Contained' takes 'in', not 'by'."
+  },
+  {
+    "id": 41,
+    "question": "Change to Passive: 'We saw you and him.'",
+    "options": [
+      "You and he were seen by us.",
+      "You and him were seen by us.",
+      "You and he was seen by us.",
+      "You and him are seen by us."
+    ],
+    "answer": "You and he were seen by us.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Objective case 'him' changes to Subjective case 'he' in Passive."
+  },
+  {
+    "id": 42,
+    "question": "Change to Passive: 'He keeps me waiting.'",
+    "options": [
+      "I am kept waiting by him.",
+      "I was kept waiting by him.",
+      "I am being kept waiting by him.",
+      "I have been kept waiting by him."
+    ],
+    "answer": "I am kept waiting by him.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Simple Present -> Am + V3. The participle 'waiting' remains as is."
+  },
+  {
+    "id": 43,
+    "question": "Change to Passive: 'Prepare for war.'",
+    "options": [
+      "Be prepared for war.",
+      "Let war be prepared for.",
+      "You are ordered to prepare for war.",
+      "War should be prepared."
+    ],
+    "answer": "Be prepared for war.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Intransitive imperatives often change to 'Be + V3' or 'You are ordered to...'."
+  },
+  {
+    "id": 44,
+    "question": "Change to Passive: 'The doctor advised me to rest.'",
+    "options": [
+      "I was advised to rest by the doctor.",
+      "I am advised to rest by the doctor.",
+      "I had been advised to rest by the doctor.",
+      "I was advised rest by the doctor."
+    ],
+    "answer": "I was advised to rest by the doctor.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Simple Past -> Was advised."
+  },
+  {
+    "id": 45,
+    "question": "Change to Passive: 'Who is writing the letter?'",
+    "options": [
+      "By whom is the letter being written?",
+      "By whom was the letter written?",
+      "By whom is the letter written?",
+      "By whom was the letter being written?"
+    ],
+    "answer": "By whom is the letter being written?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Present Continuous Interrogative -> Is... being written."
+  },
+  {
+    "id": 46,
+    "question": "Change to Passive: 'Rome was not built in a day.' (Identify Active form)",
+    "options": [
+      "They did not build Rome in a day.",
+      "We did not build Rome in a day.",
+      "Romans did not build Rome in a day.",
+      "People did not build Rome in a day."
+    ],
+    "answer": "Romans did not build Rome in a day.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Reverse logic: The implied agent for building Rome is 'The Romans'."
+  },
+  {
+    "id": 47,
+    "question": "Change to Passive: 'Help the poor.'",
+    "options": [
+      "The poor should be helped.",
+      "Let the poor be helped.",
+      "The poor are helped.",
+      "Let the poor helped."
+    ],
+    "answer": "The poor should be helped.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Moral advice uses 'should be'."
+  },
+  {
+    "id": 48,
+    "question": "Change to Passive: 'I remember my sister taking me to the zoo.'",
+    "options": [
+      "I remember being taken to the zoo by my sister.",
+      "I remember taken to the zoo by my sister.",
+      "I remember myself being taken to the zoo by my sister.",
+      "I remember to be taken to the zoo by my sister."
+    ],
+    "answer": "I remember being taken to the zoo by my sister.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Gerund 'taking' changes to Passive Gerund 'being taken'."
+  },
+  {
+    "id": 49,
+    "question": "Change to Passive: 'She has to help us.'",
+    "options": [
+      "We have to be helped by her.",
+      "We has to be helped by her.",
+      "We had to be helped by her.",
+      "We are to be helped by her."
+    ],
+    "answer": "We have to be helped by her.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "'Has to' changes to 'Have to' to agree with 'We', then 'be helped'."
+  },
+  {
+    "id": 50,
+    "question": "Change to Passive: 'They laughed at the beggar.'",
+    "options": [
+      "The beggar was laughed at by them.",
+      "The beggar was laughed by them.",
+      "The beggar was laughed at.",
+      "The beggar is laughed at by them."
+    ],
+    "answer": "The beggar was laughed at by them.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Preposition 'at' must remain with the verb 'laughed'."
+  },
+  {
+    "id": 51,
+    "question": "Change to Passive: 'Don't disturb me.'",
+    "options": [
+      "Let me not be disturbed.",
+      "I should not be disturbed.",
+      "You are requested not to disturb me.",
+      "Let I not be disturbed."
+    ],
+    "answer": "Let me not be disturbed.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Standard imperative passive: Let + Object + not be + V3."
+  },
+  {
+    "id": 52,
+    "question": "Change to Passive: 'We use milk for making cheese.'",
+    "options": [
+      "Milk is used for making cheese.",
+      "Milk is used for making cheese by us.",
+      "Milk was used for making cheese.",
+      "Milk has been used for making cheese."
+    ],
+    "answer": "Milk is used for making cheese.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Simple Present. 'By us' is unnecessary and usually omitted."
+  },
+  {
+    "id": 53,
+    "question": "Change to Passive: 'Did the noise frighten you?'",
+    "options": [
+      "Were you frightened by the noise?",
+      "Was you frightened by the noise?",
+      "Are you frightened by the noise?",
+      "Have you been frightened by the noise?"
+    ],
+    "answer": "Were you frightened by the noise?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Simple Past Interrogative -> Were + You + V3."
+  },
+  {
+    "id": 54,
+    "question": "Change to Passive: 'It is time to close the shop.'",
+    "options": [
+      "It is time for the shop to be closed.",
+      "It is time the shop to be closed.",
+      "It is time for the shop closed.",
+      "It is time to be closed the shop."
+    ],
+    "answer": "It is time for the shop to be closed.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Structure: 'It is time + for + Object + to be + V3'."
+  },
+  {
+    "id": 55,
+    "question": "Change to Passive: 'The teacher punished the boy.'",
+    "options": [
+      "The boy was punished by the teacher.",
+      "The boy is punished by the teacher.",
+      "The boy has been punished by the teacher.",
+      "The boy had been punished by the teacher."
+    ],
+    "answer": "The boy was punished by the teacher.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Simple Past -> Was + V3."
+  },
+  {
+    "id": 56,
+    "question": "Change to Passive: 'Please sit down.'",
+    "options": [
+      "You are requested to sit down.",
+      "You are ordered to sit down.",
+      "Let you sit down.",
+      "Sit down please."
+    ],
+    "answer": "You are requested to sit down.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "'Please' converts to 'You are requested to'."
+  },
+  {
+    "id": 57,
+    "question": "Change to Passive: 'They say that honesty is the best policy.'",
+    "options": [
+      "It is said that honesty is the best policy.",
+      "Honesty is said to be the best policy.",
+      "That honesty is the best policy is said by them.",
+      "It was said that honesty is the best policy."
+    ],
+    "answer": "It is said that honesty is the best policy.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Sentences starting with 'They say/People believe' change to 'It is said/It is believed'."
+  },
+  {
+    "id": 58,
+    "question": "Change to Passive: 'Who can count the stars?'",
+    "options": [
+      "By whom can the stars be counted?",
+      "By whom could the stars be counted?",
+      "Who can the stars be counted by?",
+      "By whom can the stars counted?"
+    ],
+    "answer": "By whom can the stars be counted?",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Interrogative Modal -> By whom + Modal + Object + be + V3."
+  },
+  {
+    "id": 59,
+    "question": "Change to Passive: 'Honey tastes sweet.' (Quasi-Passive)",
+    "options": [
+      "Honey is sweet when it is tasted.",
+      "Honey is tasted sweet.",
+      "Honey was sweet when tasted.",
+      "Honey is being sweet when tasted."
+    ],
+    "answer": "Honey is sweet when it is tasted.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Quasi-passive verbs (taste, smell) change to 'Subject + is + Adjective + when it is V3'."
+  },
+  {
+    "id": 60,
+    "question": "Change to Passive: 'He will have been working.' (Intransitive)",
+    "options": [
+      "No Passive Voice.",
+      "Work will have been done by him.",
+      "He will have been worked.",
+      "Being worked by him."
+    ],
+    "answer": "No Passive Voice.",
+    "topic": "voice",
+    "pattern_type": "skill_builder",
+    "difficulty": "hard",
+    "explanation": "Future Perfect Continuous Tense and Intransitive verbs (working without an object) cannot be changed into Passive Voice."
+  }
+]

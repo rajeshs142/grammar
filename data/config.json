@@ -1,0 +1,177 @@
+{
+  "appInfo": {
+    "name": "Class 10 English Grammar Practice",
+    "version": "1.0",
+    "description": "CBSE Class 10 English Grammar Practice with 1000+ questions"
+  },
+  "topics": [
+    {
+      "id": "tenses",
+      "name": "Tenses",
+      "file": "tenses.json",
+      "weightage": 25,
+      "description": "Present, Past, Future tenses and their forms",
+      "color": "#e74c3c"
+    },
+    {
+      "id": "modals",
+      "name": "Modals",
+      "file": "modals.json", 
+      "weightage": 10,
+      "description": "Can, could, may, might, must, should, etc.",
+      "color": "#3498db"
+    },
+    {
+      "id": "voice",
+      "name": "Active & Passive Voice",
+      "file": "voice.json",
+      "weightage": 15,
+      "description": "Conversion between active and passive voice",
+      "color": "#2ecc71"
+    },
+    {
+      "id": "reportedspeech",
+      "name": "Reported Speech",
+      "file": "reportedspeech.json",
+      "weightage": 15,
+      "description": "Direct and indirect speech conversion",
+      "color": "#9b59b6"
+    },
+    {
+      "id": "subjectverb",
+      "name": "Subject-Verb Agreement",
+      "file": "subjectverb.json",
+      "weightage": 10,
+      "description": "Matching subjects with correct verb forms",
+      "color": "#f39c12"
+    },
+    {
+      "id": "prepositions",
+      "name": "Prepositions",
+      "file": "prepositions.json",
+      "weightage": 8,
+      "description": "Correct use of prepositions in context",
+      "color": "#1abc9c"
+    },
+    {
+      "id": "determinersarticles",
+      "name": "Determiners & Articles",
+      "file": "determinersarticles.json",
+      "weightage": 7,
+      "description": "Various determiners, articles and their usage",
+      "color": "#7f8c8d"
+    },
+    {
+      "id": "conjunctions",
+      "name": "Conjunctions",
+      "file": "conjunctions.json",
+      "weightage": 5,
+      "description": "Connecting words and phrases",
+      "color": "#c0392b"
+    },
+        {
+      "id": "reordering",
+      "name": "Sentence reordering",
+      "file": "reordering.json",
+      "weightage": 5,
+      "description": "Rearrange words to form meaningful sentences",
+      "color": "#c0392b"
+    }
+  ],
+  "questionTypes": [
+    {
+      "id": "gap_filling",
+      "name": "Gap Filling",
+      "weightage": 30,
+      "description": "Fill in the blanks with appropriate words"
+    },
+    {
+      "id": "editing",
+      "name": "Editing",
+      "weightage": 20,
+      "description": "Identify and correct errors in sentences"
+    },
+    {
+      "id": "omission",
+      "name": "Omission",
+      "weightage": 20,
+      "description": "Identify missing words in passages"
+    },
+    {
+      "id": "transformation",
+      "name": "Transformation",
+      "weightage": 15,
+      "description": "Change sentences while keeping meaning"
+    },
+    {
+      "id": "reordering",
+      "name": "Sentence Reordering",
+      "weightage": 15,
+      "description": "Rearrange words to form meaningful sentences"
+    }
+  ],
+  "testConfigs": {
+    "fullTest": {
+      "name": "Full Grammar Test",
+      "totalQuestions": 10,
+      "timeLimit": 30,
+      "marks": 10,
+      "distribution": {
+        "tenses": 3,
+        "modals": 1,
+        "voice": 2,
+        "reportedspeech": 2,
+        "subjectverb": 1,
+        "prepositions": 1,
+          "conjunctions": 1,
+          "determinersarticles": 1,
+          "reordering": 1
+      }
+    },
+    "topicTest": {
+      "name": "Topic-wise Test",
+      "totalQuestions": 10,
+      "timeLimit": 20,
+      "marks": 10
+    },
+    "questionTypes": {
+      "fullTest": {
+        "gap_filling": 3,
+        "editing": 4,
+        "transformation": 3
+      }
+    }
+  },
+  "difficultyLevels": [
+    {
+      "id": "easy",
+      "name": "Easy",
+      "weightage": 40,
+      "description": "Basic concepts and straightforward questions"
+    },
+    {
+      "id": "medium", 
+      "name": "Medium",
+      "weightage": 40,
+      "description": "Moderate difficulty with some complexity"
+    },
+    {
+      "id": "hard",
+      "name": "Hard",
+      "weightage": 20,
+      "description": "Advanced concepts and tricky questions"
+    }
+  ],
+  "filePaths": {
+    "dataDirectory": "./data/",
+    "images": "./assets/images/",
+    "icons": "./assets/icons/"
+  },
+  "uiConfig": {
+    "defaultView": "fullTest",
+    "showExplanations": true,
+    "autoAdvance": false,
+    "shuffleQuestions": true,
+    "shuffleOptions": true
+  }
+}

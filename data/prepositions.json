@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank: 'The cat jumped ______ the table.'",
+    "options": [
+      "on",
+      "upon",
+      "in",
+      "at"
+    ],
+    "answer": "upon",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Upon' implies movement onto a surface (jumped + on). 'On' usually indicates a static position."
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank: 'He has been living here ______ 2010.'",
+    "options": [
+      "from",
+      "since",
+      "for",
+      "during"
+    ],
+    "answer": "since",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Since' is used for a specific point in time (2010, Monday, Morning). 'For' is used for a duration."
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank: 'I have known him ______ ten years.'",
+    "options": [
+      "since",
+      "from",
+      "for",
+      "by"
+    ],
+    "answer": "for",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Ten years' is a duration/period of time, so we use 'for'."
+  },
+  {
+    "id": 4,
+    "question": "Fill in the blank: 'The frog fell ______ the well.'",
+    "options": [
+      "in",
+      "into",
+      "to",
+      "inside"
+    ],
+    "answer": "into",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Into' implies motion towards the inside of something. 'In' implies already being inside."
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank: 'Distribute these sweets ______ the two brothers.'",
+    "options": [
+      "among",
+      "between",
+      "with",
+      "to"
+    ],
+    "answer": "between",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Between' is generally used for two people or items. 'Among' is for more than two."
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank: 'Distribute the money ______ the poor.'",
+    "options": [
+      "between",
+      "among",
+      "to",
+      "for"
+    ],
+    "answer": "among",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'The poor' refers to a group of many people, so 'among' is used."
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank: 'He sat ______ me in class.'",
+    "options": [
+      "besides",
+      "beside",
+      "next",
+      "at"
+    ],
+    "answer": "beside",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Beside' means 'by the side of' or 'next to'. 'Besides' means 'in addition to'."
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank: '______ milk, we need some eggs.'",
+    "options": [
+      "Beside",
+      "Besides",
+      "Except",
+      "With"
+    ],
+    "answer": "Besides",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Here, the meaning is 'In addition to milk', so 'Besides' is correct."
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: 'He died ______ cancer.'",
+    "options": [
+      "from",
+      "of",
+      "by",
+      "with"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Standard rule: One dies 'of' a disease (cholera, cancer) but 'from' a cause (overeating, wounds)."
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank: 'He died ______ overeating.'",
+    "options": [
+      "of",
+      "from",
+      "by",
+      "in"
+    ],
+    "answer": "from",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Overeating is an external cause/reason, so 'from' is used."
+  },
+  {
+    "id": 11,
+    "question": "Fill in the blank: 'The book is ______ the table.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "over"
+    ],
+    "answer": "on",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'On' indicates contact with the surface."
+  },
+  {
+    "id": 12,
+    "question": "Fill in the blank: 'The fan is ______ my head.'",
+    "options": [
+      "on",
+      "over",
+      "above",
+      "up"
+    ],
+    "answer": "over",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Over' implies directly above (vertically). 'Above' just means higher level."
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank: 'He cut the apple ______ a knife.'",
+    "options": [
+      "by",
+      "with",
+      "from",
+      "in"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "We use 'with' for instruments/tools (knife, pen). We use 'by' for the agent/doer (by him)."
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank: 'The letter was written ______ him.'",
+    "options": [
+      "with",
+      "by",
+      "from",
+      "to"
+    ],
+    "answer": "by",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Passive voice agent marker -> 'by'."
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank: 'He arrived ______ the station on time.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'At' is used for specific small places or points (at the station, at the door, at the bus stop). 'In' is for large cities/countries."
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank: 'He lives ______ Delhi.'",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "by"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'In' is used for cities, states, and countries."
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank: 'I will meet you ______ 5 o'clock.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'At' is used for precise clock times."
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: 'He was born ______ Monday.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answer": "on",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'On' is used for days and dates."
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank: 'He was born ______ July.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'In' is used for months, years, and seasons."
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank: 'He is swimming ______ the river.'",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "into"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Since he is already inside the water, we use 'in'. If he jumped, it would be 'into'."
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: 'The plane flew ______ the clouds.'",
+    "options": [
+      "above",
+      "over",
+      "on",
+      "up"
+    ],
+    "answer": "above",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Above' is used when something is at a higher level than something else."
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank: 'Someone is knocking ______ the door.'",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "over"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "We say 'at the door' (a specific point)."
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank: 'He walked ______ the forest.'",
+    "options": [
+      "across",
+      "through",
+      "in",
+      "along"
+    ],
+    "answer": "through",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Through' implies entering one side and coming out the other of a 3D space (forest, tunnel)."
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: 'There is a bridge ______ the river.'",
+    "options": [
+      "on",
+      "above",
+      "across",
+      "through"
+    ],
+    "answer": "across",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Across' means from one side to the other."
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: 'He is afraid ______ dogs.'",
+    "options": [
+      "from",
+      "with",
+      "of",
+      "by"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Afraid' is always followed by 'of'."
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank: 'I prefer tea ______ coffee.'",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "over"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Common Error: 'Prefer' takes 'to', never 'than'."
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blank: 'He is good ______ Mathematics.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "with"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "We say good/bad 'at' a subject or skill, not 'in'."
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank: 'She is suffering ______ fever.'",
+    "options": [
+      "with",
+      "of",
+      "from",
+      "by"
+    ],
+    "answer": "from",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Suffer' is followed by 'from'."
+  },
+  {
+    "id": 29,
+    "question": "Fill in the blank: 'Listen ______ me.'",
+    "options": [
+      "at",
+      "to",
+      "with",
+      "of"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Listen' is always followed by 'to'."
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank: 'He is senior ______ me.'",
+    "options": [
+      "than",
+      "from",
+      "to",
+      "of"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Adjectives ending in '-ior' (senior, junior, superior, inferior) take 'to', not 'than'."
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: 'The cat is hiding ______ the table.'",
+    "options": [
+      "over",
+      "under",
+      "in",
+      "on"
+    ],
+    "answer": "under",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Under' implies directly below something."
+  },
+  {
+    "id": 32,
+    "question": "Fill in the blank: 'I do not agree ______ you.'",
+    "options": [
+      "to",
+      "with",
+      "on",
+      "at"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Agree 'with' a person. Agree 'to' a proposal."
+  },
+  {
+    "id": 33,
+    "question": "Fill in the blank: 'He agreed ______ my proposal.'",
+    "options": [
+      "with",
+      "to",
+      "on",
+      "for"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Agree 'to' a plan/proposal."
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank: 'She is fond ______ music.'",
+    "options": [
+      "in",
+      "at",
+      "of",
+      "with"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Fond' is always followed by 'of'."
+  },
+  {
+    "id": 35,
+    "question": "Fill in the blank: 'He traveled ______ train.'",
+    "options": [
+      "in",
+      "by",
+      "with",
+      "on"
+    ],
+    "answer": "by",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Modes of transport use 'by' (by car, by bus, by train). Exception: 'on foot'."
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank: 'He goes to school ______ foot.'",
+    "options": [
+      "by",
+      "on",
+      "with",
+      "in"
+    ],
+    "answer": "on",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Fixed phrase: 'on foot'."
+  },
+  {
+    "id": 37,
+    "question": "Fill in the blank: 'The house is ______ fire.'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "answer": "on",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Fixed phrase: 'on fire'."
+  },
+  {
+    "id": 38,
+    "question": "Fill in the blank: 'She is married ______ a doctor.'",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "by"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Common Error: We say married 'to', never married 'with'."
+  },
+  {
+    "id": 39,
+    "question": "Fill in the blank: 'Look ______ the blackboard.'",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "to"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Look 'at' something."
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank: 'He is looking ______ his lost keys.'",
+    "options": [
+      "at",
+      "for",
+      "after",
+      "into"
+    ],
+    "answer": "for",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Look 'for' means to search."
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank: 'Who is waiting ______ the station?'",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "inside"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'At' indicates a specific location/point."
+  },
+  {
+    "id": 42,
+    "question": "Fill in the blank: 'I am proud ______ you.'",
+    "options": [
+      "of",
+      "on",
+      "at",
+      "for"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Proud' takes 'of'. (Pride takes 'in')."
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank: 'He takes pride ______ his work.'",
+    "options": [
+      "of",
+      "in",
+      "on",
+      "at"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Take pride in' something."
+  },
+  {
+    "id": 44,
+    "question": "Fill in the blank: 'Beware ______ dogs.'",
+    "options": [
+      "from",
+      "of",
+      "with",
+      "at"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Beware of' is a fixed warning phrase."
+  },
+  {
+    "id": 45,
+    "question": "Fill in the blank: 'The train is arriving ______ platform 4.'",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "to"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "We arrive 'at' a platform or small station. (Though 'on' is sometimes heard in US English, 'at' is standard for CBSE)."
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank: 'He is addicted ______ gambling.'",
+    "options": [
+      "to",
+      "with",
+      "of",
+      "for"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Addicted' always takes 'to'."
+  },
+  {
+    "id": 47,
+    "question": "Fill in the blank: 'I am not interested ______ politics.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "with"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Interested' always takes 'in'."
+  },
+  {
+    "id": 48,
+    "question": "Fill in the blank: 'He comes ______ a rich family.'",
+    "options": [
+      "from",
+      "of",
+      "by",
+      "in"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "When referring to ancestry/origin of birth, we say 'comes of'. 'Comes from' is for places. (CBSE often tests this distinction)."
+  },
+  {
+    "id": 49,
+    "question": "Fill in the blank: 'She is angry ______ me.'",
+    "options": [
+      "on",
+      "with",
+      "at",
+      "by"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Angry 'with' a person. Angry 'at' a situation."
+  },
+  {
+    "id": 50,
+    "question": "Fill in the blank: 'Please write ______ ink.'",
+    "options": [
+      "with",
+      "in",
+      "by",
+      "from"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "We say write 'in' ink (fluid), but write 'with' a pen (instrument)."
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank: 'He congratulated me ______ my success.'",
+    "options": [
+      "for",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "on",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Congratulate' is always followed by 'on'."
+  },
+  {
+    "id": 52,
+    "question": "Fill in the blank: 'I am satisfied ______ your work.'",
+    "options": [
+      "with",
+      "from",
+      "at",
+      "by"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Satisfied' is followed by 'with'."
+  },
+  {
+    "id": 53,
+    "question": "Fill in the blank: 'Prevent him ______ going there.'",
+    "options": [
+      "to",
+      "from",
+      "for",
+      "by"
+    ],
+    "answer": "from",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Prevent' is followed by 'from' + gerund (going)."
+  },
+  {
+    "id": 54,
+    "question": "Fill in the blank: 'He deals ______ rice.'",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "by"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "To 'deal in' means to trade (sell rice). To 'deal with' means to handle a person or problem."
+  },
+  {
+    "id": 55,
+    "question": "Fill in the blank: 'How do you deal ______ difficult customers?'",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "to"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Deal with' means to manage or handle."
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank: 'He is innocent ______ the crime.'",
+    "options": [
+      "of",
+      "from",
+      "to",
+      "for"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Innocent' takes 'of'."
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank: 'She is jealous ______ her sister.'",
+    "options": [
+      "from",
+      "of",
+      "with",
+      "by"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Jealous' always takes 'of'."
+  },
+  {
+    "id": 58,
+    "question": "Fill in the blank: 'The bucket is full ______ water.'",
+    "options": [
+      "with",
+      "of",
+      "by",
+      "in"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Full' takes 'of'. (Note: 'Filled' takes 'with')."
+  },
+  {
+    "id": 59,
+    "question": "Fill in the blank: 'This bag is filled ______ sand.'",
+    "options": [
+      "of",
+      "with",
+      "by",
+      "in"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Filled' takes 'with'."
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank: 'We must abide ______ the rules.'",
+    "options": [
+      "with",
+      "by",
+      "to",
+      "on"
+    ],
+    "answer": "by",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Abide by' is a phrasal verb meaning to accept or obey."
+  },
+  {
+    "id": 61,
+    "question": "Fill in the blank: 'He insisted ______ going out.'",
+    "options": [
+      "on",
+      "to",
+      "for",
+      "in"
+    ],
+    "answer": "on",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Insist' is followed by 'on'."
+  },
+  {
+    "id": 62,
+    "question": "Fill in the blank: 'He is superior ______ me.'",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "of"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Latin comparatives (superior, inferior, senior) take 'to'."
+  },
+  {
+    "id": 63,
+    "question": "Fill in the blank: 'He was accused ______ theft.'",
+    "options": [
+      "for",
+      "of",
+      "with",
+      "by"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Accused' takes 'of'. (Charged takes 'with')."
+  },
+  {
+    "id": 64,
+    "question": "Fill in the blank: 'He was charged ______ murder.'",
+    "options": [
+      "of",
+      "with",
+      "for",
+      "by"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Charged' takes 'with'."
+  },
+  {
+    "id": 65,
+    "question": "Fill in the blank: 'Translate this passage ______ English.'",
+    "options": [
+      "in",
+      "to",
+      "into",
+      "for"
+    ],
+    "answer": "into",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "When changing form/language, use 'into'."
+  },
+  {
+    "id": 66,
+    "question": "Fill in the blank: 'I am tired ______ walking.'",
+    "options": [
+      "of",
+      "with",
+      "by",
+      "from"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Tired of' something (bored/exhausted)."
+  },
+  {
+    "id": 67,
+    "question": "Fill in the blank: 'She is related ______ me.'",
+    "options": [
+      "with",
+      "to",
+      "of",
+      "by"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Related' takes 'to'."
+  },
+  {
+    "id": 68,
+    "question": "Fill in the blank: 'The dog ran ______ the road.'",
+    "options": [
+      "across",
+      "through",
+      "in",
+      "on"
+    ],
+    "answer": "across",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Across' means from one side to the other."
+  },
+  {
+    "id": 69,
+    "question": "Fill in the blank: 'Divide this apple ______ four parts.'",
+    "options": [
+      "in",
+      "into",
+      "to",
+      "by"
+    ],
+    "answer": "into",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Division/Transformation implies change, so 'into' is used."
+  },
+  {
+    "id": 70,
+    "question": "Fill in the blank: 'We sat ______ the shade of a tree.'",
+    "options": [
+      "under",
+      "in",
+      "on",
+      "at"
+    ],
+    "answer": "in",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Common Trap: We sit 'under' a tree, but 'in' the shade of a tree (because shade is an area/volume)."
+  },
+  {
+    "id": 71,
+    "question": "Fill in the blank: 'He aimed ______ the bird.'",
+    "options": [
+      "on",
+      "at",
+      "to",
+      "in"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Aim at' a target."
+  },
+  {
+    "id": 72,
+    "question": "Fill in the blank: 'He apologized ______ his mistake.'",
+    "options": [
+      "to",
+      "for",
+      "on",
+      "at"
+    ],
+    "answer": "for",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Apologize 'to' a person 'for' a mistake."
+  },
+  {
+    "id": 73,
+    "question": "Fill in the blank: 'I apologized ______ him.'",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "by"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Apologize 'to' a person."
+  },
+  {
+    "id": 74,
+    "question": "Fill in the blank: 'This rule is applicable ______ everyone.'",
+    "options": [
+      "on",
+      "to",
+      "for",
+      "with"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Applicable' takes 'to'."
+  },
+  {
+    "id": 75,
+    "question": "Fill in the blank: 'He is responsible ______ this mess.'",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": "for",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Responsible' takes 'for'."
+  },
+  {
+    "id": 76,
+    "question": "Fill in the blank: 'The table is made ______ wood.'",
+    "options": [
+      "of",
+      "from",
+      "by",
+      "with"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Made of' is used when the material does not change its form physically (you can still see the wood)."
+  },
+  {
+    "id": 77,
+    "question": "Fill in the blank: 'Paper is made ______ wood.'",
+    "options": [
+      "of",
+      "from",
+      "by",
+      "in"
+    ],
+    "answer": "from",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Made from' is used when the material changes form completely (wood pulp becomes paper)."
+  },
+  {
+    "id": 78,
+    "question": "Fill in the blank: 'He is dependent ______ his parents.'",
+    "options": [
+      "on",
+      "of",
+      "to",
+      "with"
+    ],
+    "answer": "on",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Dependent' takes 'on'."
+  },
+  {
+    "id": 79,
+    "question": "Fill in the blank: 'She is ashamed ______ her behavior.'",
+    "options": [
+      "with",
+      "of",
+      "for",
+      "at"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Ashamed' takes 'of'."
+  },
+  {
+    "id": 80,
+    "question": "Fill in the blank: 'Put the blanket ______ the baby.'",
+    "options": [
+      "on",
+      "over",
+      "above",
+      "up"
+    ],
+    "answer": "over",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Over' implies covering something (contact + covering)."
+  },
+  {
+    "id": 81,
+    "question": "Fill in the blank: 'He jumped ______ the fence.'",
+    "options": [
+      "over",
+      "above",
+      "on",
+      "up"
+    ],
+    "answer": "over",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Over' implies movement from one side to the other at a higher level."
+  },
+  {
+    "id": 82,
+    "question": "Fill in the blank: 'I differ ______ you on this point.'",
+    "options": [
+      "with",
+      "from",
+      "of",
+      "to"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Differ 'with' a person (disagree). Differ 'from' something (be different)."
+  },
+  {
+    "id": 83,
+    "question": "Fill in the blank: 'This book differs ______ that one.'",
+    "options": [
+      "with",
+      "from",
+      "of",
+      "to"
+    ],
+    "answer": "from",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Differ 'from' (is unlike)."
+  },
+  {
+    "id": 84,
+    "question": "Fill in the blank: 'He is worthy ______ praise.'",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "at"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Worthy' takes 'of'."
+  },
+  {
+    "id": 85,
+    "question": "Fill in the blank: 'The train is bound ______ Mumbai.'",
+    "options": [
+      "to",
+      "for",
+      "towards",
+      "at"
+    ],
+    "answer": "for",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Correct usage: 'Bound for' a destination."
+  },
+  {
+    "id": 86,
+    "question": "Fill in the blank: 'He climbed ______ the ladder.'",
+    "options": [
+      "up",
+      "on",
+      "above",
+      "over"
+    ],
+    "answer": "up",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Up' implies upward movement."
+  },
+  {
+    "id": 87,
+    "question": "Fill in the blank: 'She is capable ______ doing it.'",
+    "options": [
+      "to",
+      "of",
+      "for",
+      "with"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Capable' takes 'of' (Able takes 'to')."
+  },
+  {
+    "id": 88,
+    "question": "Fill in the blank: 'Don't lean ______ the wall.'",
+    "options": [
+      "on",
+      "against",
+      "at",
+      "to"
+    ],
+    "answer": "against",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Against' implies pressure/support."
+  },
+  {
+    "id": 89,
+    "question": "Fill in the blank: 'He is popular ______ the students.'",
+    "options": [
+      "among",
+      "with",
+      "between",
+      "for"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Popular 'with' a group. (Sometimes 'among' is accepted, but 'with' is standard idiom)."
+  },
+  {
+    "id": 90,
+    "question": "Fill in the blank: 'She burst ______ tears.'",
+    "options": [
+      "in",
+      "into",
+      "with",
+      "out"
+    ],
+    "answer": "into",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Fixed phrase: 'burst into tears'."
+  },
+  {
+    "id": 91,
+    "question": "Fill in the blank: 'He is confident ______ his success.'",
+    "options": [
+      "of",
+      "for",
+      "about",
+      "in"
+    ],
+    "answer": "of",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Confident' takes 'of'."
+  },
+  {
+    "id": 92,
+    "question": "Fill in the blank: 'I was surprised ______ his behavior.'",
+    "options": [
+      "at",
+      "by",
+      "on",
+      "for"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Surprised 'at' something."
+  },
+  {
+    "id": 93,
+    "question": "Fill in the blank: 'He is married ______ two children.'",
+    "options": [
+      "with",
+      "to",
+      "having",
+      "of"
+    ],
+    "answer": "with",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Tricky Exception: 'Married with children' means he is married AND has children."
+  },
+  {
+    "id": 94,
+    "question": "Fill in the blank: 'The meeting was put ______ until next week.'",
+    "options": [
+      "out",
+      "off",
+      "away",
+      "up"
+    ],
+    "answer": "off",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Put off' means to postpone."
+  },
+  {
+    "id": 95,
+    "question": "Fill in the blank: 'She is good ______ playing piano.'",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "with"
+    ],
+    "answer": "at",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Good 'at' a gerund (playing)."
+  },
+  {
+    "id": 96,
+    "question": "Fill in the blank: 'He is waiting ______ the bus.'",
+    "options": [
+      "for",
+      "at",
+      "of",
+      "on"
+    ],
+    "answer": "for",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Wait 'for' an object/person."
+  },
+  {
+    "id": 97,
+    "question": "Fill in the blank: 'They quarreled ______ a trifle.'",
+    "options": [
+      "over",
+      "for",
+      "on",
+      "at"
+    ],
+    "answer": "over",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Quarrel 'over' a matter."
+  },
+  {
+    "id": 98,
+    "question": "Fill in the blank: 'The shop is open ______ 9 AM to 5 PM.'",
+    "options": [
+      "from",
+      "between",
+      "by",
+      "at"
+    ],
+    "answer": "from",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'From...to' is the standard pair."
+  },
+  {
+    "id": 99,
+    "question": "Fill in the blank: 'The shop is open ______ 9 AM and 5 PM.'",
+    "options": [
+      "between",
+      "from",
+      "at",
+      "by"
+    ],
+    "answer": "between",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Between...and' is the standard pair."
+  },
+  {
+    "id": 100,
+    "question": "Fill in the blank: 'He jumped ______ the conclusion.'",
+    "options": [
+      "to",
+      "at",
+      "on",
+      "into"
+    ],
+    "answer": "to",
+    "topic": "prepositions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Fixed phrase: 'Jump to a conclusion'."
+  }
+]

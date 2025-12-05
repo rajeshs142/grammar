@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank: 'The train ______ before we reached the station.'",
+    "options": [
+      "left",
+      "had left",
+      "has left",
+      "was leaving"
+    ],
+    "answer": "had left",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "When two actions happen in the past, the earlier action takes the Past Perfect tense ('had left') and the later action takes the Simple Past."
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank: 'I ______ him since we met a year ago.'",
+    "options": [
+      "did not see",
+      "have not seen",
+      "had not seen",
+      "do not see"
+    ],
+    "answer": "have not seen",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Since' indicates an action starting in the past and continuing to the present, requiring the Present Perfect tense."
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank: 'While I ______ the book, the lights went out.'",
+    "options": [
+      "read",
+      "was reading",
+      "have read",
+      "am reading"
+    ],
+    "answer": "was reading",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Past Continuous ('was reading') is used for a longer action in the past that was interrupted by a shorter action ('went out')."
+  },
+  {
+    "id": 4,
+    "question": "Fill in the blank: 'He ______ in this house for ten years implies he still lives here.'",
+    "options": [
+      "lives",
+      "has been living",
+      "lived",
+      "had lived"
+    ],
+    "answer": "has been living",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Present Perfect Continuous ('has been living') emphasizes the duration of an action that started in the past and is still continuing."
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank: 'She ______ to the market yesterday.'",
+    "options": [
+      "gone",
+      "has gone",
+      "went",
+      "had gone"
+    ],
+    "answer": "went",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "The specific time marker 'yesterday' requires the Simple Past tense ('went'), not the Present Perfect."
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank: 'By this time next year, I ______ my graduation.'",
+    "options": [
+      "will complete",
+      "will have completed",
+      "would complete",
+      "completed"
+    ],
+    "answer": "will have completed",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Future Perfect ('will have completed') is used to describe an action that will be finished before a specific point in the future."
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank: 'The Earth ______ round the Sun.'",
+    "options": [
+      "moved",
+      "moves",
+      "has moved",
+      "is moving"
+    ],
+    "answer": "moves",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Universal truths and scientific facts always use the Simple Present tense."
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank: 'I ______ (finish) my project just now.'",
+    "options": [
+      "finished",
+      "have finished",
+      "had finished",
+      "finish"
+    ],
+    "answer": "have finished",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The adverb 'just now' is a strong indicator for the Present Perfect tense, indicating a very recent completion."
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: 'If I ______ a bird, I would fly.'",
+    "options": [
+      "was",
+      "am",
+      "were",
+      "have been"
+    ],
+    "answer": "were",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "In hypothetical or imaginary situations (Second Conditional), 'were' is used for all subjects, even singular ones like 'I'."
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank: 'Look at those dark clouds! It ______ rain.'",
+    "options": [
+      "will",
+      "shall",
+      "is going to",
+      "must"
+    ],
+    "answer": "is going to",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Going to' is used for predictions based on present evidence (the dark clouds)."
+  },
+  {
+    "id": 11,
+    "question": "Fill in the blank: 'When I reached the cinema, the movie ______ already ______.'",
+    "options": [
+      "has / started",
+      "was / started",
+      "had / started",
+      "is / starting"
+    ],
+    "answer": "had / started",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The movie started *before* the arrival at the cinema (past action), so Past Perfect ('had started') is required."
+  },
+  {
+    "id": 12,
+    "question": "Fill in the blank: 'He usually ______ coffee, but today he is drinking tea.'",
+    "options": [
+      "drink",
+      "drinks",
+      "drank",
+      "is drinking"
+    ],
+    "answer": "drinks",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Simple Present ('drinks') is used for habits/routines indicated by 'usually'."
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank: 'I ______ for you for two hours. Where were you?'",
+    "options": [
+      "wait",
+      "am waiting",
+      "have been waiting",
+      "was waiting"
+    ],
+    "answer": "have been waiting",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Present Perfect Continuous is used because the waiting started in the past and continued up to the moment of speaking."
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank: 'The police ______ the thief yesterday.'",
+    "options": [
+      "catch",
+      "caught",
+      "has caught",
+      "had caught"
+    ],
+    "answer": "caught",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Simple Past ('caught') is used with definite past time markers like 'yesterday'."
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank: 'Don't disturb me, I ______ my homework.'",
+    "options": [
+      "do",
+      "did",
+      "am doing",
+      "have done"
+    ],
+    "answer": "am doing",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Present Continuous ('am doing') is used for actions happening right now at the moment of speaking."
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank: 'By the time the doctor arrived, the patient ______.'",
+    "options": [
+      "died",
+      "has died",
+      "had died",
+      "was dying"
+    ],
+    "answer": "had died",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Past Perfect ('had died') is used for the action completed first in the past."
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank: 'She ______ (leave) school last year.'",
+    "options": [
+      "leaves",
+      "left",
+      "has left",
+      "had left"
+    ],
+    "answer": "left",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Last year' is a specific past time, requiring Simple Past ('left')."
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: 'Columbus ______ America.'",
+    "options": [
+      "discover",
+      "discovered",
+      "has discovered",
+      "had discovered"
+    ],
+    "answer": "discovered",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Historical facts are expressed in the Simple Past tense."
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank: 'It ______ continuously since morning.'",
+    "options": [
+      "rains",
+      "is raining",
+      "has been raining",
+      "rained"
+    ],
+    "answer": "has been raining",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Since morning' implies the action started earlier and is still continuing, requiring Present Perfect Continuous."
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank: 'I ______ the letter before you came.'",
+    "options": [
+      "wrote",
+      "have written",
+      "had written",
+      "was writing"
+    ],
+    "answer": "had written",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The writing was completed before the other past action (you came), so Past Perfect is used."
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: 'Every day, my father ______ for a walk.'",
+    "options": [
+      "go",
+      "goes",
+      "is going",
+      "went"
+    ],
+    "answer": "goes",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Routine actions (indicated by 'Every day') take the Simple Present tense."
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank: 'They ______ TV when the doorbell rang.'",
+    "options": [
+      "watch",
+      "watched",
+      "were watching",
+      "have watched"
+    ],
+    "answer": "were watching",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Past Continuous ('were watching') is used for the background action interrupted by the bell."
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank: 'He ______ his work yet.'",
+    "options": [
+      "didn't finish",
+      "has not finished",
+      "had not finished",
+      "does not finish"
+    ],
+    "answer": "has not finished",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Yet' is a keyword commonly associated with the Present Perfect tense, usually in negative sentences."
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: 'We ______ to the zoo tomorrow.'",
+    "options": [
+      "went",
+      "go",
+      "are going",
+      "have gone"
+    ],
+    "answer": "are going",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Present Continuous ('are going') is frequently used to discuss fixed future arrangements."
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: 'I wish I ______ the answer.'",
+    "options": [
+      "know",
+      "knew",
+      "have known",
+      "had known"
+    ],
+    "answer": "knew",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "After 'I wish' regarding the present, we use the Past Simple (subjunctive mood) to express a desire for something different than reality."
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank: 'The headmaster ______ to speak to you.'",
+    "options": [
+      "want",
+      "wants",
+      "is wanting",
+      "was wanting"
+    ],
+    "answer": "wants",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Stative verbs like 'want' are rarely used in continuous forms; Simple Present is correct here."
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blank: 'By 2030, robots ______ many jobs.'",
+    "options": [
+      "will take over",
+      "will have taken over",
+      "took over",
+      "are taking over"
+    ],
+    "answer": "will have taken over",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Future Perfect is used because we are looking back from a future date (2030) at a completed action."
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank: 'Did you ______ the email?'",
+    "options": [
+      "send",
+      "sent",
+      "sending",
+      "sends"
+    ],
+    "answer": "send",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "With the auxiliary 'Did', the main verb always remains in the base form (V1)."
+  },
+  {
+    "id": 29,
+    "question": "Fill in the blank: 'Neither of the teams ______ well yesterday.'",
+    "options": [
+      "play",
+      "played",
+      "has played",
+      "playing"
+    ],
+    "answer": "played",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Simple Past ('played') is used due to 'yesterday'. Note: 'Neither' affects agreement, but in Simple Past, the verb form doesn't change for singular/plural."
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank: 'I ______ this book twice.'",
+    "options": [
+      "read",
+      "have read",
+      "had read",
+      "was reading"
+    ],
+    "answer": "have read",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Present Perfect is used when mentioning the frequency of an experience ('twice') without a specific past time."
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: 'It is high time we ______ our preparations for the exam.'",
+    "options": [
+      "start",
+      "started",
+      "have started",
+      "will start"
+    ],
+    "answer": "started",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "The phrase 'It is time' or 'It is high time' is followed by the Past Subjunctive (Simple Past form) to indicate that an action should have already been done."
+  },
+  {
+    "id": 32,
+    "question": "Fill in the blank: 'She realized that she ______ her wallet at home.'",
+    "options": [
+      "left",
+      "has left",
+      "had left",
+      "leaves"
+    ],
+    "answer": "had left",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The realization happened in the past, and the leaving of the wallet happened *before* that. Sequence of past events requires Past Perfect."
+  },
+  {
+    "id": 33,
+    "question": "Fill in the blank: 'I will call you as soon as I ______ the office.'",
+    "options": [
+      "reach",
+      "will reach",
+      "reached",
+      "am reaching"
+    ],
+    "answer": "reach",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "In future time clauses (after 'when', 'as soon as', 'before'), we use the Simple Present tense, not the Future tense."
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank: 'He ______ tired because he had been working all day.'",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "will be"
+    ],
+    "answer": "was",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The main clause must be in the Past Simple ('was') to agree with the Past Perfect Continuous ('had been working') explanation."
+  },
+  {
+    "id": 35,
+    "question": "Fill in the blank: 'Water ______ at 100 degrees Celsius.'",
+    "options": [
+      "boil",
+      "boils",
+      "boiled",
+      "is boiling"
+    ],
+    "answer": "boils",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Scientific facts are always stated in the Simple Present tense."
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank: 'While the teacher was explaining, the students ______ notes.'",
+    "options": [
+      "take",
+      "took",
+      "were taking",
+      "have taken"
+    ],
+    "answer": "were taking",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Two parallel actions happening simultaneously in the past both use the Past Continuous tense."
+  },
+  {
+    "id": 37,
+    "question": "Fill in the blank: 'I ______ never ______ such a beautiful painting before.'",
+    "options": [
+      "have / seen",
+      "did / see",
+      "had / seen",
+      "was / seeing"
+    ],
+    "answer": "have / seen",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Present Perfect is used to talk about general life experiences up to the present moment."
+  },
+  {
+    "id": 38,
+    "question": "Fill in the blank: 'If he works hard, he ______ the exam.'",
+    "options": [
+      "pass",
+      "passed",
+      "will pass",
+      "would pass"
+    ],
+    "answer": "will pass",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "First Conditional: If + Simple Present (works) -> Future Simple (will pass)."
+  },
+  {
+    "id": 39,
+    "question": "Fill in the blank: 'The flight ______ at 6:00 PM tomorrow.'",
+    "options": [
+      "depart",
+      "departs",
+      "departed",
+      "has departed"
+    ],
+    "answer": "departs",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Simple Present is used for timetabled future events (flights, trains, schedules)."
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank: 'I ______ my key. Can you help me find it?'",
+    "options": [
+      "lose",
+      "lost",
+      "have lost",
+      "had lost"
+    ],
+    "answer": "have lost",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Present Perfect is used because the result of the past action (lost key) is still relevant in the present (I can't find it now)."
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank: 'At this time tomorrow, we ______ over the Atlantic.'",
+    "options": [
+      "fly",
+      "will fly",
+      "will be flying",
+      "have flown"
+    ],
+    "answer": "will be flying",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Future Continuous ('will be flying') is used for an action that will be in progress at a specific time in the future."
+  },
+  {
+    "id": 42,
+    "question": "Fill in the blank: 'He ______ his lunch when the phone rang.'",
+    "options": [
+      "had",
+      "was having",
+      "has had",
+      "is having"
+    ],
+    "answer": "was having",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Past Continuous indicates the action was in progress ('was having') when it was interrupted."
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank: 'The new shopping mall ______ next month.'",
+    "options": [
+      "opens",
+      "opened",
+      "has opened",
+      "had opened"
+    ],
+    "answer": "opens",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Similar to transport schedules, fixed official arrangements for the future often use Simple Present."
+  },
+  {
+    "id": 44,
+    "question": "Fill in the blank: 'I ______ (not hear) from him for a long time.'",
+    "options": [
+      "did not hear",
+      "have not heard",
+      "do not hear",
+      "was not hearing"
+    ],
+    "answer": "have not heard",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'For a long time' connects past to present, requiring the Present Perfect tense."
+  },
+  {
+    "id": 45,
+    "question": "Fill in the blank: 'She said she ______ help me.'",
+    "options": [
+      "will",
+      "would",
+      "can",
+      "may"
+    ],
+    "answer": "would",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "In indirect speech where the reporting verb ('said') is past, 'will' changes to 'would'."
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank: 'Neither the players nor the coach ______ ready.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "In 'Neither/nor' constructions, the verb agrees with the subject closest to it. 'Coach' is singular, so 'is' is correct."
+  },
+  {
+    "id": 47,
+    "question": "Fill in the blank: 'If I had known you were coming, I ______ a cake.'",
+    "options": [
+      "will bake",
+      "would bake",
+      "would have baked",
+      "baked"
+    ],
+    "answer": "would have baked",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Third Conditional: If + Past Perfect (had known) -> Would have + V3 (would have baked)."
+  },
+  {
+    "id": 48,
+    "question": "Fill in the blank: 'Look! The baby ______.'",
+    "options": [
+      "sleeps",
+      "slept",
+      "is sleeping",
+      "has slept"
+    ],
+    "answer": "is sleeping",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Look!' draws attention to an action happening right now, requiring Present Continuous."
+  },
+  {
+    "id": 49,
+    "question": "Fill in the blank: 'My father ______ in the army from 1990 to 2010.'",
+    "options": [
+      "serves",
+      "served",
+      "has served",
+      "is serving"
+    ],
+    "answer": "served",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The time period is completely in the past (1990-2010), so Simple Past ('served') is used."
+  },
+  {
+    "id": 50,
+    "question": "Fill in the blank: 'We ______ our dinner before father came.'",
+    "options": [
+      "had taken",
+      "took",
+      "have taken",
+      "were taking"
+    ],
+    "answer": "had taken",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Past Perfect ('had taken') is used for the action completed before another past action ('father came')."
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank: '______ you hear that noise?'",
+    "options": [
+      "Do",
+      "Are",
+      "Have",
+      "Were"
+    ],
+    "answer": "Do",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Hear' is a stative verb often used in Simple Present to ask about immediate perception, taking 'Do/Does'."
+  },
+  {
+    "id": 52,
+    "question": "Fill in the blank: 'The ancient Egyptians ______ the pyramids.'",
+    "options": [
+      "build",
+      "built",
+      "have built",
+      "had built"
+    ],
+    "answer": "built",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Historical events always use Simple Past."
+  },
+  {
+    "id": 53,
+    "question": "Fill in the blank: 'This paper ______ twice a week.'",
+    "options": [
+      "appears",
+      "is appearing",
+      "appeared",
+      "has appeared"
+    ],
+    "answer": "appears",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Simple Present is used for recurring events or frequency ('twice a week')."
+  },
+  {
+    "id": 54,
+    "question": "Fill in the blank: 'The thief ______ before the police reached.'",
+    "options": [
+      "escaped",
+      "has escaped",
+      "had escaped",
+      "was escaping"
+    ],
+    "answer": "had escaped",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The escape happened prior to the police reaching. Past Perfect is required."
+  },
+  {
+    "id": 55,
+    "question": "Fill in the blank: 'I ______ of visiting Europe next summer.'",
+    "options": [
+      "think",
+      "am thinking",
+      "thought",
+      "have thought"
+    ],
+    "answer": "am thinking",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Here 'think' means 'considering', which is an active mental process, so Present Continuous is allowed (unlike 'I think that...' opinion)."
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank: 'When I saw him, he ______ chess with his father.'",
+    "options": [
+      "played",
+      "was playing",
+      "plays",
+      "has played"
+    ],
+    "answer": "was playing",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Action in progress in the past uses Past Continuous."
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank: 'Who ______ this glass?'",
+    "options": [
+      "break",
+      "broke",
+      "broken",
+      "has break"
+    ],
+    "answer": "broke",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Simple Past ('broke') is used to ask about a specific past event."
+  },
+  {
+    "id": 58,
+    "question": "Fill in the blank: 'By 5 PM, I ______ for six hours.'",
+    "options": [
+      "will study",
+      "will be studying",
+      "will have been studying",
+      "studied"
+    ],
+    "answer": "will have been studying",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Future Perfect Continuous is used to emphasize the duration of an action up to a specific future time."
+  },
+  {
+    "id": 59,
+    "question": "Fill in the blank: 'It is a month since I ______ smoking.'",
+    "options": [
+      "give up",
+      "gave up",
+      "given up",
+      "have given up"
+    ],
+    "answer": "gave up",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "In sentences with 'It is [time] since...', the clause following 'since' usually takes the Simple Past tense."
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank: 'Unless you ______, you will miss the bus.'",
+    "options": [
+      "hurry",
+      "will hurry",
+      "hurried",
+      "are hurrying"
+    ],
+    "answer": "hurry",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "In conditional clauses starting with 'Unless', we use the Simple Present tense to refer to the future."
+  },
+  {
+    "id": 61,
+    "question": "Fill in the blank: 'He ______ to go to the gym, but now he runs in the park.'",
+    "options": [
+      "used",
+      "uses",
+      "was used",
+      "is used"
+    ],
+    "answer": "used",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Used to' describes a past habit or state that is no longer true."
+  },
+  {
+    "id": 62,
+    "question": "Fill in the blank: 'I ______ (not know) the answer to this question.'",
+    "options": [
+      "am not knowing",
+      "do not know",
+      "have not known",
+      "did not knew"
+    ],
+    "answer": "do not know",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Know' is a stative verb (a verb of the mind) and is generally not used in the continuous form ('am knowing' is incorrect)."
+  },
+  {
+    "id": 63,
+    "question": "Fill in the blank: 'By next week, we ______ the syllabus.'",
+    "options": [
+      "revise",
+      "will revise",
+      "will have revised",
+      "revised"
+    ],
+    "answer": "will have revised",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Future Perfect is used to talk about something that will be completed by a specific time in the future."
+  },
+  {
+    "id": 64,
+    "question": "Fill in the blank: 'If you ______ water, it turns to ice.'",
+    "options": [
+      "freeze",
+      "froze",
+      "will freeze",
+      "had frozen"
+    ],
+    "answer": "freeze",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Zero Conditional: Used for scientific facts. Structure: If + Simple Present, Simple Present."
+  },
+  {
+    "id": 65,
+    "question": "Fill in the blank: 'The house ______ to my uncle.'",
+    "options": [
+      "is belonging",
+      "belongs",
+      "belonged",
+      "has belonged"
+    ],
+    "answer": "belongs",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Belong' is a stative verb showing possession and cannot be used in the continuous form ('is belonging')."
+  },
+  {
+    "id": 66,
+    "question": "Fill in the blank: 'I ______ my wallet. I can't pay the bill.'",
+    "options": [
+      "lost",
+      "had lost",
+      "have lost",
+      "lose"
+    ],
+    "answer": "have lost",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Present Perfect is used because the past action (losing the wallet) has a direct effect on the present situation (can't pay)."
+  },
+  {
+    "id": 67,
+    "question": "Fill in the blank: 'She ______ always ______ about her neighbors.'",
+    "options": [
+      "is / complaining",
+      "was / complained",
+      "has / complained",
+      "does / complain"
+    ],
+    "answer": "is / complaining",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Present Continuous with 'always' is used to express annoyance at a repeated habit."
+  },
+  {
+    "id": 68,
+    "question": "Fill in the blank: 'After he ______ his homework, he went out to play.'",
+    "options": [
+      "finishes",
+      "has finished",
+      "had finished",
+      "finished"
+    ],
+    "answer": "had finished",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "The word 'After' introduces the earlier action in the past, which requires the Past Perfect tense."
+  },
+  {
+    "id": 69,
+    "question": "Fill in the blank: 'Did you ______ the match last night?'",
+    "options": [
+      "watch",
+      "watched",
+      "watching",
+      "watches"
+    ],
+    "answer": "watch",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "After the auxiliary 'Did', we always use the base form of the verb."
+  },
+  {
+    "id": 70,
+    "question": "Fill in the blank: 'I ______ in New York for five years, but now I live in London.'",
+    "options": [
+      "live",
+      "have lived",
+      "lived",
+      "was living"
+    ],
+    "answer": "lived",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Since the person no longer lives there, the period is finished. We use Simple Past ('lived'), not Present Perfect."
+  },
+  {
+    "id": 71,
+    "question": "Fill in the blank: 'Wait here until I ______ back.'",
+    "options": [
+      "come",
+      "will come",
+      "came",
+      "have come"
+    ],
+    "answer": "come",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "In time clauses introduced by 'until', 'when', etc., referring to the future, we use the Simple Present tense."
+  },
+  {
+    "id": 72,
+    "question": "Fill in the blank: 'Why are your clothes wet?' 'I ______ the car.'",
+    "options": [
+      "washed",
+      "was washing",
+      "have been washing",
+      "had washed"
+    ],
+    "answer": "have been washing",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Present Perfect Continuous is used to explain the side effects (wet clothes) of a recent continuous activity."
+  },
+  {
+    "id": 73,
+    "question": "Fill in the blank: 'Shakespeare ______ many famous plays.'",
+    "options": [
+      "write",
+      "wrote",
+      "has written",
+      "had written"
+    ],
+    "answer": "wrote",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Shakespeare is dead, so his actions are fully in the past. We use Simple Past, not Present Perfect."
+  },
+  {
+    "id": 74,
+    "question": "Fill in the blank: 'He ______ well when he was a child.'",
+    "options": [
+      "sings",
+      "sang",
+      "sung",
+      "has sung"
+    ],
+    "answer": "sang",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'When he was a child' sets the context to a finished period in the past -> Simple Past."
+  },
+  {
+    "id": 75,
+    "question": "Fill in the blank: 'If I had run faster, I ______ the race.'",
+    "options": [
+      "would win",
+      "will win",
+      "would have won",
+      "won"
+    ],
+    "answer": "would have won",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Third Conditional (Impossible Past): If + Past Perfect, ... Would have + V3."
+  },
+  {
+    "id": 76,
+    "question": "Fill in the blank: 'The baby ______ born yesterday.'",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "had been"
+    ],
+    "answer": "was",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Birth is always treated as a past event. We say 'was born', never 'is born' (unless discussing the abstract concept)."
+  },
+  {
+    "id": 77,
+    "question": "Fill in the blank: 'Don't call me at 8 PM. I ______ dinner then.'",
+    "options": [
+      "will have",
+      "will be having",
+      "have",
+      "am having"
+    ],
+    "answer": "will be having",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Future Continuous indicates an action that will be in progress at a specific future moment."
+  },
+  {
+    "id": 78,
+    "question": "Fill in the blank: 'She ______ just ______ out.'",
+    "options": [
+      "has / gone",
+      "is / going",
+      "had / gone",
+      "did / go"
+    ],
+    "answer": "has / gone",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Just' is a keyword for Present Perfect, indicating a very recent completion."
+  },
+  {
+    "id": 79,
+    "question": "Fill in the blank: 'He usually ______ a bus, but today he took a taxi.'",
+    "options": [
+      "takes",
+      "took",
+      "is taking",
+      "has taken"
+    ],
+    "answer": "takes",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Contrast between a habit (Simple Present: usually takes) and a specific past event (Simple Past: took)."
+  },
+  {
+    "id": 80,
+    "question": "Fill in the blank: 'I ______ (not see) him this week.'",
+    "options": [
+      "didn't see",
+      "haven't seen",
+      "don't see",
+      "hadn't seen"
+    ],
+    "answer": "haven't seen",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'This week' is an unfinished time period, so we prefer the Present Perfect tense."
+  },
+  {
+    "id": 81,
+    "question": "Fill in the blank: 'While I was cooking, my sister ______ TV.'",
+    "options": [
+      "watched",
+      "watches",
+      "was watching",
+      "has watched"
+    ],
+    "answer": "was watching",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Two simultaneous continuous actions in the past both take Past Continuous."
+  },
+  {
+    "id": 82,
+    "question": "Fill in the blank: 'How long ______ you ______ him?'",
+    "options": [
+      "do / know",
+      "have / known",
+      "did / know",
+      "are / knowing"
+    ],
+    "answer": "have / known",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "When asking about the duration of a relationship that continues to the present, use Present Perfect."
+  },
+  {
+    "id": 83,
+    "question": "Fill in the blank: 'The meeting ______ at 10 AM tomorrow.'",
+    "options": [
+      "start",
+      "starts",
+      "starting",
+      "has started"
+    ],
+    "answer": "starts",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Timetabled future events (meetings, buses, lessons) use Simple Present."
+  },
+  {
+    "id": 84,
+    "question": "Fill in the blank: 'If it ______, we will cancel the picnic.'",
+    "options": [
+      "rain",
+      "rains",
+      "will rain",
+      "rained"
+    ],
+    "answer": "rains",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "First Conditional: If + Simple Present, Future Simple."
+  },
+  {
+    "id": 85,
+    "question": "Fill in the blank: 'He ______ his car when it started raining.'",
+    "options": [
+      "washed",
+      "was washing",
+      "is washing",
+      "has washed"
+    ],
+    "answer": "was washing",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Interrupted action in the past: Past Continuous for the action in progress."
+  },
+  {
+    "id": 86,
+    "question": "Fill in the blank: 'She ______ me she was busy.'",
+    "options": [
+      "tell",
+      "told",
+      "says",
+      "telling"
+    ],
+    "answer": "told",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Told' is a transitive verb requiring an object ('me'). 'Said' does not take a direct personal object without 'to'."
+  },
+  {
+    "id": 87,
+    "question": "Fill in the blank: 'The package ______ yet.'",
+    "options": [
+      "didn't arrive",
+      "hasn't arrived",
+      "hadn't arrived",
+      "won't arrive"
+    ],
+    "answer": "hasn't arrived",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Yet' is the primary signal for Present Perfect Negative."
+  },
+  {
+    "id": 88,
+    "question": "Fill in the blank: 'I ______ (never be) to Paris.'",
+    "options": [
+      "was never",
+      "have never been",
+      "had never been",
+      "am never"
+    ],
+    "answer": "have never been",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Talking about life experience without a specific date requires Present Perfect."
+  },
+  {
+    "id": 89,
+    "question": "Fill in the blank: 'She opened the door and ______ into the room.'",
+    "options": [
+      "step",
+      "stepped",
+      "steps",
+      "has stepped"
+    ],
+    "answer": "stepped",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Narrative sequence in the past: A series of completed actions uses Simple Past for all verbs."
+  },
+  {
+    "id": 90,
+    "question": "Fill in the blank: 'Unless you ______ now, you will be late.'",
+    "options": [
+      "leave",
+      "left",
+      "will leave",
+      "leaving"
+    ],
+    "answer": "leave",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Unless' functions like 'If...not'. The clause following it uses Simple Present to refer to the future."
+  },
+  {
+    "id": 91,
+    "question": "Fill in the blank: 'What ______ you ______ at 8 PM yesterday?'",
+    "options": [
+      "did / do",
+      "were / doing",
+      "are / doing",
+      "have / done"
+    ],
+    "answer": "were / doing",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Asking about an action in progress at a specific time in the past uses Past Continuous."
+  },
+  {
+    "id": 92,
+    "question": "Fill in the blank: 'Wood ______ on water.'",
+    "options": [
+      "float",
+      "floats",
+      "floated",
+      "is floating"
+    ],
+    "answer": "floats",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "A general physical law/fact takes the Simple Present tense."
+  },
+  {
+    "id": 93,
+    "question": "Fill in the blank: 'We ______ each other since childhood.'",
+    "options": [
+      "know",
+      "knew",
+      "have known",
+      "are knowing"
+    ],
+    "answer": "have known",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Since childhood' implies a state continuing from past to present. 'Know' is stative, so we use Present Perfect, not Continuous."
+  },
+  {
+    "id": 94,
+    "question": "Fill in the blank: 'The sun ______ in the west.'",
+    "options": [
+      "set",
+      "sets",
+      "is setting",
+      "has set"
+    ],
+    "answer": "sets",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Universal truth -> Simple Present."
+  },
+  {
+    "id": 95,
+    "question": "Fill in the blank: 'When I entered the room, the baby ______.'",
+    "options": [
+      "cried",
+      "was crying",
+      "has cried",
+      "cries"
+    ],
+    "answer": "was crying",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Background action (crying) interrupted by a specific event (entered) takes Past Continuous."
+  },
+  {
+    "id": 96,
+    "question": "Fill in the blank: 'I ______ my work before he woke up.'",
+    "options": [
+      "finish",
+      "finished",
+      "had finished",
+      "have finished"
+    ],
+    "answer": "had finished",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Action completed before another action in the past -> Past Perfect."
+  },
+  {
+    "id": 97,
+    "question": "Fill in the blank: 'She ______ (look) tired today.'",
+    "options": [
+      "look",
+      "looks",
+      "is looking",
+      "has looked"
+    ],
+    "answer": "looks",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Verbs of appearance (look, seem, appear) are usually stative and take Simple Present."
+  },
+  {
+    "id": 98,
+    "question": "Fill in the blank: 'I ______ to the cinema last night.'",
+    "options": [
+      "go",
+      "went",
+      "have gone",
+      "had gone"
+    ],
+    "answer": "went",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Last night' is a definite past time marker -> Simple Past."
+  },
+  {
+    "id": 99,
+    "question": "Fill in the blank: 'They ______ bridge when the lights went out.'",
+    "options": [
+      "played",
+      "were playing",
+      "have played",
+      "play"
+    ],
+    "answer": "were playing",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Action in progress (playing) interrupted by an event (lights out) -> Past Continuous."
+  },
+  {
+    "id": 100,
+    "question": "Fill in the blank: 'By the time you receive this letter, I ______ left.'",
+    "options": [
+      "will have",
+      "would have",
+      "have",
+      "will be"
+    ],
+    "answer": "will have",
+    "topic": "tenses",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Future Perfect structure ('will have left') used to predict a completed action by a future reference point."
+  }
+]

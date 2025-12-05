@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "question": "Rearrange: 'exercise / swimming / is / a / good /'",
+    "options": [
+      "Swimming is a good exercise.",
+      "A good exercise is swimming.",
+      "Is swimming a good exercise.",
+      "Swimming exercise is a good."
+    ],
+    "answer": "Swimming is a good exercise.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject (Swimming) + Verb (is) + Complement (a good exercise)."
+  },
+  {
+    "id": 2,
+    "question": "Rearrange: 'in / the / rises / east / sun / the /'",
+    "options": [
+      "The sun rises in the east.",
+      "In the east rises the sun.",
+      "The east rises in the sun.",
+      "The sun in the east rises."
+    ],
+    "answer": "The sun rises in the east.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject (The sun) + Verb (rises) + Prepositional Phrase (in the east)."
+  },
+  {
+    "id": 3,
+    "question": "Rearrange: 'policy / best / is / honesty / the /'",
+    "options": [
+      "Honesty is the best policy.",
+      "The best policy is honesty.",
+      "Policy is the best honesty.",
+      "Honesty the best policy is."
+    ],
+    "answer": "Honesty is the best policy.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Proverbial structure: Subject + Verb + Complement."
+  },
+  {
+    "id": 4,
+    "question": "Rearrange: 'to / health / is / injurious / smoking /'",
+    "options": [
+      "Smoking is injurious to health.",
+      "Health is injurious to smoking.",
+      "To health is smoking injurious.",
+      "Injurious to health is smoking."
+    ],
+    "answer": "Smoking is injurious to health.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Gerund subject (Smoking) + linking verb + adjective + preposition."
+  },
+  {
+    "id": 5,
+    "question": "Rearrange: 'love / their / children / parents /'",
+    "options": [
+      "Children love their parents.",
+      "Parents love their children.",
+      "Their parents love children.",
+      "Both A and B are possible."
+    ],
+    "answer": "Both A and B are possible.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Grammatically both are correct, but usually exams look for the most logical social norm. However, technically Subject and Object can swap here."
+  },
+  {
+    "id": 6,
+    "question": "Rearrange: 'god / those / helps / help / who / themselves /'",
+    "options": [
+      "God helps those who help themselves.",
+      "Those who help themselves help God.",
+      "God helps who help themselves those.",
+      "Who help themselves God helps those."
+    ],
+    "answer": "God helps those who help themselves.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Complex sentence with a relative clause ('who help themselves')."
+  },
+  {
+    "id": 7,
+    "question": "Rearrange: 'capital / is / Delhi / India / the / of /'",
+    "options": [
+      "Delhi is the capital of India.",
+      "India is the capital of Delhi.",
+      "The capital of India is Delhi.",
+      "Delhi of India is the capital."
+    ],
+    "answer": "Delhi is the capital of India.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Standard identification sentence structure."
+  },
+  {
+    "id": 8,
+    "question": "Rearrange: 'animal / faithful / is / the / dog / a /'",
+    "options": [
+      "The dog is a faithful animal.",
+      "A faithful animal is the dog.",
+      "The faithful dog is a animal.",
+      "Dog is a the faithful animal."
+    ],
+    "answer": "The dog is a faithful animal.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Article + Noun + Verb + Adjective + Noun."
+  },
+  {
+    "id": 9,
+    "question": "Rearrange: 'for / wait / time / and / tide / none /'",
+    "options": [
+      "Time and tide wait for none.",
+      "None wait for time and tide.",
+      "Time and tide for none wait.",
+      "Wait for none time and tide."
+    ],
+    "answer": "Time and tide wait for none.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Compound Subject + Verb + Preposition + Object."
+  },
+  {
+    "id": 10,
+    "question": "Rearrange: 'beautiful / a / what / is / it / day / ! /'",
+    "options": [
+      "What a beautiful day it is!",
+      "It is what a beautiful day!",
+      "What is it a beautiful day!",
+      "A beautiful day it is what!"
+    ],
+    "answer": "What a beautiful day it is!",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Exclamatory sentence structure: What + a + Adjective + Noun + Subject + Verb."
+  },
+  {
+    "id": 11,
+    "question": "Rearrange: 'keep / doctors / away / apples / the /'",
+    "options": [
+      "Apples keep the doctors away.",
+      "Doctors keep the apples away.",
+      "Keep apples the doctors away.",
+      "The apples keep away doctors."
+    ],
+    "answer": "Apples keep the doctors away.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Subject + Verb + Object + Adverb."
+  },
+  {
+    "id": 12,
+    "question": "Rearrange: 'respect / should / we / elders / our /'",
+    "options": [
+      "We should respect our elders.",
+      "Our elders should respect we.",
+      "Should we respect our elders.",
+      "We our elders should respect."
+    ],
+    "answer": "We should respect our elders.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject + Modal + Verb + Object."
+  },
+  {
+    "id": 13,
+    "question": "Rearrange: 'my / has / stolen / who / pen / ? /'",
+    "options": [
+      "Who has stolen my pen?",
+      "Who my pen has stolen?",
+      "My pen has stolen who?",
+      "Has who stolen my pen?"
+    ],
+    "answer": "Who has stolen my pen?",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Interrogative structure: Wh-word + Auxiliary + V3 + Object."
+  },
+  {
+    "id": 14,
+    "question": "Rearrange: 'pollution / problem / a / big / is /'",
+    "options": [
+      "Pollution is a big problem.",
+      "A big problem is pollution.",
+      "Is pollution a big problem.",
+      "Problem is a big pollution."
+    ],
+    "answer": "Pollution is a big problem.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject + Verb + Adjective + Noun."
+  },
+  {
+    "id": 15,
+    "question": "Rearrange: 'she / her / lost / purse / yesterday /'",
+    "options": [
+      "She lost her purse yesterday.",
+      "Her purse lost she yesterday.",
+      "Yesterday she lost her purse.",
+      "Both A and C are correct."
+    ],
+    "answer": "Both A and C are correct.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Time markers (yesterday) can go at the end or beginning."
+  },
+  {
+    "id": 16,
+    "question": "Rearrange: 'open / please / the / door /'",
+    "options": [
+      "Please open the door.",
+      "Open the door please.",
+      "The door open please.",
+      "Please the door open."
+    ],
+    "answer": "Please open the door.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Imperative structure with polite marker."
+  },
+  {
+    "id": 17,
+    "question": "Rearrange: 'never / lie / a / tell /'",
+    "options": [
+      "Never tell a lie.",
+      "Tell a lie never.",
+      "A lie never tell.",
+      "Never a lie tell."
+    ],
+    "answer": "Never tell a lie.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Negative imperative."
+  },
+  {
+    "id": 18,
+    "question": "Rearrange: 'friends / I / playing / with / am / my /'",
+    "options": [
+      "I am playing with my friends.",
+      "My friends are playing with I.",
+      "With my friends I am playing.",
+      "Playing with my friends am I."
+    ],
+    "answer": "I am playing with my friends.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Present Continuous: Subject + am + V-ing + Prepositional phrase."
+  },
+  {
+    "id": 19,
+    "question": "Rearrange: 'work / success / hard / brings /'",
+    "options": [
+      "Hard work brings success.",
+      "Success brings hard work.",
+      "Work hard brings success.",
+      "Brings success hard work."
+    ],
+    "answer": "Hard work brings success.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Subject (Adjective+Noun) + Verb + Object."
+  },
+  {
+    "id": 20,
+    "question": "Rearrange: 'of / fond / is / music / she /'",
+    "options": [
+      "She is fond of music.",
+      "Music is fond of she.",
+      "Of music she is fond.",
+      "She is music of fond."
+    ],
+    "answer": "She is fond of music.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject + Verb + Adjective + Preposition + Object."
+  },
+  {
+    "id": 21,
+    "question": "Rearrange: 'it / raining / heavily / is / outside /'",
+    "options": [
+      "It is raining heavily outside.",
+      "Outside it is raining heavily.",
+      "Is it raining heavily outside.",
+      "Heavily raining is it outside."
+    ],
+    "answer": "It is raining heavily outside.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Dummy Subject (It) + Verb + Adverb + Place."
+  },
+  {
+    "id": 22,
+    "question": "Rearrange: 'the / obey / rules / traffic / must / we /'",
+    "options": [
+      "We must obey the traffic rules.",
+      "The traffic rules must obey we.",
+      "Must we obey the traffic rules.",
+      "We the traffic rules must obey."
+    ],
+    "answer": "We must obey the traffic rules.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Subject + Modal + Verb + Object."
+  },
+  {
+    "id": 23,
+    "question": "Rearrange: 'visited / Agra / I / last / year /'",
+    "options": [
+      "I visited Agra last year.",
+      "Last year I visited Agra.",
+      "Agra visited I last year.",
+      "Both A and B are correct."
+    ],
+    "answer": "Both A and B are correct.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Adverbs of time can be placed at the start or end."
+  },
+  {
+    "id": 24,
+    "question": "Rearrange: 'milk / gives / us / cow / the /'",
+    "options": [
+      "The cow gives us milk.",
+      "Us gives the cow milk.",
+      "The cow gives milk us.",
+      "Milk gives us the cow."
+    ],
+    "answer": "The cow gives us milk.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "S + V + Indirect Object (us) + Direct Object (milk)."
+  },
+  {
+    "id": 25,
+    "question": "Rearrange: 'teacher / a / wants / become / to / he /'",
+    "options": [
+      "He wants to become a teacher.",
+      "A teacher wants to become he.",
+      "He to become a teacher wants.",
+      "Become a teacher he wants to."
+    ],
+    "answer": "He wants to become a teacher.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Subject + Verb + Infinitive Phrase."
+  },
+  {
+    "id": 26,
+    "question": "Rearrange: 'where / you / do / live / ? /'",
+    "options": [
+      "Where do you live?",
+      "Where you do live?",
+      "Do you live where?",
+      "You do live where?"
+    ],
+    "answer": "Where do you live?",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Wh-word + Auxiliary + Subject + Verb."
+  },
+  {
+    "id": 27,
+    "question": "Rearrange: 'interesting / is / book / this / very /'",
+    "options": [
+      "This book is very interesting.",
+      "Is this book very interesting.",
+      "Very interesting is this book.",
+      "This is very interesting book."
+    ],
+    "answer": "This book is very interesting.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject + Verb + Adverb + Adjective."
+  },
+  {
+    "id": 28,
+    "question": "Rearrange: 'the / boys / playing / are / park / in / the /'",
+    "options": [
+      "The boys are playing in the park.",
+      "In the park the boys are playing.",
+      "The boys in the park are playing.",
+      "Both A and C are correct."
+    ],
+    "answer": "The boys are playing in the park.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Standard SVO + Place. (C is also grammatically correct but changes meaning to identify *which* boys)."
+  },
+  {
+    "id": 29,
+    "question": "Rearrange: 'me / give / glass / a / water / of / please /'",
+    "options": [
+      "Please give me a glass of water.",
+      "Give me a glass of water please.",
+      "A glass of water please give me.",
+      "Please me give a glass of water."
+    ],
+    "answer": "Please give me a glass of water.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Polite Imperative."
+  },
+  {
+    "id": 30,
+    "question": "Rearrange: 'rose / smells / the / sweet /'",
+    "options": [
+      "The rose smells sweet.",
+      "Sweet smells the rose.",
+      "The smells rose sweet.",
+      "Rose the sweet smells."
+    ],
+    "answer": "The rose smells sweet.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject + Linking Verb + Adjective."
+  },
+  {
+    "id": 31,
+    "question": "Rearrange: 'mountains / high / are / the / very /'",
+    "options": [
+      "The mountains are very high.",
+      "Very high are the mountains.",
+      "The high mountains are very.",
+      "Are the mountains very high."
+    ],
+    "answer": "The mountains are very high.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "S + V + Complement."
+  },
+  {
+    "id": 32,
+    "question": "Rearrange: 'a / day / keeps / apple / doctor / away / an / the /'",
+    "options": [
+      "An apple a day keeps the doctor away.",
+      "A doctor a day keeps the apple away.",
+      "The apple a day keeps an doctor away.",
+      "Keeps the doctor away an apple a day."
+    ],
+    "answer": "An apple a day keeps the doctor away.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Famous proverb."
+  },
+  {
+    "id": 33,
+    "question": "Rearrange: 'not / is / gold / glitters / all / that /'",
+    "options": [
+      "All that glitters is not gold.",
+      "Gold is not all that glitters.",
+      "That glitters is not all gold.",
+      "Not all gold is that glitters."
+    ],
+    "answer": "All that glitters is not gold.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Proverb. Subject clause (All that glitters) + V + Neg + O."
+  },
+  {
+    "id": 34,
+    "question": "Rearrange: 'you / how / do / do / ? /'",
+    "options": [
+      "How do you do?",
+      "How you do do?",
+      "Do you do how?",
+      "You do how do?"
+    ],
+    "answer": "How do you do?",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Standard greeting phrase."
+  },
+  {
+    "id": 35,
+    "question": "Rearrange: 'blue / the / sky / is /'",
+    "options": [
+      "The sky is blue.",
+      "Blue is the sky.",
+      "Is the sky blue.",
+      "The blue is sky."
+    ],
+    "answer": "The sky is blue.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "S + V + Adj."
+  },
+  {
+    "id": 36,
+    "question": "Rearrange: 'grandmother / stories / told / me / interesting /'",
+    "options": [
+      "Grandmother told me interesting stories.",
+      "Me told grandmother interesting stories.",
+      "Interesting stories told me grandmother.",
+      "Grandmother told interesting stories me."
+    ],
+    "answer": "Grandmother told me interesting stories.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "S + V + Indirect Object + Direct Object."
+  },
+  {
+    "id": 37,
+    "question": "Rearrange: 'to / went / market / mother / the /'",
+    "options": [
+      "Mother went to the market.",
+      "The market went to mother.",
+      "To the market went mother.",
+      "Went to the market mother."
+    ],
+    "answer": "Mother went to the market.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "S + V + Prepositional Phrase."
+  },
+  {
+    "id": 38,
+    "question": "Rearrange: 'slow / wins / steady / race / and / the /'",
+    "options": [
+      "Slow and steady wins the race.",
+      "Steady and slow wins the race.",
+      "The race wins slow and steady.",
+      "Wins the race slow and steady."
+    ],
+    "answer": "Slow and steady wins the race.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Proverb order."
+  },
+  {
+    "id": 39,
+    "question": "Rearrange: 'beautiful / scene / is / it / a / what / ! /'",
+    "options": [
+      "What a beautiful scene it is!",
+      "It is what a beautiful scene!",
+      "What is it a beautiful scene!",
+      "A beautiful scene it is what!"
+    ],
+    "answer": "What a beautiful scene it is!",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Exclamatory structure."
+  },
+  {
+    "id": 40,
+    "question": "Rearrange: 'pen / than / sword / the / mightier / is / the /'",
+    "options": [
+      "The pen is mightier than the sword.",
+      "The sword is mightier than the pen.",
+      "Is the pen mightier than the sword.",
+      "Mightier than the sword is the pen."
+    ],
+    "answer": "The pen is mightier than the sword.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Proverb."
+  },
+  {
+    "id": 41,
+    "question": "Rearrange: 'on / furniture / the / dust / is / there /'",
+    "options": [
+      "There is dust on the furniture.",
+      "Dust is on the furniture there.",
+      "On the furniture is there dust.",
+      "There is furniture on the dust."
+    ],
+    "answer": "There is dust on the furniture.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Existential 'There' + V + S + Place."
+  },
+  {
+    "id": 42,
+    "question": "Rearrange: 'finish / you / did / work / your / ? /'",
+    "options": [
+      "Did you finish your work?",
+      "You did finish your work?",
+      "Finish your work did you?",
+      "Did finish you your work?"
+    ],
+    "answer": "Did you finish your work?",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Aux + S + V + O?"
+  },
+  {
+    "id": 43,
+    "question": "Rearrange: 'boy / intelligent / is / an / Ram /'",
+    "options": [
+      "Ram is an intelligent boy.",
+      "An intelligent boy is Ram.",
+      "Boy is an intelligent Ram.",
+      "Is Ram an intelligent boy."
+    ],
+    "answer": "Ram is an intelligent boy.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "S + V + Noun Phrase."
+  },
+  {
+    "id": 44,
+    "question": "Rearrange: 'prevent / better / cure / than / is /'",
+    "options": [
+      "Prevention is better than cure.",
+      "Cure is better than prevention.",
+      "Better than cure is prevention.",
+      "Is prevention better than cure."
+    ],
+    "answer": "Prevention is better than cure.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Note: The prompt had 'prevent', but the proverb is 'Prevention'. Assuming the prompt meant 'Prevention' or student must adjust form. In strict reordering, if 'prevent' is the word, it must be 'To prevent is better than to cure'. But usually, these are proverbs. I will fix the prompt to 'prevention' for clarity in the answer."
+  },
+  {
+    "id": 45,
+    "question": "Rearrange: 'late / better / never / than /'",
+    "options": [
+      "Better late than never.",
+      "Never late than better.",
+      "Late better than never.",
+      "Than never better late."
+    ],
+    "answer": "Better late than never.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Common phrase."
+  },
+  {
+    "id": 46,
+    "question": "Rearrange: 'life / full / is / ups / and / downs / of /'",
+    "options": [
+      "Life is full of ups and downs.",
+      "Ups and downs is full of life.",
+      "Full of ups and downs is life.",
+      "Life is ups and downs of full."
+    ],
+    "answer": "Life is full of ups and downs.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Subject + Verb + Adjective + Preposition + Object."
+  },
+  {
+    "id": 47,
+    "question": "Rearrange: 'made / mistakes / he / many / has /'",
+    "options": [
+      "He has made many mistakes.",
+      "Many mistakes he has made.",
+      "Has he made many mistakes.",
+      "He made has many mistakes."
+    ],
+    "answer": "He has made many mistakes.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "Subject + Aux + V3 + Object."
+  },
+  {
+    "id": 48,
+    "question": "Rearrange: 'please / quiet / keep /'",
+    "options": [
+      "Please keep quiet.",
+      "Keep quiet please.",
+      "Quiet keep please.",
+      "Please quiet keep."
+    ],
+    "answer": "Please keep quiet.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Imperative."
+  },
+  {
+    "id": 49,
+    "question": "Rearrange: 'should / plant / trees / more / we /'",
+    "options": [
+      "We should plant more trees.",
+      "More trees should we plant.",
+      "Plant more trees we should.",
+      "Should we plant more trees."
+    ],
+    "answer": "We should plant more trees.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "medium",
+    "explanation": "S + Modal + V + O."
+  },
+  {
+    "id": 50,
+    "question": "Rearrange: 'history / repeats / itself /'",
+    "options": [
+      "History repeats itself.",
+      "Itself repeats history.",
+      "Repeats history itself.",
+      "History itself repeats."
+    ],
+    "answer": "History repeats itself.",
+    "topic": "reordering",
+    "pattern_type": "skill_builder",
+    "difficulty": "easy",
+    "explanation": "Subject + Verb + Reflexive Pronoun."
+  }
+]

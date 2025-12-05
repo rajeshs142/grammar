@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank: 'He is poor ______ honest.'",
+    "options": [
+      "and",
+      "but",
+      "so",
+      "or"
+    ],
+    "answer": "but",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'But' is used to join two contrasting qualities (poor vs honest)."
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank: 'Work hard ______ you will fail.'",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "because"
+    ],
+    "answer": "or",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Or' suggests a choice or consequence/warning."
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank: 'I waited ______ the train arrived.'",
+    "options": [
+      "unless",
+      "until",
+      "if",
+      "lest"
+    ],
+    "answer": "until",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Until' indicates a point in time up to which an action continues."
+  },
+  {
+    "id": 4,
+    "question": "Fill in the blank: 'Make hay ______ the sun shines.'",
+    "options": [
+      "while",
+      "when",
+      "where",
+      "why"
+    ],
+    "answer": "while",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'While' denotes the duration of time (during the time that)."
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank: 'He was ill ______ he did not come to school.'",
+    "options": [
+      "because",
+      "so",
+      "as",
+      "since"
+    ],
+    "answer": "so",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'So' introduces the result/effect (Cause: ill -> Effect: didn't come)."
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank: '______ he is rich, he is not happy.'",
+    "options": [
+      "Because",
+      "As",
+      "Although",
+      "Since"
+    ],
+    "answer": "Although",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Although' introduces a concession or contrast."
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank: 'I cannot succeed ______ I work hard.'",
+    "options": [
+      "if",
+      "unless",
+      "until",
+      "when"
+    ],
+    "answer": "unless",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Unless' means 'if not'. (I cannot succeed if I do not work hard)."
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank: 'He ran fast ______ he missed the train.'",
+    "options": [
+      "so",
+      "and",
+      "but",
+      "therefore"
+    ],
+    "answer": "but",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Contrast between effort (ran fast) and result (missed)."
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: '______ you say so, I believe it.'",
+    "options": [
+      "Since",
+      "Although",
+      "Unless",
+      "While"
+    ],
+    "answer": "Since",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Since' here is used to express a reason (Because you say so...)."
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank: 'You will pass ______ you work hard.'",
+    "options": [
+      "unless",
+      "if",
+      "until",
+      "though"
+    ],
+    "answer": "if",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Positive condition."
+  },
+  {
+    "id": 11,
+    "question": "Fill in the blank: 'Walk carefully ______ you should fall.'",
+    "options": [
+      "lest",
+      "or",
+      "unless",
+      "if"
+    ],
+    "answer": "lest",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Lest' is followed by 'should' and means 'to prevent the risk of'."
+  },
+  {
+    "id": 12,
+    "question": "Fill in the blank: 'He is ______ a fool nor a knave.'",
+    "options": [
+      "neither",
+      "either",
+      "not",
+      "both"
+    ],
+    "answer": "neither",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Neither...nor' is the correct correlative pair."
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank: '______ take it or leave it.'",
+    "options": [
+      "Neither",
+      "Either",
+      "Both",
+      "Whether"
+    ],
+    "answer": "Either",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Either...or' is the correct pair."
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank: 'He is both intelligent ______ hardworking.'",
+    "options": [
+      "or",
+      "as well as",
+      "and",
+      "but"
+    ],
+    "answer": "and",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Both...and' is the fixed correlative structure."
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank: 'Scarcely had I reached the station ______ the train left.'",
+    "options": [
+      "than",
+      "then",
+      "when",
+      "while"
+    ],
+    "answer": "when",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Scarcely/Hardly' is followed by 'when'."
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank: 'No sooner did he see the police ______ he ran away.'",
+    "options": [
+      "when",
+      "then",
+      "than",
+      "so"
+    ],
+    "answer": "than",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'No sooner' is always followed by 'than'."
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank: 'He asked me ______ I was ill.'",
+    "options": [
+      "that",
+      "if",
+      "unless",
+      "as"
+    ],
+    "answer": "if",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Indirect speech for questions uses 'if' or 'whether'."
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: 'I don't know ______ he will come or not.'",
+    "options": [
+      "if",
+      "that",
+      "whether",
+      "unless"
+    ],
+    "answer": "whether",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Whether' is used when there is an alternative (or not)."
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank: 'He is so weak ______ he cannot walk.'",
+    "options": [
+      "as",
+      "that",
+      "to",
+      "but"
+    ],
+    "answer": "that",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'So...that' expresses cause and effect."
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank: 'He is too weak ______ walk.'",
+    "options": [
+      "that",
+      "to",
+      "for",
+      "as"
+    ],
+    "answer": "to",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Too...to' implies a negative result."
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: '______ he was guilty, he was punished.'",
+    "options": [
+      "Therefore",
+      "As",
+      "Although",
+      "But"
+    ],
+    "answer": "As",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'As' (Reason) -> Because he was guilty."
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank: 'I shall not go ______ I am invited.'",
+    "options": [
+      "unless",
+      "if",
+      "lest",
+      "or"
+    ],
+    "answer": "unless",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Unless' means 'except if'."
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank: 'Bread ______ butter is a wholesome breakfast.'",
+    "options": [
+      "or",
+      "but",
+      "and",
+      "with"
+    ],
+    "answer": "and",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Connects two items to form a compound subject."
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: 'Though he is rich, ______ he is humble.'",
+    "options": [
+      "but",
+      "yet",
+      "still",
+      "and"
+    ],
+    "answer": "yet",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Though' is followed by 'yet' or a comma, never 'but'."
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: 'I would rather die ______ beg.'",
+    "options": [
+      "to",
+      "then",
+      "than",
+      "but"
+    ],
+    "answer": "than",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Would rather...than' indicates preference."
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank: 'Not only did he help her, ______ also dropped her home.'",
+    "options": [
+      "and",
+      "but",
+      "so",
+      "or"
+    ],
+    "answer": "but",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Not only...but also' is the pair."
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blank: 'We eat ______ we may live.'",
+    "options": [
+      "so",
+      "that",
+      "as",
+      "because"
+    ],
+    "answer": "that",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'That' indicates purpose here (so that we may live)."
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank: 'He failed ______ he did not study.'",
+    "options": [
+      "so",
+      "because",
+      "therefore",
+      "although"
+    ],
+    "answer": "because",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Introduces the reason."
+  },
+  {
+    "id": 29,
+    "question": "Fill in the blank: 'Do not go ______ I get ready.'",
+    "options": [
+      "until",
+      "unless",
+      "as",
+      "because"
+    ],
+    "answer": "until",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Until' refers to time (wait for the time I am ready)."
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank: 'As you sow, ______ shall you reap.'",
+    "options": [
+      "so",
+      "as",
+      "that",
+      "but"
+    ],
+    "answer": "so",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "Proverbial correlative: 'As...so'."
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: 'She is not ______ intelligent as her sister.'",
+    "options": [
+      "so",
+      "as",
+      "more",
+      "very"
+    ],
+    "answer": "so",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "In negative comparisons, 'not so...as' is often used (though 'not as...as' is also acceptable, 'so' is a common test target)."
+  },
+  {
+    "id": 32,
+    "question": "Fill in the blank: 'Give me a pen ______ a pencil.'",
+    "options": [
+      "nor",
+      "but",
+      "and",
+      "so"
+    ],
+    "answer": "and",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Joining two similar options."
+  },
+  {
+    "id": 33,
+    "question": "Fill in the blank: '______ he worked hard, he failed.'",
+    "options": [
+      "Since",
+      "As",
+      "Although",
+      "Because"
+    ],
+    "answer": "Although",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Contrast."
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank: 'He must cry, ______ he will die.'",
+    "options": [
+      "and",
+      "or",
+      "but",
+      "so"
+    ],
+    "answer": "or",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Or' implies 'otherwise'."
+  },
+  {
+    "id": 35,
+    "question": "Fill in the blank: 'It has been raining ______ I came here.'",
+    "options": [
+      "when",
+      "since",
+      "from",
+      "for"
+    ],
+    "answer": "since",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Since' as a conjunction of time (starting point)."
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank: 'I was reading ______ he was playing.'",
+    "options": [
+      "while",
+      "when",
+      "where",
+      "because"
+    ],
+    "answer": "while",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'While' contrasts two simultaneous actions."
+  },
+  {
+    "id": 37,
+    "question": "Fill in the blank: 'He is ______ a doctor nor a nurse.'",
+    "options": [
+      "either",
+      "neither",
+      "not",
+      "both"
+    ],
+    "answer": "neither",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "'Neither...nor'."
+  },
+  {
+    "id": 38,
+    "question": "Fill in the blank: 'Catch me ______ you can.'",
+    "options": [
+      "unless",
+      "if",
+      "until",
+      "so"
+    ],
+    "answer": "if",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Condition."
+  },
+  {
+    "id": 39,
+    "question": "Fill in the blank: 'The purse was lost ______ stolen.'",
+    "options": [
+      "or",
+      "but",
+      "nor",
+      "and"
+    ],
+    "answer": "or",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Alternative possibilities."
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank: 'We shall wait ______ the relief comes.'",
+    "options": [
+      "till",
+      "unless",
+      "as",
+      "because"
+    ],
+    "answer": "till",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Till' or 'Until' for time."
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank: 'He talks ______ he knows everything.'",
+    "options": [
+      "as if",
+      "so",
+      "but",
+      "that"
+    ],
+    "answer": "as if",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'As if' introduces an imaginary or doubtful manner."
+  },
+  {
+    "id": 42,
+    "question": "Fill in the blank: 'He is taller ______ I am.'",
+    "options": [
+      "then",
+      "than",
+      "to",
+      "from"
+    ],
+    "answer": "than",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Comparison."
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank: 'I found my watch ______ I had left it.'",
+    "options": [
+      "where",
+      "when",
+      "while",
+      "as"
+    ],
+    "answer": "where",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Conjunction of place."
+  },
+  {
+    "id": 44,
+    "question": "Fill in the blank: '______ you are sorry, I forgive you.'",
+    "options": [
+      "Since",
+      "Unless",
+      "Although",
+      "But"
+    ],
+    "answer": "Since",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Reason (Seeing that you are sorry...)."
+  },
+  {
+    "id": 45,
+    "question": "Fill in the blank: 'He did not succeed ______ his efforts.'",
+    "options": [
+      "despite",
+      "although",
+      "because",
+      "since"
+    ],
+    "answer": "despite",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Despite' is a prepositional connector (followed by a noun phrase 'his efforts'). 'Although' would require a clause ('Although he made efforts')."
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank: 'It is a long time ______ I saw him.'",
+    "options": [
+      "since",
+      "when",
+      "for",
+      "that"
+    ],
+    "answer": "since",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Time duration from past to present."
+  },
+  {
+    "id": 47,
+    "question": "Fill in the blank: 'Wait ______ I come.'",
+    "options": [
+      "till",
+      "unless",
+      "if",
+      "as"
+    ],
+    "answer": "till",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Time."
+  },
+  {
+    "id": 48,
+    "question": "Fill in the blank: '______ he is not rich, he is generous.'",
+    "options": [
+      "Though",
+      "As",
+      "Because",
+      "Since"
+    ],
+    "answer": "Though",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Contrast."
+  },
+  {
+    "id": 49,
+    "question": "Fill in the blank: 'Hardly had I reached ______ it began to rain.'",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "so"
+    ],
+    "answer": "when",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Hardly...when' correlative."
+  },
+  {
+    "id": 50,
+    "question": "Fill in the blank: 'I was annoyed ______ I kept quiet.'",
+    "options": [
+      "still",
+      "or",
+      "so",
+      "for"
+    ],
+    "answer": "still",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'Still' acts as 'nevertheless/yet' here."
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank: 'Just ______ he entered the room, the clock struck ten.'",
+    "options": [
+      "as",
+      "so",
+      "while",
+      "that"
+    ],
+    "answer": "as",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Just as' indicates exact simultaneous timing."
+  },
+  {
+    "id": 52,
+    "question": "Fill in the blank: 'You must work hard, ______ you will not pass.'",
+    "options": [
+      "otherwise",
+      "therefore",
+      "so",
+      "because"
+    ],
+    "answer": "otherwise",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Otherwise' acts as a conditional warning."
+  },
+  {
+    "id": 53,
+    "question": "Fill in the blank: 'This is the house ______ I was born.'",
+    "options": [
+      "where",
+      "when",
+      "that",
+      "which"
+    ],
+    "answer": "where",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Relative adverb of place acting as connector."
+  },
+  {
+    "id": 54,
+    "question": "Fill in the blank: 'He was punished ______ he was guilty.'",
+    "options": [
+      "for",
+      "but",
+      "so",
+      "or"
+    ],
+    "answer": "for",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'For' can be used as a conjunction meaning 'because' (formal usage)."
+  },
+  {
+    "id": 55,
+    "question": "Fill in the blank: 'Be just ______ fear not.'",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "answer": "and",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "Connecting two imperatives."
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank: 'He is slow ______ sure.'",
+    "options": [
+      "but",
+      "or",
+      "and",
+      "if"
+    ],
+    "answer": "but",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Contrast (slow vs sure)."
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank: 'Three ______ three make six.'",
+    "options": [
+      "and",
+      "or",
+      "but",
+      "so"
+    ],
+    "answer": "and",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Addition."
+  },
+  {
+    "id": 58,
+    "question": "Fill in the blank: '______ it rains, we shall stay at home.'",
+    "options": [
+      "If",
+      "Unless",
+      "Though",
+      "But"
+    ],
+    "answer": "If",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "easy",
+    "explanation": "Condition."
+  },
+  {
+    "id": 59,
+    "question": "Fill in the blank: 'He is ______ a doctor.'",
+    "options": [
+      "also",
+      "too",
+      "and",
+      "but"
+    ],
+    "answer": "also",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "medium",
+    "explanation": "'Also' is an adverbial connector."
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank: 'He tried hard; ______, he did not succeed.'",
+    "options": [
+      "however",
+      "therefore",
+      "moreover",
+      "consequently"
+    ],
+    "answer": "however",
+    "topic": "conjunctions",
+    "pattern_type": "2025_gap_filling",
+    "difficulty": "hard",
+    "explanation": "'However' introduces a contrast in a new sentence or after a semicolon."
+  }
+]
