@@ -856,3 +856,78 @@ body.compact-mode .all-questions-container {
     text-shadow: 0 0 30px rgba(255, 255, 255, 0.8), 0 0 50px rgba(255, 255, 255, 0.5);
   }
 }
+
+/* --- Add to styles.css --- */
+
+/* Question Paper Breakdown Styling */
+.topic-breakdown-container {
+  background: #f1f5f9;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #cbd5e1;
+}
+
+.topic-breakdown-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #64748b;
+  margin-bottom: 8px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.topic-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.topic-badge {
+  background: white;
+  border: 1px solid #94a3b8;
+  color: #334155;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* Result Breakdown Table Styling */
+.result-summary-container {
+  margin: 20px 0;
+  padding: 0 10px;
+}
+
+.result-breakdown-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.result-breakdown-table th, 
+.result-breakdown-table td {
+  padding: 10px 15px;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.result-breakdown-table th {
+  background-color: #f8fafc;
+  color: #64748b;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.result-breakdown-table tr:last-child td {
+  border-bottom: none;
+}
+
+.score-good { color: #10b981; font-weight: bold; }
+.score-avg { color: #f59e0b; font-weight: bold; }
+.score-bad { color: #ef4444; font-weight: bold; }

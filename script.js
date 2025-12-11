@@ -233,49 +233,66 @@ function saveTestHistory() {
 }
 
 // Show test history modal
+// Show test history modal
 function showTestHistory() {
   if (testHistory.length === 0) {
-    historyContent.innerHTML =
-      "<p>No test history available. Complete a test to see your history.</p>";
+    historyContent.innerHTML = "<p>No test history available. Complete a test to see your history.</p>";
   } else {
+    
+    // Generate Rows
+    const rows = testHistory.map((test, index) => {
+        // Generate Mini Text Summary for the Table
+        let breakdownText = "";
+        if (test.questionTopics) {
+            const stats = calculateTopicStats(test);
+            // Create a string like: "Tenses: 3/5, Modals: 2/2"
+            breakdownText = Object.entries(stats)
+                .map(([id, data]) => {
+                    // Shorten name if needed, or use full name
+                    const name = id === "unknown" ? "Gen" : getTopicName(id).split(' ')[0]; 
+                    return `<span style="font-size:11px; white-space:nowrap; background:#f1f5f9; padding:2px 5px; border-radius:4px; margin-right:4px; display:inline-block; margin-bottom:2px;">${name}: ${data.correct}/${data.total}</span>`;
+                })
+                .join(" ");
+        }
+
+        return `
+          <tr>
+              <td>
+                <div style="font-weight:600;">${test.date}</div>
+                <div style="font-size:12px; color:#64748b;">${test.topic === "all" ? "Mixed" : getTopicName(test.topic)}</div>
+              </td>
+              <td>
+                <div style="font-size:15px; font-weight:bold;">${test.score}/${test.total}</div>
+                <div style="margin-top:4px;">${breakdownText}</div>
+              </td>
+              <td>${calculateTestAccuracy(test)}%</td>
+              <td>
+                  <button class="review-btn" onclick="reviewTest(${index})">Review</button>
+                  <button class="review-btn" onclick="retakeTest(${index})" style="background: #9b59b6; margin-left: 5px;">Retake</button>
+              </td>
+          </tr>
+        `;
+    }).join("");
+
     historyContent.innerHTML = `
       <div style="margin-bottom: 15px;">
-          <p><strong>Total Tests Taken:</strong> ${testHistory.length}</p>
-          <p><strong>Average Score:</strong> ${calculateAverageScore()}%</p>
+          <p><strong>Total Tests:</strong> ${testHistory.length} | <strong>Avg Score:</strong> ${calculateAverageScore()}%</p>
       </div>
       <table class="history-table">
           <thead>
               <tr>
-                  <th>Date</th>
-                  <th>Topic</th>
-                  <th>Score</th>
-                  <th>Questions</th>
-                  <th>Accuracy</th>
+                  <th>Date / Type</th>
+                  <th>Score / Breakdown</th>
+                  <th>Acc.</th>
                   <th>Actions</th>
               </tr>
           </thead>
           <tbody>
-              ${testHistory
-                .map(
-                  (test, index) => `
-                  <tr>
-                      <td>${test.date}</td>
-                      <td>${getTopicName(test.topic)}</td>
-                      <td>${test.score}/${test.total}</td>
-                      <td>${test.questionIds.length}</td>
-                      <td>${calculateTestAccuracy(test)}%</td>
-                      <td>
-                          <button class="review-btn" onclick="reviewTest(${index})">Review</button>
-                          <button class="review-btn" onclick="retakeTest(${index})" style="background: #9b59b6; margin-left: 5px;">Retake</button>
-                      </td>
-                  </tr>
-              `
-                )
-                .join("")}
+              ${rows}
           </tbody>
       </table>
       <div style="text-align: center; margin-top: 15px;">
-          <button class="btn" onclick="clearTestHistory()" style="background: #e74c3c; color: white;">Clear History</button>
+          <button class="btn" onclick="clearTestHistory()" style="background: #e74c3c; color: white; width: auto; padding: 8px 20px;">Clear History</button>
       </div>
   `;
   }
@@ -373,21 +390,24 @@ function closeHistoryModal() {
 }
 
 // Review a specific test from history
+// Review a specific test from history
 async function reviewTest(testIndex) {
   const test = testHistory[testIndex];
-  
-  // Require questionTopics array
+
   if (!test.questionTopics) {
-    alert("This test was taken with an older version and cannot be reviewed. Please take a new test.");
+    alert("This test was taken with an older version and cannot be reviewed.");
     return;
   }
-  
+
   closeHistoryModal();
   showLoading();
 
-  // Load questions from all topics and create a lookup map by topic and id
-  const allQuestionsMap = {};
+  // 1. GENERATE STATS & TABLE
+  const stats = calculateTopicStats(test);
+  const breakdownTableHTML = generateBreakdownHTML(stats);
 
+  // 2. Load Question Data logic (Existing logic)
+  const allQuestionsMap = {};
   for (const topicConfig of config.topics) {
     const topicQuestions = await loadTopicQuestions(topicConfig.id);
     topicQuestions.forEach((q) => {
@@ -396,7 +416,6 @@ async function reviewTest(testIndex) {
     });
   }
 
-  // Get the actual questions in order using both topic and id
   const orderedQuestions = [];
   test.questionIds.forEach((questionId, index) => {
     const questionTopic = test.questionTopics[index];
@@ -406,31 +425,32 @@ async function reviewTest(testIndex) {
     if (question) {
       orderedQuestions.push(question);
     } else {
-      // Create a placeholder if question not found
       orderedQuestions.push({
         id: questionId,
-        question: `[Question ${questionId} - Data not available]`,
-        options: ["Data not loaded"],
-        answer: test.correctAnswers[index] || "Unknown",
-        explanation: "Original question data could not be loaded.",
-        marks: 1,
-        question_type: "unknown",
-        difficulty: "unknown",
+        question: `[Data missing for Q${questionId}]`,
+        options: [],
+        answer: test.correctAnswers[index],
+        explanation: "Data could not be loaded.",
         topic: questionTopic
       });
     }
   });
 
-  // Display the review
+  // 3. Render
   let reviewHTML = `
     <div class="question-card">
         <h2 style="color: #2c3e50; margin-bottom: 20px; text-align: center;">Test Review - ${test.date}</h2>
-        <p style="font-size: 18px; margin-bottom: 30px; text-align: center;">
-            Score: <strong style="color: #e74c3c">${test.score}/${test.total}</strong> | 
-            Topic: <strong>${getTopicName(test.topic)}</strong>
+        <p style="font-size: 18px; margin-bottom: 10px; text-align: center;">
+            Total Score: <strong style="color: #e74c3c">${test.score}/${test.total}</strong>
         </p>
+        
+        <!-- INSERT BREAKDOWN TABLE HERE -->
+        ${breakdownTableHTML}
+        
+        <hr style="border:0; border-top:1px solid #eee; margin: 20px 0;">
   `;
 
+  // Render Questions (Standard Logic)
   orderedQuestions.forEach((question, index) => {
     const userAnswer = test.userAnswers[index];
     const correctAnswer = test.correctAnswers[index];
@@ -443,53 +463,23 @@ async function reviewTest(testIndex) {
           <div class="question-header">
               <div class="question-number">Question ${index + 1}</div>
               <div class="question-meta">
-                  <span>${question.marks || 1} Mark${(question.marks || 1) > 1 ? "s" : ""}</span>
-                  <span class="">${question.difficulty || "Medium"}</span>
-                  <span>${question.question_type || "Multiple Choice"}</span>
-                  ${question.topic ? `<span>Topic: ${getTopicName(question.topic)}</span>` : ""}
+                  <span>${question.topic ? getTopicName(question.topic) : "General"}</span>
               </div>
           </div>
-          
           <div class="question-text">${question.question}</div>
-          
           <div class="options-container">
-              ${question.options
-                .map((option, optIndex) => {
+              ${question.options ? question.options.map((option, optIndex) => {
                   let optionClass = "option";
-                  if (option === correctAnswer) {
-                    optionClass += " correct";
-                  }
-                  if (option === userAnswer && !isCorrect) {
-                    optionClass += " incorrect";
-                  }
-                  return `
-                      <div class="${optionClass}">
-                          ${String.fromCharCode(65 + optIndex)}. ${option}
-                      </div>
-                  `;
-                })
-                .join("")}
+                  if (option === correctAnswer) optionClass += " correct";
+                  if (option === userAnswer && !isCorrect) optionClass += " incorrect";
+                  return `<div class="${optionClass}">${String.fromCharCode(65 + optIndex)}. ${option}</div>`;
+                }).join("") : "Options unavailable"}
           </div>
-          
           <div style="margin: 10px 0;">
-              <div>Your answer: <span style="color: ${isCorrect ? "#2ecc71" : "#e74c3c"}">${
-      userAnswer || "Not attempted"
-    }</span></div>
-              <div>Correct answer: <span style="color: #2ecc71">${correctAnswer}</span></div>
-              ${!isCorrect && userAnswer ? `<div>Status: <span style="color: #e74c3c">Incorrect</span></div>` : ""}
-              ${isCorrect ? `<div>Status: <span style="color: #2ecc71">Correct</span></div>` : ""}
-              ${!userAnswer ? `<div>Status: <span style="color: #f39c12">Not attempted</span></div>` : ""}
+              <div>Your answer: <span style="color: ${isCorrect ? "#2ecc71" : "#e74c3c"}">${userAnswer || "Not attempted"}</span></div>
+              <div>Correct: <span style="color: #2ecc71">${correctAnswer}</span></div>
           </div>
-          
-          ${
-            settings.showExplanations && question.explanation
-              ? `
-              <div class="explanation">
-                  <strong>Explanation:</strong> ${question.explanation}
-              </div>
-          `
-              : ""
-          }
+          ${settings.showExplanations && question.explanation ? `<div class="explanation"><strong>Explanation:</strong> ${question.explanation}</div>` : ""}
       </div>
   `;
   });
@@ -754,8 +744,35 @@ function updatePrintButton() {
 }
 
 // Render test with all questions
+// Render test with all questions
 function renderTest() {
+  // 1. Calculate Topic Breakdown
+  const topicCounts = {};
+  currentTest.forEach((q) => {
+    // If topic is missing in data, label as 'General'
+    const t = q.topic || "unknown";
+    topicCounts[t] = (topicCounts[t] || 0) + 1;
+  });
+
+  // 2. Generate HTML for badges
+  let breakdownHTML = `
+    <div class="topic-breakdown-container">
+        <span class="topic-breakdown-label">Question Paper Breakdown</span>
+        <div class="topic-badges">
+            ${Object.entries(topicCounts)
+              .map(([id, count]) => {
+                const name = id === "unknown" ? "General" : getTopicName(id);
+                return `<span class="topic-badge">${name}: ${count}</span>`;
+              })
+              .join("")}
+        </div>
+    </div>
+  `;
+
+  // 3. Render
   testContainer.innerHTML = `
+          ${breakdownHTML} 
+          
           <div class="all-questions-container" id="allQuestions">
               ${currentTest
                 .map(
@@ -864,27 +881,38 @@ function selectOption(questionIndex, optionIndex) {
 }
 
 // Submit test and show results
+// Submit test and show results
 function submitTest() {
   let score = 0;
   let totalMarks = 0;
+  
+  // Object to store stats per topic
+  const topicStats = {}; 
 
-  // Calculate score and total marks
+  // Calculate score, total marks, and topic breakdown
   currentTest.forEach((question, index) => {
     const questionMarks = question.marks || 1;
     totalMarks += questionMarks;
+    
+    // Initialize topic in stats if not exists
+    const tId = question.topic || "unknown";
+    if (!topicStats[tId]) {
+        topicStats[tId] = { correct: 0, total: 0, totalQuestions: 0 };
+    }
+    
+    topicStats[tId].totalQuestions++;
+    topicStats[tId].total += questionMarks;
 
     if (userAnswers[index] === question.answer) {
       score += questionMarks;
+      topicStats[tId].correct += questionMarks; // Add marks to topic correct count
     }
   });
 
-  // Check for perfect score
   const isPerfectScore = score === totalMarks;
-
-  // Get the selected topic from the form
   const selectedTopic = document.getElementById("topicSelect").value;
 
-  // Save to test history - include topic information
+  // Save to test history
   const testRecord = {
     id: Date.now(),
     date: new Date().toISOString().split("T")[0],
@@ -892,27 +920,63 @@ function submitTest() {
     score: score,
     total: totalMarks,
     questionIds: currentTest.map((q) => q.id),
-    questionTopics: currentTest.map((q) => q.topic), // Store topic for each question
+    questionTopics: currentTest.map((q) => q.topic),
     userAnswers: [...userAnswers],
     correctAnswers: currentTest.map((q) => q.answer),
   };
 
   testHistory.unshift(testRecord);
-  // Keep only last 50 tests
   if (testHistory.length > 50) {
     testHistory = testHistory.slice(0, 50);
   }
   saveTestHistory();
 
+  // Generate Topic Breakdown Table HTML
+  let tableRows = "";
+  Object.entries(topicStats).forEach(([id, stats]) => {
+      const name = id === "unknown" ? "General" : getTopicName(id);
+      const percentage = Math.round((stats.correct / stats.total) * 100);
+      let colorClass = "score-bad";
+      if(percentage >= 80) colorClass = "score-good";
+      else if(percentage >= 50) colorClass = "score-avg";
+
+      tableRows += `
+        <tr>
+            <td>${name}</td>
+            <td>${stats.correct} / ${stats.total}</td>
+            <td><span class="${colorClass}">${percentage}%</span></td>
+        </tr>
+      `;
+  });
+
   let resultsHTML = `
     <div class="question-card">
         <h2 style="color: #2c3e50; margin-bottom: 20px; text-align: center;">Test Results</h2>
-        <p style="font-size: 24px; margin-bottom: 30px; text-align: center;">
+        <p style="font-size: 24px; margin-bottom: 10px; text-align: center;">
             You scored <strong style="color: ${isPerfectScore ? '#10b981' : '#8b5cf6'}">${score}/${totalMarks}</strong>
             ${isPerfectScore ? '<br><span style="font-size: 18px; color: #10b981;">🎉 Perfect Score! 🎉</span>' : ''}
         </p>
+
+        <!-- New Breakdown Table -->
+        <div class="result-summary-container">
+            <h4 style="margin-bottom:10px; color:#64748b;">Topic Performance</h4>
+            <table class="result-breakdown-table">
+                <thead>
+                    <tr>
+                        <th>Topic</th>
+                        <th>Score</th>
+                        <th>Accuracy</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    ${tableRows}
+                </tbody>
+            </table>
+        </div>
+        <hr style="border:0; border-top:1px solid #eee; margin: 20px 0;">
   `;
 
+  // Render Detailed Question Review
   currentTest.forEach((question, index) => {
     const isCorrect = userAnswers[index] === question.answer;
 
@@ -949,7 +1013,6 @@ function submitTest() {
 
   testContainer.innerHTML = resultsHTML;
 
-  // Trigger confetti if perfect score
   if (isPerfectScore) {
     setTimeout(() => {
       showPerfectScoreCelebration();
@@ -1002,7 +1065,73 @@ function showPerfectScoreCelebration() {
 function printContent() {
   window.print();
 }
+// --- Helper: Calculate stats per topic for a specific test ---
+function calculateTopicStats(test) {
+  if (!test.questionTopics) return null; // Handle old data
 
+  const stats = {};
+
+  test.questionTopics.forEach((topicId, index) => {
+    // If topicId is missing/null, group as 'General'
+    const tId = topicId || "unknown";
+    
+    if (!stats[tId]) {
+      stats[tId] = { correct: 0, total: 0 };
+    }
+
+    // Assuming 1 mark per question for simplicity in history view
+    // (You can expand this if you save marks per question in history)
+    stats[tId].total += 1;
+
+    if (test.userAnswers[index] === test.correctAnswers[index]) {
+      stats[tId].correct += 1;
+    }
+  });
+
+  return stats;
+}
+
+// --- Helper: Generate the HTML Table for the breakdown ---
+function generateBreakdownHTML(stats) {
+  if (!stats) return "";
+
+  let tableRows = "";
+  
+  Object.entries(stats).forEach(([id, data]) => {
+    const name = id === "unknown" ? "General" : getTopicName(id);
+    const percentage = Math.round((data.correct / data.total) * 100);
+    
+    let colorClass = "score-bad"; // Red
+    if (percentage >= 80) colorClass = "score-good"; // Green
+    else if (percentage >= 50) colorClass = "score-avg"; // Orange
+
+    tableRows += `
+      <tr>
+          <td>${name}</td>
+          <td>${data.correct} / ${data.total}</td>
+          <td><span class="${colorClass}">${percentage}%</span></td>
+      </tr>
+    `;
+  });
+
+  return `
+    <div class="result-summary-container">
+        <h4 style="margin-bottom:10px; color:#64748b;">Topic Performance</h4>
+        <table class="result-breakdown-table">
+            <thead>
+                <tr>
+                    <th>Topic</th>
+                    <th>Score</th>
+                    <th>Accuracy</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${tableRows}
+            </tbody>
+        </table>
+    </div>
+  `;
+}
 // Close modal when clicking outside
 window.onclick = function (event) {
   if (event.target === historyModal) {
